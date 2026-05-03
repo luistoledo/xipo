@@ -6,11 +6,13 @@
 body {
     background-color: #ccc;
     /* background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAIAAAD91JpzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTGKCBbOAAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAACAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAGAAAAABAAAAYAAAAAEAAABQYWludC5ORVQgNS4xLjExAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAAAGNdRzso9yOwAAABVJREFUGFcFwQEBAAAAgBD/TxdQqTAp5AX7Q4hkwAAAAABJRU5ErkJggg=='); */
-    background-image: url('./tile8.png');
+    background-image: url('./tile11.png');
     background-repeat: repeat;
     user-select: none;
     font-family: 'Courier Pixel Mono';
-    zoom: 1.2; /* Scales to 150% */
+    border: 2px solid #5f574f;
+    margin: 0px;
+    zoom: 1.4; /* Scales to 150% */
 }
 .menu-bar {
     position: fixed;
@@ -19,50 +21,58 @@ body {
     right: 0;
     height: 30px;
     background-color: white;
-    color: black;
+    color: #5f574f;
     display: flex;
     align-items: center;
     padding: 0 10px;
     border-radius: 7px 7px 0 0;
-    border-bottom: 1px solid black;
+    border: 2px solid #5f574f;
 }
 .menu-bar .apple-logo {
     width: 20px;
     height: 20px;
     background-color: lightblue;
     border-radius: 50%;
-    margin-right: 10px;
+    margin-right: 20px;
     cursor: pointer;
 }
 .menu-bar .menu-item {
     margin-right: 20px;
     cursor: pointer;
+    font-size: 0.9em;
 }
 
 .window {
     position: absolute;
     top: 50px;
     left: 50px;
-    width: 300px;
-    height: 200px;
-    background-color: white;
-    border: 1px solid black;
+    width: 700px;
+    height: 500px;
+    /* background-color: white; */
+    background-color: #FFF1E8;
+    border: 2px solid #5f574f;
     border-radius: 5px;
     box-shadow: 5px 5px 0px #333333aa;
 }
 .window .content {
     padding: 5px;
     user-select: text;
+    color: #5f574f;
 }
 .window .title-bar {
     height: 30px;
-    background-color: black;
+    background-color: #332c34;
     color: white;
     display: flex;
     align-items: center;
     padding: 0 10px;
-    border-radius: 4px 4px 0 0;
+    border-radius: 3px 3px 0 0;
     cursor: pointer;
+}
+.window .title-bar .title {
+    align-self: normal;
+    width: 90%;
+    text-align-last: center;
 }
 .window .title-bar .close-button {
     padding: 2px;
@@ -105,7 +115,7 @@ body {
     transform: translateX(-50%);
     font-size: 10px;
     color: black;
-    background-color: #ccccccaa;
+    background-color: #ccccccee;
     padding: 0 1px 0 1px;
     border-radius: 2px;
 }
