@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Courier Pixel Mono';
+    src: url('./courier-pixel-monospaced.otf.woff2') format('woff2');
+}
+
+body {
+    background-color: #ccc;
+    /* background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAIAAAD91JpzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAZdEVYdFNvZnR3YXJlAFBhaW50Lk5FVCA1LjEuMTGKCBbOAAAAuGVYSWZJSSoACAAAAAUAGgEFAAEAAABKAAAAGwEFAAEAAABSAAAAKAEDAAEAAAACAAAAMQECABEAAABaAAAAaYcEAAEAAABsAAAAAAAAAGAAAAABAAAAYAAAAAEAAABQYWludC5ORVQgNS4xLjExAAADAACQBwAEAAAAMDIzMAGgAwABAAAAAQAAAAWgBAABAAAAlgAAAAAAAAACAAEAAgAEAAAAUjk4AAIABwAEAAAAMDEwMAAAAAAGNdRzso9yOwAAABVJREFUGFcFwQEBAAAAgBD/TxdQqTAp5AX7Q4hkwAAAAABJRU5ErkJggg=='); */
+    background-image: url('./tile8.png');
+    background-repeat: repeat;
+    user-select: none;
+    font-family: 'Courier Pixel Mono';
+    zoom: 1.2; /* Scales to 150% */
+}
+.menu-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 30px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    border-radius: 7px 7px 0 0;
+    border-bottom: 1px solid black;
+}
+.menu-bar .apple-logo {
+    width: 20px;
+    height: 20px;
+    background-color: lightblue;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.menu-bar .menu-item {
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.window {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    box-shadow: 5px 5px 0px #333333aa;
+}
+.window .content {
+    padding: 5px;
+    user-select: text;
+}
+.window .title-bar {
+    height: 30px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    border-radius: 4px 4px 0 0;
+    cursor: pointer;
+}
+.window .title-bar .close-button {
+    padding: 2px;
+    width: 10px;
+    height: 10px;
+    background-color: lightcoral;
+    border-radius: 20%;
+    margin-right: 5px;
+}
+.window .title-bar .minimize-button {
+    padding: 2px;
+    width: 10px;
+    height: 10px;
+    background-color: lightyellow;
+    border-radius: 20%;
+    margin-right: 5px;
+}
+.window .title-bar .maximize-button {
+    padding: 2px;
+    width: 10px;
+    height: 10px;
+    background-color: lightgreen;
+    border-radius: 20%;
+    margin-right: 10px;
+}
+
+.desktop-icon {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 5px;
+    cursor: pointer;
+}
+.desktop-icon .icon-label {
+    position: absolute;
+    top: 35px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 10px;
+    color: black;
+    background-color: #ccccccaa;
+    padding: 0 1px 0 1px;
+    border-radius: 2px;
+}
