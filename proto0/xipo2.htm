@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html data-lt-installed="true"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+
+    <title>Xogo Imaxinado Por Ordenador</title>
+
+    <style>
+        html {
+            display: flex;
+            justify-content: center;
+            font-family: 'Courier New', monospace;
+            background-image: url('assets/tile3.png');
+            background-size: repeat;
+        }
+        body {
+            /* width: 60%; */
+            min-width: 600px;
+            user-select: none;
+        }
+
+        .window {
+            position: absolute;
+            top: 100px;
+            /* left: 50px; */
+            width: 700px;
+            height: 500px;
+            /* background-color: white; */
+            background-color: #fcf9f6;
+            border: 2px solid #5f574f;
+            border-radius: 5px;
+            box-shadow: 5px 5px 0px #333333aa;
+        }
+        .window #content {
+            padding: 5px;
+            user-select: text;
+            color: #5f574f;
+            padding: 10px;
+            white-space: break-spaces;
+            user-select: text;
+        }
+
+        .fade-in-text {
+            color: transparent;
+            background: linear-gradient(to right, #5f574f 1%, rgba(0, 0, 0, 0.1) 100%);
+            background-clip: text;
+            opacity: 0;
+            animation: fadeIn 1s forwards;
+        }
+        @keyframes fadeIn {
+            to {
+                color: 5f574f;
+                opacity: 1;
+                background: linear-gradient(to right, #5f574f 100%, rgba(0, 0, 0, 0.1) 100%);
+                background-clip: text;
+            }
+        }
+
+        .window .title-bar {
+            height: 30px;
+            background-color: #5b4e5d;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+            border-radius: 3px 3px 0 0;
+            cursor: pointer;
+        }
+        .window .title-bar .title {
+            align-self: center;
+            width: 100%;
+            text-align-last: center;
+        }
+        .window .title-bar .close-button {
+            padding: 2px;
+            width: 10px;
+            height: 10px;
+            background-color: lightcoral;
+            border-radius: 20%;
+            margin-right: 5px;
+            border: 1px solid transparent;
+        }
+        .window .title-bar .close-button:hover {
+            background-color: coral;
+            border: 1px solid crimson;
+        }
+
+        .window .menu-bar {
+            height: 30px;
+            background-color: #97859d;
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 0 10px;
+        }
+        .window .menu-bar ul {
+            display: flex;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            align-self: baseline;
+        }
+        .window .menu-bar ul li {
+            margin-right: 20px;
+            cursor: pointer;
+            padding: 6px;
+        }
+        .window .menu-bar ul li:hover {
+            background-color: #5b4e5d;
+        }
+
+
+        marquee {
+            color: gray;
+        }
+
+        .app-icon {
+            position: absolute;
+            top: 20%;
+            left: 50%;
+            width: 50px;
+            height: 50px;
+            background-color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: -100;
+        }
+        .app-icon:hover {
+            border: 1px solid #5f574f;
+            /* background-color: #c4b4c7; */
+        }
+        .app-icon .app-label {
+            /* border: 1px solid #5f574f; */
+            position: absolute;
+            top: 55px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 12px;
+            color: black;
+            background-color: #ccccccee;
+            padding: 0 1px 0 1px;
+            border-radius: 4px;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="window">
+        <div class="title-bar">
+            <div class="title">pokemon-ir.txt</div>
+            <div class="close-button" onclick="window.close()"></div>
+        </div>
+        <div class="menu-bar">
+            <ul>
+                <li>Xogo</li>
+                <li>Mediado</li>
+                <li>Por</li>
+                <li>Texto</li>
+            </ul>
+        </div>
+        <div id="content"></div>
+    </div>
+
+    <div class="app-icon" onclick="openPoke()" >
+        <div class="app-label">poke.txt</div>
+    </div>
+
+    <script src="markov.js"></script>
+    <script>
+        const corpus = 'corpus/pokemon-rojo.txt';
+        const markov = new Markov('', 15);
+        let prefix = `Ruta ${Math.random().toString()[2]} `;
+        markov.debug = true;
+        let generationInterval = null;
+
+        async function loadCorpus() {
+            return fetch(corpus).then(response => {
+                response.text().then(text => {
+                    markov.train(text, () => {
+                        console.log('Corpus trained');
+                    });
+                }); 
+            });
+        }
+
+        function generateText() {
+            document.querySelector('#content').innerHTML = '';
+            let prediction = markov.predict(700, { start: prefix, alpha: 1 });
+            animateText(prediction, 500, document.querySelector('#content'), () => {
+                document.querySelector('#content').innerHTML += '...';
+            });
+        }
+
+        function gentext() {
+            prefix = `Ruta ${Math.random().toString()[2]} `;
+
+            fetch(corpus).then(response => {
+                console.log('Corpus loaded');
+                response.text().then(text => {
+                    markov.train(text, () => {
+                        console.log('Corpus trained');
+                        let prediction = markov.predict(700, { start: prefix, alpha: 1 });
+                        animateText(prediction, 500, document.querySelector('#content'), () => {
+                            document.querySelector('#content').innerHTML += '...';
+                        });
+                    });
+                });        
+            });
+        }
+
+        // loadCorpus().then(() => {
+        //     console.log('Corpus loaded');
+        //     generateText();
+        // });
+        gentext();
+
+        function animateText(text, delay = 100, element = document.querySelector('div'), callback = null) {
+            generationInterval && clearInterval(generationInterval);
+            let words = text.split(' ');
+            let index = 0;
+            generationInterval = setInterval(() => {
+                if (index < words.length) {
+                    // element.textContent += words[index] + ' ';
+                    element.innerHTML = words.slice(0, index).join(' ');
+                    element.innerHTML += ' <span class="fade-in-text">' + words[index] + '</span>';
+                    index++;
+                } else {
+                    callback && callback();
+                }
+            }, delay);
+        }
+    </script>
+
+    <script>
+        const windowElement = document.querySelector('.window');
+        const windowTitle = windowElement.querySelector('.title-bar');
+        const closeButton = document.querySelector('.close-button');
+
+        let isDragging = false;
+        let offsetX, offsetY;
+
+        //////////////////////////////////////////////////////////
+        // Window movement
+        windowTitle.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            offsetX = e.clientX - windowElement.offsetLeft;
+            offsetY = e.clientY - windowElement.offsetTop;
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                windowElement.style.left = `${e.clientX - offsetX}px`;
+                windowElement.style.top = `${e.clientY - offsetY}px`;
+            }
+        });
+
+        document.addEventListener('mouseup', () => {
+            isDragging = false;
+        });
+
+        //////////////////////////////////////////////////////////
+        // window control buttons
+        closeButton.addEventListener('click', () => {
+            // animateResizeWindow({ top: windowElement.offsetHeight / 2, left: windowElement.offsetTop / 2, width: 0, height: 0 }, 300);
+            windowElement.style.display = 'none';
+        });
+
+
+        //////////////////////////////////////////////////////////
+        // open window
+        function openPoke() {
+            windowElement.style.display = 'block';
+        }
+    </script>
+
+    <script>
+        const menuButtons = document.querySelector('.menu-bar').querySelectorAll('li');
+        menuButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                generateText();
+            });
+        });
+
+    </script>
+
+
+</body></html>

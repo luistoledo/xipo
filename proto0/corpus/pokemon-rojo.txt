@@ -1,0 +1,2750 @@
+Introducción
+
+Al iniciar el juego, antes de nada, te explicarán el uso de los botones por orden de importancia. He aquí la explicación de cada botón:
+Panel de control 	Botón A 	Botón B 	Start 	Select 	Botón L/Botón R
+Mover al protagonista de la historia. Seleccionar opciones. 	Confirmar opciones, curiosear cosas, chatear, leer texto e interaccionar en general. 	Retroceder, cancelar opciones y salir de distintos menús. 	Abrir el menú. 	Cambiar objetos de lugar y usar el que haya registrado. 	Acceder al sistema de AYUDA.
+
+Después de la explicación, y antes de darte la bienvenida al mundo Pokémon, te darán un texto informativo. "Vivirás aventuras de las que serás protagonista, ayudarás a los demás, y crecerás como persona...". Son algunas de las cosas que deberás saber antes de emprender tu viaje.
+
+Será entonces cuando el Profesor Oak te dará la bienvenida al mundo Pokémon. Durante la bienvenida, deberás elegir entre si eres chico o chica, introducirás tu nombre y conocerás a tu rival, al que también deberás ponerle un nombre. Después, podrás iniciar la aventura en el mundo Pokémon.
+Pueblo Paleta
+Pueblo Paleta.
+
+Pueblo Paleta.
+
+Empiezas decidiendo si eres chico o chica, lo cual no afectará en lo absoluto a la dinámica durante el juego. Una vez iniciada la partida, se podrá retirar la poción en el PC. Hecho esto, podemos retirarnos hacia el piso de abajo, donde nuestra madre aguarda. Seguidamente, salimos de casa y nos dirigimos a la salida de la ciudad, tomando el camino de arriba (norte). El Profesor Oak nos detendrá y nos llevará a darnos nuestro primer Pokémon. Nuestro rival (Azul) obtendrá aquel que posea el tipo que es fuerte contra el que nosotros escogimos.
+Elige a tu Pokémon
+Bulbasaur 	Charmander 	Squirtle
+Bulbasaur
+Tipo planta Planta Tipo veneno Veneno 	Charmander
+Tipo fuego Fuego 	Squirtle
+Tipo agua Agua
+Placaje 	Arañazo 	Placaje
+Gruñido 	Gruñido 	Látigo
+Nivel 5
+
+Este es un paso importante, pues será tu primer Pokémon. Puedes elegir entre Bulbasaur, Squirtle o Charmander. Tu rival, para llevarte ventaja, como está mencionado arriba escogerá el Pokémon de tipo eficaz al tuyo. Además, dependiendo del que elijas, aparecerán Suicune, Entei o Raikou a lo largo del juego, también escogidos por el tipo opuesto:
+
+    Si eliges a Bulbasaur, tu rival escogerá a Charmander. Bulbasaur es el más fácil de entrenar y además gana en los dos primeros gimnasios y en el último gimnasio también y no le afecta mucho el tercero. Tiene debilidad al gimnasio de Sabrina debido a que Bulbasaur es también tipo veneno y tiene desventaja ante los Pokémon de tipo psíquico y tiene desventaja en el séptimo, que es de tipo fuego. Además, Entei aparecerá por las rutas de Kanto de forma aleatoria en tu juego.
+
+    Si eliges a Squirtle, tu rival escogerá a Bulbasaur. Es la forma intermedia en cuanto entrenamiento y gana en el primer gimnasio, el séptimo y el octavo. Tiene debilidad al tercer y cuarto gimnasio. Además, Raikou aparecerá por las rutas de Kanto de forma aleatoria en tu juego.
+
+    Si eliges a Charmander, tu rival escogerá a Squirtle. Es el más difícil de entrenar y te será difícil ganar en los dos primeros gimnasios, tercero, séptimo y octavo. Aunque no para el primero si aprendió garra metal. Tiene ventaja en el cuarto gimnasio, y en el de Sabrina, le será fácil derrotar a Venomoth y para los otros no tendrá mucho problema. Además, Suicune aparecerá por las rutas de Kanto de forma aleatoria en tu juego.
+    Los Pokémon iniciales solo pueden ser conseguidos aquí y no se pueden encontrar en estado salvaje.
+
+Después de que tú y tu rival tengáis vuestro primer Pokémon, sal del laboratorio. Antes de hacerlo, tendrás una batalla contra tu rival. Si cogiste la poción del PC, te será muy útil si te encuentras en un aprieto.
+Entrenador 	Bulbasaur 1 	Squirtle 2 	Charmander 3
+Rival 	Bulbasaur
+Tipo planta Planta Tipo veneno Veneno 	Squirtle
+Tipo agua Agua 	Charmander
+Tipo fuego Fuego
+Rival 	Nivel 5
+
+Después de la batalla, ve hacia afuera y dirígete hacia la ruta 1.
+Ruta 1
+
+Avanzando por la pequeña ruta 1, puedes pedirle al comerciante de la izquierda una poción. También tendrás la oportunidad de tener tu propio encuentro con un Pokémon salvaje y poder atraparlo. Desde esta ruta llegarás a Ciudad Verde.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Rattata
+Pidgey
+Tipo normal NormalTipo volador Volador 	Rattata
+Tipo normal Normal
+2-5 	2-4
+
+Es recomendable capturar a un Pidgey y aprovecha la ruta para subir a tu inicial a los niveles 8-10.
+Ciudad Verde
+Ciudad Verde.
+
+Ciudad Verde.
+Tienda Pokémon Objeto 	Precio
+Poké Ball 	200Pokéyen
+Poción 	300Pokéyen
+Antídoto 	100Pokéyen
+Antiparaliz 	200Pokéyen
+
+Esta es la primera ciudad. En ella puedes encontrar: un centro Pokémon, una tienda Pokémon, un Gimnasio Pokémon, varias casas, y el camino hacia la Ruta 22.
+
+De momento no puedes ir a la parte norte porque un viejo que no se ha tomado el café está tirado en el suelo. Puedes dirigirte primero hacia la tienda Pokémon. Cuando entres, el propietario te dará un correo que debes entregar a Oak, así que tendrás que volver a Pueblo Paleta. Cuando estés en el laboratorio Pokémon, habla con el profesor Oak para darle el correo. Además, dará a ti y a tu rival un regalo: la Pokédex. También les dará 5 Poké Balls.
+
+Ahora puedes ir a casa de tu rival, y hablar con Dalia. Dalia te dará un Mapa, que te sirve para saber dónde te encuentras.
+
+Vuelve a Ciudad Verde. Ahora, tienes algunas cosas pendientes que hacer. La primera es dirigirte al Centro Pokémon y subir la segunda planta. Allí, Teala, la encargada del sistema inalámbrico te explicará el funcionamiento de este sistema, cómo funciona la Sala Unión y el Centro de Cambio. Cuando acabe de explicar, bajas del primer piso del Centro Pokémon y sales. Se recomienda que captures algunos Pokémon y que los entrenes para dirigirte a la Ruta 22.
+
+En esta ciudad encontrarás los siguientes Pokémon pescando o surfeando:
+Psyduck 	Slowpoke 	Magikarp 	Poliwag 	Goldeen 	Poliwhirl 	Gyarados
+Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Magikarp
+Tipo agua Agua 	Poliwag
+Tipo agua Agua 	Goldeen
+Tipo agua Agua 	Poliwhirl
+Tipo agua Agua 	Gyarados
+Tipo agua AguaTipo volador Volador
+15-35 	5-15 	5-25 	5-15 	20-30 	15-25
+Ruta 22
+
+Esta ruta comunica Ciudad Verde con la Liga Pokémon.
+
+En la ruta 22 estarán los siguientes Pokémon salvajes en la hierba:
+Rattata 	Spearow 	Mankey
+Rattata
+Tipo normal Normal 	Spearow
+Tipo normal Normal Tipo volador Volador 	Mankey
+Tipo lucha Lucha
+2-5 	3-5 	2-5
+
+También si surfeamos, encontramos a Psyduck y Slowpoke, pero esta MO no se puede obtener hasta más adelante. Además, pescando se encuentran a Magikarp, Poliwag, Goldeen, Poliwhirl y Gyarados. Sin embargo, las cañas necesarias para pescar también se obtienen más adelante.
+
+Además, al pasar por ella, tendrás un segundo encuentro con tu rival. Si has entrenado tus Pokémon no tendrás dificultad alguna en ganar la batalla, puesto que de momento, por ser tu segunda lucha con él, sus Pokémon estarán en un nivel bajo.
+Entrenador 	Pidgey 	Bulbasaur 1 	Squirtle 2 	Charmander 3
+Rival 	Pidgey
+Tipo normal NormalTipo volador Volador 	Bulbasaur
+Tipo planta PlantaTipo veneno Veneno 	Squirtle
+Tipo agua Agua 	Charmander
+Tipo fuego Fuego
+Rival 	Nivel 9
+
+Como no puedes entrar todavía en la Liga Pokémon por falta de medallas, vuelve a Ciudad Verde, hacia la parte norte. Si hablas con el viejo, te hará una demostración de cómo se captura un Pokémon y además te dará una Poké Tele, que es un objeto clave. Tampoco puedes entrar en el gimnasio Pokémon porque las puertas están cerradas. Ve hacia la Ruta 2.
+Ruta 2
+
+Esta es la segunda ruta. Pone en comunicación Ciudad Verde con Ciudad Plateada, pasando antes por el Bosque Verde. Los Pokémon salvajes de esta ruta siguen siendo de nivel bajo. También podrás encontrar algún Caterpie o Weedle, pero no te molestes en capturarlos, pues en el Bosque Verde abundan.
+
+Antes de tu primer reto, es recomendable que compres en la Tienda Pokémon antídotos para curar el envenenamiento, y algunas Poké Balls, por si quieres capturar algún Pokémon bicho, que te ayudarán algo en vencer próximamente a Brock. Los Pokémon de la ruta 2 son:
+Caterpie 	Weedle 	Pidgey 	Rattata
+Caterpie
+Tipo bicho Bicho 	Weedle
+Tipo bicho Bicho Tipo veneno Veneno 	Pidgey
+Tipo normal Normal Tipo volador Volador 	Rattata
+Tipo normal Normal
+4-5 	2-5
+Bosque Verde
+Bosque Verde.
+
+Bosque Verde.
+
+Esta es tu primera prueba como entrenador Pokémon. El Bosque Verde es grande y un tanto lioso. Su aspecto casi se asemeja a un laberinto, pero no te preocupes. Tu objetivo es llegar a la salida para poder ir a la Ciudad Plateada, donde se encuentra tu primer Gimnasio Pokémon. Por el camino te encontrarás con 5 entrenadores: si quieres entrenar es recomendable no evitar a ninguno. Si hieren o envenenan a tus Pokémon solo tienes que volver al Centro Pokémon o usar una poción o antídoto, respectivamente.
+
+Los Pokémon salvajes de esta zona son:
+Caterpie 	Weedle 	Metapod 	Kakuna 	Pikachu
+Caterpie
+Tipo bicho Bicho 	Weedle
+Tipo bicho Bicho Tipo veneno Veneno 	Metapod
+Tipo bicho Bicho 	Kakuna
+Tipo bicho Bicho Tipo veneno Veneno 	Pikachu
+Tipo eléctrico Eléctrico
+3-5 	4-6 	3-5
+
+Si quieres capturar algún Pokémon bicho del bosque se recomienda capturar un Weedle o Caterpie en vez de un Metapod o un Kakuna, ya que entonces no aparecerá la información de la preevolución en la Pokédex, además de que solo conocen fortaleza, con lo cual es mejor lo dicho anteriormente ya que si son evolucionados a partir de sus preevoluciones tendrán el ataque dañino que tenía su preevolución, ya que fortaleza solo aumenta la defensa y no hace daño.
+
+Nota: cuando cruzas la Cueva Diglett (más adelante) o haces Corte desde Ciudad Plateada, hay una casa donde hacen un intercambio; un Mr. Mime por tu Abra (el nivel de Mr. Mime depende del nivel en que entregaste el Abra).
+
+Nota 2: cuando salga un Pikachu, bájale la energía con cuidado, ya que es difícil que salgan.
+
+Nota 3: en la versión Rojo Fuego será más fácil encontrar a Caterpie y a Weedle que en la versión verde hoja.
+Bosque Verde
+
+Cuando te encuentres en la entrada del Bosque Verde, aparecerá un hombre mirando un árbol. Ponte a su lado izquierdo y coge el Antídoto que está en el árbol. Dirígete hacia la izquierda y después hacia arriba, donde encontrarás una Poké Ball cerca de ti. Vvuelve a la entrada, pero ve a la derecha, para encontrar una Poción. Luego, ve hacia arriba y coge un Antídoto. Sigue un poco hacia arriba y después a la derecha: te encontrarás en un pequeño laberinto con bastantes zonas verdes. Lo último por hacer es recoger una Poción en la parte baja. Limítate a seguir el laberinto y, al final, ve todo recto.
+
+La salida está en dirección noroeste. Cuando llegues a ella, sal por la casa y volverás al final de la Ruta 2, que te conducirá a Ciudad Plateada.
+Ciudad Plateada
+Ciudad Plateada.
+
+Ciudad Plateada.
+Tienda Pokémon Objeto 	Precio
+Poké Ball 	200Pokéyen
+Poción 	300Pokéyen
+Antídoto 	100Pokéyen
+Antiparaliz 	200Pokéyen
+Despertar 	250Pokéyen
+Antiquemar 	250Pokéyen
+Cuerda huida 	550Pokéyen
+Repelente 	350Pokéyen
+
+Después de haber cruzado el Bosque Verde, te encuentras en Ciudad Plateada. En ella hay un Museo de la Ciencia, ¿por qué no vas a verlo? Sólo vale 50Pokéyen. Además, allí encontrarás valiosos datos de fósiles en la primera planta, y en la segunda, verás algo sobre el espacio. A la izquierda del museo, en la parte de suelo de color claro, hay una Poké Ball escondida.
+
+Hay algunas casas, puedes entrar en ellas, aunque en ninguna hay nada interesante. También hay un gimnasio Pokémon. Si intentas irte a la Ruta 3, un chico te dirá que el líder está buscando entrenadores para luchar. Puesto que tienes poco que hacer en esta ciudad, deberás entrar en el Gimnasio; antes, si tus Pokémon no están en forma, llévalos al Centro Pokémon. Puedes también comprar algunas Pociones en la tienda Pokémon.
+Gimnasio Pokémon de Ciudad Plateada
+
+En el Gimnasio Pokémon, aparte del líder, sólo hay un entrenador. Es recomendable que luches con él y no vayas directamente a luchar con Brock, pues de ésta forma ganarás más puntos de experiencia.
+Entrenador 	Geodude 	Sandshrew
+Campista 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Sandshrew
+Tipo tierra Tierra
+Campista 	Nivel 10 	Nivel 11
+El líder
+
+Cuando derrotes al campista, podrás luchar contra Brock. Si tu primer Pokémon fue Bulbasaur o Squirtle, la batalla estará ganada, sin embargo, si elegiste a Charmander, lo tendrás mucho más complicado. Aun así, si enseñas a Charmander al nivel 13 garra metal será más fácil y además si lo acompañas de un Pokémon como Mankey o Butterfree (la forma evolucionada de Metapod) lo tendrás más fácil, pero ten cuidado con la técnica tumba rocas de Onix, es muy poderosa. ¡Ánimo, gánale a Brock!
+Entrenador 	Geodude 	Onix
+Líder Brock 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Onix
+Tipo roca RocaTipo tierra Tierra
+Líder Brock 	Nivel 12 	Nivel 14
+
+Si vences al líder, obtendrás la medalla Roca, la MT39 Tumba Rocas, y el tubo MT/MO, además, podrás usar la MO Destello. El tubo MT/MO es un objeto clave en el que irás guardando todas las MT y MO que vayas encontrando. ¡Enhorabuena, has ganado tu primera medalla!
+
+Después del combate ve al Centro Pokémon. Luego, puedes dirigirte al Museo Pokémon si todavía no lo has hecho. Tu próximo destino es: Mt. Moon.
+Ruta 3
+
+La ruta 3 está a la derecha de Ciudad Plateada. Puesto que ahora no está el chico que te hacía ir al Gimnasio, puedes pasar libremente. En su lugar está el ayudante del profesor Oak, que te dará unas deportivas acompañadas de una notita de tu madre.
+
+Las deportivas se usan con el botón Botón B, y son más rápidas que ir a pie.
+
+Durante el camino por la Ruta 3, deberás luchar con nada más y nada menos que con 8 entrenadores, y dos de ellos con Pokémon en el nivel 14. En el "piso" en donde esta el chico que tiene un Spearow, si aprietas el botón Botón A un paso arriba del entrenador, encontrarás una Baya Aranja. Así, ganarás experiencia y dinero. Si ves que puedes debilitarte, vuelve a Ciudad Plateada y lleva a tus Pokémon al Centro Pokémon.
+
+Los Pokémon salvajes que podrás capturar son:
+Pidgey 	Spearow 	Nidoran♀ 	Nidoran♂ 	Jigglypuff 	Mankey
+Pidgey
+Tipo normal Normal Tipo volador Volador 	Spearow
+Tipo normal Normal Tipo volador Volador 	Nidoran♀
+Tipo veneno Veneno 	Nidoran♂
+Tipo veneno Veneno 	Jigglypuff
+Tipo normal Normal 	Mankey
+Tipo lucha Lucha
+6-7 	6-8 	6-7 	3-7 	7
+
+Después de atravesar toda la Ruta 3 te encontrarás en la siguiente, la Ruta 4.
+Ruta 4
+
+¡Puesto que has trabajado mucho, te mereces un descanso! En la Ruta 4 hay un Centro Pokémon. Sana a tus Pokémon, y antes de salir, puedes comprar un Magikarp (nivel 5) por 500 si hablas con el señor que está a la izquierda de la enfermera Joy. También, si curioseas un poco y hablas con el señor que está sentado leyendo el periódico, te enterarás de que el Team Rocket está atacando a los ciudadanos de Celeste, ¿qué tramarán?
+Rattata 	Spearow 	Mankey 	Ekans 	Sandshrew
+Rattata
+Tipo normal Normal 	Spearow
+Tipo normal Normal Tipo volador Volador 	Mankey
+Tipo lucha Lucha 	Ekans
+Tipo veneno Veneno 	Sandshrew
+Tipo tierra Tierra
+8 - 12 	8 - 12 	10 - 12 	6 - 12 	6 - 12
+
+
+Sal del Centro Pokémon. A la izquierda de éste verás tres rocas. Si te sitúas al lado izquierdo de la roca derecha y miras hacia la izquierda, le das al botón "A", encontrarás una Baya Caquic escondida en el suelo. Si estás listo para tu siguiente reto, entra en el Mt. Moon. Si no, puedes entrenar a tus Pokémon o volver incluso a Ciudad Plateada para comprar algún objeto...
+Ruta 4: objetos ocultos.
+
+Ruta 4: objetos ocultos.
+Mt. Moon
+
+En el Mt. Moon encontrarás muchos objetos, entrenadores, escaleras, y si tienes suerte, hasta un Clefairy, que es bastante raro en esta cueva, encontrarás también a los Pokémon Paras, Geodude y Zubat.
+
+En Mt. Moon encontrarás los siguientes Pokémon:
+Clefairy 	Paras 	Geodude 	Zubat
+Clefairy
+Tipo normal Normal 	Paras
+Tipo bicho Bicho Tipo planta Planta 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Zubat
+Tipo veneno VenenoTipo volador Volador
+Nivel 8-12 	Nivel 5-12 	Nivel 7-10 	Nivel 7-11
+Mt. Moon
+Mt. Moon
+Planta 1 del Mt. Moon.
+Planta 1 del Mt. Moon.
+Planta 2 del Mt. Moon.
+Planta 2 del Mt. Moon.
+Planta 3 del Mt. Moon.
+Planta 3 del Mt. Moon.
+Planta 1
+
+Según estás en la entrada, ve hacia arriba y luego en dirección izquierda. Abajo encontrarás la MT09 Recurrente. En ese mismo plano, arriba hay un entrenador y detrás de él, al lado del chorro de agua, un antiparaliz.
+Cazabichos 	Weedle 	Kakuna
+Cazabichos 	Weedle
+Tipo bicho Bicho Tipo veneno Veneno 	Kakuna
+Tipo bicho Bicho Tipo veneno Veneno
+Casimiro 	Nivel 11
+
+Vuelve otra vez en dirección a la entrada, pero esta vez ve por el camino de la derecha. Al lado del cartel hay una entrenadora. Sigue por la derecha y después hacia arriba. Verás una escaleras, si subes, irás a la Planta 2 (Parte derecha /1) y te llevará a la Planta 3 (1), aunque es mejor que todavía no vayas, para explorar más la Planta 1 y coger otros objetos raros.
+Chica 	Clefairy
+Chica 	Clefairy
+Tipo normal Normal
+Iris 	Nivel 14
+
+Ve hacia abajo y a la izquierda, donde encontrarás dos un entrenadores y una poción al lado de otro chorro de agua. Si vas a la derecha, encontrarás un valioso carameloraro. Sigue hacia arriba y a la derecha, arriba del todo encontrarás una cuerda huida. Ahora mismo estás cerca de las escaleras que encontraste anteriormente. Ignóralas de nuevo y ésta vez dirígete hacia arriba.
+Supernecio 	Magnemite 	Voltorb
+Supernecio 	Magnemite
+Tipo eléctrico Eléctrico Tipo acero Acero 	Voltorb
+Tipo eléctrico Eléctrico
+Gustavo 	Nivel 11
+Cazabichos 	Caterpie 	Caterpie 	Metapod
+Cazabichos 	Caterpie
+Tipo bicho Bicho 	Caterpie
+Tipo bicho Bicho 	Metapod
+Tipo bicho Bicho
+Robi 	Nivel 10
+
+Un entrenador, al lado de unas rocas, está buscando fósiles. A tu izquierda hay una entrenadora moviéndose. Sigue hacia la izquierda, luego abajo, donde encontrarás otras escaleras. Si vas por ellas irás a la Planta 2 (parte izquierda/2) y luego a la Planta 3 (2), aunque puedes seguir explorando la Planta 1 continuando hacia abajo y te encontraras con otro entrenador. Ve otra vez a la izquierda. Cerca de ti encontrarás a un montañero. Más arriba hay unas escaleras que te llevarán a la Planta 2 (parte izquierda/1) y luego a la Planta 3 (3), y una piedra lunar, que te servirá para evolucionar diversos Pokémon, como Nidorino y Nidorina, que evolucionarán de los Nidoran al nivel 16. Regresa a las primeras escaleras encontradas.
+Chica 	Oddish 	Bellsprout
+Chica 	Oddish
+Tipo planta Planta Tipo veneno Veneno 	Bellsprout
+Tipo planta Planta Tipo veneno Veneno
+Mirna 	Nivel 14
+Joven 	Rattata 	Rattata 	Zubat
+Joven 	Rattata
+Tipo normal Normal 	Rattata
+Tipo normal Normal 	Zubat
+Tipo volador Volador Tipo veneno Veneno
+José 	Nivel 10
+Montañero 	Geodude 	Geodude 	Onix
+Montañero 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Onix
+Tipo roca RocaTipo tierra Tierra
+Marcos 	Nivel 10
+Planta 2
+
+La planta 2 tiene dos mitades, la de la derecha y la de la izquierda (/1). Esas dos mitades, se dividen en otras dos partes (/2). En otras palabras, las partes grandes de la Planta 2 son la parte /1, independientemente de que estén a la derecha o a la izquierda, y las partes pequeñas, (derecha o izquierda), son la /2. En esta planta encontrarás Paras y, con un poco de paciencia, también a un Clefairy, Pokémon que evoluciona con la piedra lunar.
+
+Planta 2 (parte derecha/1)
+
+Ve hacia abajo del todo y después hacia la izquierda. Baja las escaleras, te llevarán a la Planta 3 (1).
+
+Planta 2 (parte derecha/2)
+
+Te lleva a la salida. No olvides el repelente para que los Pokémon no te atrapen.
+
+Planta 2 (parte izquierda/1)
+
+Ve hacia abajo del todo y después a la derecha. Baja las escaleras, que te llevarán a la Planta 3 (3).
+
+Planta 2 (parte izquierda/2)
+
+Ésta es una pequeña parte de la Planta 2 situada a la izquierda. Coge las escaleras de la izquierda, te llevarán a la Planta 3 (2).
+Planta 3
+
+La Planta 3 es muy grande y liosa, tiene bastantes escaleras que te llevarán a distintos puntos e incluso en muchas partes de esta planta tendrás que volver por donde has venido, pues no tendrás otra opción. En esta planta se encuentran miembros del Team Rocket, muchos Pokémon salvajes y además, podrás llevarte un fósil.
+
+Planta 3 (1)
+
+Estás en una de las partes de la Planta 3. Verás a otro soldado del Team Rocket, lucha con él. Si vas a la derecha, encontrarás un trozo estrella, que se puede vender a alto precio. Puesto que no tienes otra alternativa, vuelve otra vez por las escaleras a la Planta 2 (P. derecha) para volver a la Planta 1 y coger otra escalera distinta.
+Soldado Rocket 	Sandshrew 	Rattata 	Zubat
+Soldado Rocket Masculino 	Sandshrew
+Tipo tierra Tierra 	rattata
+Tipo normal Normal 	Zubat
+Tipo veneno VenenoTipo volador Volador
+Masculino 	Nivel 11
+
+Planta 3 (2)
+
+Estás en otra parte encerrada de la Planta 3. Cerca tuya hay un soldado del Team Rocket, puedes luchar con él. Arriba está la MT46 Ladrón, cógela. Además, en la piedra que está a la derecha del soldado del Team Rocket, encontrarás un éter. No tienes más opciones que volver por las escaleras de donde has venido e ir a la Planta 1.
+Soldado Rocket 	Zubat 	Ekans
+Soldado Rocket Masculino 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Ekans
+Tipo veneno Veneno
+Masculino 	Nivel 11
+
+Planta 3 (3)
+
+Ve hacia arriba para encontrar un revivir. Ahora, vuelve hacia abajo y ve en dirección derecha. Más abajo encontrarás otro miembro del Team Rocket. Ahora ve hacia arriba y luego hacia la derecha y abajo del todo y a la izquierda. Cuando llegues a la pared, sube. Encontrarás otro miembro del Team Rocket. Si después subes y vas en dirección a la piedra de la derecha, encontrarás una piedra lunar en ella. Sigue avanzando, y encontrarás a un entrenador tacaño que no quiere darte ningún fósil.
+Soldado Rocket 	Rattata 	Sandshrew
+Soldado Rocket Masculino 	rattata
+Tipo normal Normal 	Sandshrew
+Tipo tierra Tierra
+Masculino 	Nivel 13
+Soldado Rocket 	Rattata 	Zubat
+Soldado Rocket Masculino 	rattata
+Tipo normal Normal 	Zubat
+Tipo veneno VenenoTipo volador Volador
+Masculino 	Nivel 13
+Supernecio 	Grimer 	Voltorb 	Koffing
+Supernecio 	Grimer
+Tipo veneno Veneno 	Voltorb
+Tipo eléctrico Eléctrico 	Koffing
+Tipo veneno Veneno
+Miguel 	Nivel 12
+
+Sin embargo, cuando luches con él y le derrotes, cambiará de opinión: "Uno para cada uno, No hay que ser avaricioso.". Ahora, elige el que prefieras, teniendo en cuenta que el fósil Hélix puede ser revivido en un futuro por Omanyte, y el fósil Domo, por Kabuto.
+
+Luego, sigue tu camino, encontrarás un Antídoto y una escalera para subir que te llevará a la Planta 2 (Parte derecha/2).
+Ruta 4: Salida
+
+Tu intensa aventura por el Mt. Moon acaba de terminarse. Justo saliendo del Mt. Moon, ve a la derecha y, antes de encontrarte con dos entrenadores, sube hasta un rincón. Si te posicionas en el recuadro derecho superior, pegado al muro de Mt. Moon encontrarás una Superball escondida y un poco más adelante hay dos tutores de movimientos, puedes enseñar a tus Pokémon Megapuño y Megapatada. Un poco más adelante, en la Ruta 4 también puedes coger la MT05 Rugido. En la misma línea vertical hasta casi llegando al borde inferior (dos pasos arriba) encontrarás escondida una Baya Frambu. Si saltas el borde de desnivel, puedes capturar algunos Pokémon salvajes, como Ekans (Rojo Fuego) o Sandshrew (Verde Hoja). Sigue tu camino hacia Ciudad Celeste, pero ten en cuenta que ya no se podrá volver atrás hasta más adelante.
+Ruta 4: objetos ocultos.
+
+Ruta 4: objetos ocultos.
+Ciudad Celeste
+Tienda Pokémon Objeto 	Precio
+Poké Ball 	200Pokéyen
+Superpoción 	700Pokéyen
+Poción 	300Pokéyen
+Antídoto 	100Pokéyen
+Antiparaliz 	200Pokéyen
+Despertar 	250Pokéyen
+Antiquemar 	250Pokéyen
+Cuerda huida 	550Pokéyen
+Repelente 	350Pokéyen
+
+En esta ciudad, tienes bastantes cosas que hacer. La primera de todas, llevar al Centro Pokémon a tus Pokémon, pues después del viajecito por Mt. Moon estarán algo debilitados; y la última, ir al Gimnasio y luchar con Misty. Después, echar un vistazo a la ciudad. Como puedes comprobar, hay una tienda de bicis. Sin embargo, la única bici que hay es la que nos vende el propietario por 1.000.000, pero como el dinero obviamente no nos alcanza, ni nos alcanzará, así que ni intenten juntar esa cantidad, no la podemos comprar.
+
+Observarás también que cerca hay un Slowbro holgazán que no hace caso a su entrenadora y que encima está tapando un árbol que próximamente podremos cortar con la MO01 Corte. También en la casa que está a la izquierda del Centro Pokémon un viejo te cambia un Jynx por tu Poliwhirl (el Jynx estará al mismo nivel que el Poliwhirl que entregues). En otra casa que está en el camino de arriba, un señor te puede describir cada medalla. Si sales por la puerta trasera, encontrarás, en las flores, un carameloraro. Y, al lado de esa misma casa, si entras a la otra, otro señor te dará un bote polvos que sirve para guardar el polvo de las bayas machacadas. Tampoco puedes entrar en la tercera vivienda porque un guardia te impide el paso, ya que el Team Rocket ha robado en esa casa.
+
+Antes de ir por el camino que ve arriba, entrena bien a tus Pokémon, pues tendrás un tercer encuentro con tu rival. Esta vez, es más duro de pelar. Tiene 4 Pokémon, o casi 3, pues el único ataque de Abra es teletransporte aprovecha este momento para dar pociones o lo que necesites y experiencia a los Pokémon de nivel bajo ya que Abra no te atacará. Preocúpate de los otros tres, y no le venzas con el mismo Pokémon, pues así, la experiencia estará más repartida. Si lo derrotas podrás ir camino al Puente Pepita.
+Entrenador 	Pidgeotto 	Abra 	Rattata 	Bulbasaur 1 	Squirtle 2 	Charmander 3
+Rival 	Pidgeotto
+Tipo normal NormalTipo volador Volador 	Abra
+Tipo psíquico Psíquico 	Rattata
+Tipo normal Normal 	Bulbasaur
+Tipo planta PlantaTipo veneno Veneno 	Squirtle
+Tipo agua Agua 	Charmander
+Tipo fuego Fuego
+Rival 	Nivel 17 	Nivel 16 	Nivel 15 	Nivel 18
+
+Si le vences, te hablará de Bill. Además, como le das pena, te dará un Memorín, que te da información sobre cosas y personas con las que te has encontrado. Ahora, ve al Centro Pokémon para curar a tus Pokémon.
+Dirígete hacia la Ruta 24.
+Ruta 24
+
+¡Acabas de llegar al Puente Pepita! ¡Prepárate para 5 batallas contra entrenadores buenos y gana un premio! Recuerda que, los entrenadores son más fuertes según vas llegando al último (los niveles de los Pokémon van subiendo de 2 en 2). ¡Suerte!
+Entrenador 	Caterpie 	Weedle 	Metapod 	Kakuna
+Cazabichos 	Caterpie
+Tipo bicho Bicho 	Weedle
+Tipo bicho BichoTipo veneno Veneno 	Metapod
+Tipo bicho Bicho 	Kakuna
+Tipo bicho BichoTipo veneno Veneno
+Cazabichos 	Nivel 10
+Entrenadora 	Pidgey 	Oddish 	Bellsprout
+Chica 	Pidgey
+Tipo normal NormalTipo volador Volador 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+Chica 	Nivel 12
+Entrenador 	Sandshrew 	Ekans
+Joven 	Sandshrew
+Tipo tierra Tierra 	Ekans
+Tipo veneno Veneno
+Joven 	Nivel 14
+Entrenadora 	Nidoran♂ 	Nidoran♀
+Chica 	Nidoran♂
+Tipo veneno Veneno 	Nidoran♀
+Tipo veneno Veneno
+Chica 	Nivel 16
+Entrenador 	Mankey
+Campista 	Mankey
+Tipo lucha Lucha
+Campista 	Nivel 18
+
+Cuando ganes a los cinco entrenadores, un entrenador misterioso te dará una pepita. Además, te ofrecerá ser miembro del Team Rocket, pero como te niegas, las cosas se complican... Como siempre, demostrando tus dotes de entrenador, ganas el combate derrotando a su Ekans y su Zubat. Vuelve al Centro Pokémon y después, ve hacia el Puente Pepita.
+
+Antes de nada, gira hacia la izquierda y sumérgete por la hierba para capturar Pokémon de tipo planta, como Bellsprout (sólo en Verde Hoja) u Oddish (sólo en Rojo Fuego) y con un poco de suerte también podrás atrapar un Abra, ya que te espera luego el Gimnasio de Ciudad Celeste, que es del elemento agua. Te serán muy útiles, sobre todo si habías elegido al principio a Squirtle o a Charmander. Coge también la MT45 Atracción, que está más arriba. Ve hacia el camino de la derecha, hacia la Ruta 25.
+
+En esta ruta encontrarás los siguientes Pokémon salvajes:
+Caterpie 	Metapod 	Weedle 	Kakuna 	Pidgey 	Oddish 	Abra 	Bellsprout
+Caterpie
+Tipo bicho Bicho 	Metapod
+Tipo bicho Bicho 	Weedle
+Tipo bicho BichoTipo veneno Veneno 	Kakuna
+Tipo bicho BichoTipo veneno Veneno 	Pidgey
+Tipo normal NormalTipo volador Volador 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Abra
+Tipo psíquico Psíquico 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+7 	8 	7 	8 	11-13 	12-14 	8-12 	12-14
+Ruta 25
+
+En la Ruta 25 hay muchos entrenadores. Te vendrán bien para conseguir experiencia, subir de nivel y conseguir dinero. En la parte norte de la ruta, verás hierba y sobre el lado izquierdo se verá una pequeña sombra que es una Baya Meloc. También podrás coger la MT43 Daño secreto si eres hábil y te cuelas por el hueco que destapa el entrenador al moverse para luchar contigo. Cuando llegues a casa de Bill entra en ella.
+
+En esta ruta encontrarás los siguientes Pokémon salvajes:
+Caterpie 	Weedle 	Metapod 	Kakuna 	Pidgey 	Oddish 	Abra 	Bellsprout
+Caterpie
+Tipo bicho Bicho 	Weedle
+Tipo bicho BichoTipo veneno Veneno 	Metapod
+Tipo bicho Bicho 	Kakuna
+Tipo bicho BichoTipo veneno Veneno 	Pidgey
+Tipo normal NormalTipo volador Volador 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Abra
+Tipo psíquico Psíquico 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+8 	9 	11-13 	12-14 	9,11 y 13 	12-14
+Casa de Bill
+
+Cuando entres en ella, verás un Clefairy. Habla con él. Por lo que se ve, Bill se ha convertido en un Pokémon. Tendrás que ayudarle a recuperar su forma humana, así que ve al PC e inicia el Separador Celular del Teletransporte. Ahora, habla con Bill. Te dará el Ticket Barco para el S.S. Anne, que está en Ciudad Carmín. Sal de la casa y entra otra vez para poder mirar en su PC la colección de Pokémon raros que tiene, que se registrarán automáticamente en tu Pokédex. Ahora, entrena a tus Pokémon y vuelve a Ciudad Celeste para tener tu segunda batalla en un Gimnasio Pokémon.
+Gimnasio Pokémon de Ciudad Celeste
+
+En el gimnasio de Ciudad Celeste hay dos entrenadores de tipo agua, los cuales son:
+Entrenador 	Horsea 	Shellder
+Nadador 	Horsea
+Tipo agua Agua 	Shellder
+Tipo agua Agua
+Nadador 	Nivel 16
+Entrenadora 	Goldeen
+Dominguera 	Goldeen
+Tipo agua Agua
+Dominguera 	Nivel 19
+La líder
+
+Antes de luchar contra la líder, cura a tus Pokémon si es necesario. Si al principio escogiste a Bulbasaur, tendrás una gran ventaja y el combate no tendrá por qué darte problemas. Si elegiste a Squirtle o a Charmander, debes de tener un Pokémon de tipo eléctrico, como Pikachu, o de tipo planta, como Bellsprout:
+
+Nota: Si elegiste a Charmander la batalla estará difícil pero si capturas un Bellsprout u Oddish el problema estará resuelto. También puede ayudarte un Pikachu del Bosque Verde con impactrueno.
+
+Si elegiste a Squirtle, también evoluciónalo y que tenga el ataque burbuja y mordisco y con Bellsprout o Weepinbell con somnífero y listo.
+
+Y si elegiste a Bulbasaur asegúrate de que tenga hoja afilada, somnífero y también drenadoras buenas para subir tu PS un poco y listo.
+
+Starmie y Staryu tienen el ataque de hidropulso, con él que te puede derrotar fácilmente, por lo tanto es recomendable que entrenes a tus Pokémon y los subas al nivel 22 aproximadamente, si lo consigues, el combate no resultará tan difícil.
+Entrenador 	Staryu 	Starmie
+Misty, La líder del gimnasio 	Staryu
+Tipo agua Agua 	Starmie
+Tipo agua AguaTipo psíquico Psíquico
+Líder Misty 	Nivel 18 	Nivel 21
+
+Después de tu victoria, obtendrás la medalla Cascada y la MT03 Hidropulso, además, podrás usar la MO01(Corte). Vuelve a Ciudad Celeste y cura a tus Pokémon. Comprobarás que tanto el guardia como el Slowbro se han apartado de sus respectivos sitios. Como no tienes la MO01(Corte), no podrás cortar el árbol que tapaba el Slowbro, así que ve hacia la casa donde esta el guardia.
+El robo del Team Rocket
+
+Cuando entres en dicha casa, verás que está totalmente destrozada. Sal de la casa por el agujero causado por excavar. Encontrarás a un Soldado Rocket con el que deberás luchar. Cuando le venzas, te dará la MT28 Excavar, la que había robado. Sigue tu camino hasta la Ruta 5.
+Ruta 5
+
+En la Ruta 5, verás 3 caminos, el del medio lleva a una guardería, y los otros dos, al mismo sitio. Ve si quieres a la guardería, si no, ve camino a la Vía Subterránea: Ciudad Celeste - Ciudad Carmín, ya que no puedes pasar directamente por la otra ruta porque un guardia tiene sed y no te deja.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Oddish 	Bellsprout 	Meowth
+Pidgey
+Tipo normal NormalTipo volador Volador 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Meowth
+Tipo normal Normal
+13-16 	10-16
+Vía Subterránea: Ciudad Celeste - Ciudad Carmín
+
+En la entrada, una niña te querrá cambiar tu Nidoran♂ por su Nidoran♀, si juegas en Rojo Fuego, y tu Nidoran♀ por su Nidoran♂, si juegas en Verde Hoja. Baja las escaleras. Cruza la vía para llegar a la Ruta 6. En ésta hay 6 objetos ocultos (1 antídoto, 1 despertar, 1 antihielo, 1 poción, 1 antiparalizador y 1 antiquemar), si quieres encontrarlos, a la vez que caminas pulsa el botón A o sino también podrás hacerlo con el Buscaobjetos que obtendrás más adelante.
+Ruta 6
+
+En esta Ruta puedes capturar Pokémon nuevos como Meowth. También encontrarás entrenadores, y algunos bastante buenos. Llegarás a Ciudad Carmín. También si bien sales de la Vía Subterránea puedes ir hacia arriba a la derecha y encontrarás un carameloraro. Arriba a la izquierda encontrarás una Baya Zidra.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Oddish 	Meowth 	Bellsprout 	Psyduck 	Slowpoke 	Magikarp 	Goldeen 	Poliwag 	Poliwhirl 	Gyarados
+Pidgey
+Tipo normal NormalTipo volador Volador 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Meowth
+Tipo normal Normal 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Magikarp
+Tipo agua Agua 	Goldeen
+Tipo agua Agua 	Poliwag
+Tipo agua Agua 	Poliwhirl
+Tipo agua Agua 	Gyarados
+Tipo agua AguaTipo volador Volador
+13-16 	10-16 	13-16 	20-40 	5-15 	20-30 	15-25
+Ciudad Carmín
+Tienda Pokémon Objeto 	Precio
+Poké Ball 	200Pokéyen
+Superpoción 	700Pokéyen
+Antídoto 	100Pokéyen
+Antiparaliz 	200Pokéyen
+Despertar 	250Pokéyen
+Antihielo 	250Pokéyen
+Repelente 	350Pokéyen
+
+Primero ve al Centro Pokémon (frente a éste podrás encontrar, con el Buscaobjetos, un éter máximo). Cura a tus Pokémon si es necesario y habla con la única chica que hay para recibir un Buscapelea, que se carga al andar. Si entras en la casa situada al lado del Centro Pokémon y hablas con el Gurú Pescador, te dará una Caña Vieja si tu respuesta a su pregunta es afirmativa. En la parte inferior de la Ciudad, verás un Club de Fans Pokémon al que deberás entrar y hablar con el presidente para que te desvele su Pokémon favorito y te regale un Bono Bici. Ahora, puedes volver a Ciudad Celeste y cambiar el Bono Bici por una de ésas.
+También podrás cambiar un Spearow por un Farfetch'd en la casa de al lado, bautizado como Farfi. Ahora puedes ir al S.S. Anne.
+
+En esta ciudad encontrarás los siguientes Pokémon:
+Farfetch'd 	Tentacool 	Krabby 	Horsea 	Shellder 	Psyduck 	Slowpoke 	Magikarp 	Staryu 	Gyarados
+Farfetch'd
+Tipo normal NormalTipo volador Volador 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Shellder
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Magikarp
+Tipo agua Agua 	Staryu
+Tipo agua Agua 	Gyarados
+Tipo agua AguaTipo volador Volador
+Intercambio 	5-40 	5-30 	5-33 	15-25 	25-35 	5-15 	15-25
+S.S. Anne: ¡Todos a bordo!
+Barco S.S. Anne.
+
+Barco S.S. Anne.
+Planta 0
+
+En la Planta 0 encontrarás 7 habitaciones y 2 escaleras. Mira por todas las habitaciones y lucha cuando sea necesario, también encontrarás MT y otros objetos. Si quieres curar a tus Pokémon, habla con la chica que está en la segunda habitación contando desde la derecha. Si vas por el pasillo, encontrarás la sala de cocineros en la primera puerta contando por la izquierda (hay que ir hacia abajo al llegar a las escaleras, sin subir las escaleras) para encontrarla. Dentro, coge la superball que está en la esquina y mira en las 3 papeleras para conseguir una Baya Atania, una Baya Meloc, y una Baya Zreza.
+
+En la primera habitación por la izquierda (segunda puerta, pues la primera es la sala de cocineros), encontrarás a un señor que te dice que es policía. En la segunda habitación hay 3 personas. Sólo lucharán contra ti la chica de la derecha y el chico de la izquierda. Debajo de la chica encontrarás una la MT31 Demolición.
+Entrenador 	Pidgey 	Nidoran♀
+Chica Ada 	Pidgey
+Tipo normal Normal Tipo volador Volador 	Nidoran♀
+Tipo veneno Veneno
+Joven 	Nivel 18 	Nivel 18
+Entrenador 	Nidoran♂
+Joven 	Nidoran♂
+Tipo veneno Veneno
+Joven 	Nivel 21
+
+En la tercera y en la cuarta habitación sólo hay personas que hablan contigo. En la quinta habitación, en cambio, encontrarás a un hombre que quiere luchar.
+Entrenador 	Nidoran♂ 	Nidoran♀
+Caballero 	Nidoran♂
+Tipo veneno Veneno 	Nidoran♀
+Tipo veneno Veneno
+Caballero 	Nivel 19 	Nivel 19
+
+En la séptima habitación también hay un hombre que quiere luchar.
+Entrenador 	Growlithe 	Growlithe
+Caballero 	Growlithe
+Tipo fuego Fuego 	Growlithe
+Tipo fuego Fuego
+Caballero 	Nivel 18 	Nivel 18
+Planta -1
+
+Vuelve a la planta principal y baja por las escaleras de la derecha. En la papelera azul, al costado de la escalera, hay una hiperpoción. Entra en la primera habitación para coger la superpoción de la mesa. En la segunda habitación hay dos marineros que querrán luchar contigo.
+
+Marinero más cercano a la puerta:
+Entrenador 	Shellder
+Marinero 	Shellder
+Tipo agua Agua
+Marinero Leonardo 	Nivel 21
+
+Marinero de más atrás:
+Entrenador 	Horsea 	Shellder 	Tentacool
+Marinero 	Horsea
+Tipo agua Agua 	Shellder
+Tipo agua Agua 	Tentacool
+Tipo agua AguaTipo veneno Veneno
+Marinero Dato 	Nivel 17 	Nivel 17 	Nivel 17
+
+En la tercera, hay un éter y otro marinero para luchar.
+Entrenador 	Horsea 	Horsea 	Horsea
+Marinero 	Horsea
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Horsea
+Tipo agua Agua
+Marinero Dan 	Nivel 17 	Nivel 17 	Nivel 17
+
+En la siguiente, encontrarmos la MT44 Descanso. También encontrarás otro marinero con ganas de pelea.
+Entrenador 	Tentacool 	Staryu
+Marinero 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Staryu
+Tipo agua Agua
+Marinero Humberto 	Nivel 18 	Nivel 18
+
+En la última habitación de esta planta te encontrarás con un marinero y un pescador que quieren luchar.
+Entrenador 	Machop
+Marinero 	Machop
+Tipo lucha Lucha
+Marinero Felipe 	Nivel 20
+Entrenador 	Tentacool 	Shellder 	Staryu
+Pescador 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Shellder
+Tipo agua Agua 	Staryu
+Tipo agua Agua
+Pescador Beltrán 	Nivel 17 	Nivel 17 	Nivel 17
+
+Cuando termines de explorar esta planta ve a la principal y sube las escaleras.
+Planta 1
+
+En esta planta hay 6 habitaciones. Si entras en la primera, un entrenador te hablará de Snorlax, que quedará registrado en tu Pokédex. En la siguiente, hay dos entrenadores y un polvoestelar.
+
+Entrenador junto a la puerta:
+Entrenador 	Goldeen 	Goldeen 	Tentacool
+Pescador 	Goldeen
+Tipo agua Agua 	Goldeen
+Tipo agua Agua 	Tentacool
+Tipo agua AguaTipo veneno Veneno
+Pescador Daniel 	Nivel 17 	Nivel 17 	Nivel 17
+
+Entrenador que está sentado en la silla:
+Entrenador 	Pikachu
+Caballero RFVH.png 	Goldeen
+Tipo eléctrico Eléctrico
+Caballero Celio 	Nivel 23
+
+En la tercera habitación habrá dos hombres que hablarán contigo de las MO Surf y MO Corte. En la cuarta encontrarás otros dos entrenadores y un ataque X.
+
+Entrenador:
+Entrenador 	Growlithe 	Ponyta
+Caballero 	Growlithe
+Tipo fuego Fuego 	Ponyta
+Tipo fuego Fuego
+Caballero Lener 	Nivel 17 	Nivel 17
+
+Entrenadora:
+Entrenador 	Rattata 	Pikachu
+Chica 	Rattata
+Tipo normal Normal 	Pikachu
+Tipo eléctrico Eléctrico
+Chica Arrate 	Nivel 18 	Nivel 18
+
+En la siguiente habitación están un hombre y su hijo que te dicen algo sobre la Zona Safari, y en la última, dos chicas que te dicen que hay gente que se marea y que el capitán también parecía mareado.
+
+Si subes por las escaleras de la izquierda (las que habrás encontrado al llegar a esta planta) y cruzas el pasillo, llegarás a la proa. Encontrarás por el pasillo a un marinero que hablará contigo, y al entrar en la proa con dos entrenadores.
+
+Marinero que está cerca de la puerta:
+Entrenador 	Machop 	Tentacool
+Marinero 	Machop
+Tipo lucha Lucha 	Tentacool
+Tipo agua AguaTipo veneno Veneno
+Marinero Toribio 	Nivel 17 	Nivel 17
+
+Marinero que anda por la proa:
+Entrenador 	Machop 	Shellder
+Marinero 	Machop
+Tipo lucha Lucha 	Shellder
+Tipo agua Agua
+Marinero Edmundo 	Nivel 18 	Nivel 18
+
+Al salir de la proa volveremos a la planta de abajo del todo, y lo único que nos queda es volver a la planta 1 de nuevo e ir al pasillo de la derecha donde nos encontraremos con nuestro rival. Antes de ir es recomendable pasar por la habitación donde podemos curar a los Pokémon. No creo que tengas problemas en vencerlo, pues desde tu último encuentro con él ha subido varios niveles a sus Pokémon. Ademas, puedes aprovechar para despedirte de Raticate, dado que no lo va a volver a usar contra ti.
+Entrenador 	Pidgeotto 	Raticate 	Kadabra 	Ivysaur 1 	Wartortle 2 	Charmeleon 3
+Rival 	Pidgeotto
+Tipo normal NormalTipo volador Volador 	Raticate
+Tipo normal Normal 	Kadabra
+Tipo psíquico Psíquico 	Ivysaur
+Tipo planta PlantaTipo veneno Veneno 	Wartortle
+Tipo agua Agua 	Charmeleon
+Tipo fuego Fuego
+Rival 	Nivel 19 	Nivel 16 	Nivel 18 	Nivel 20
+
+
+Ahora sube por la escalera. Te encontrarás con el capitán, el cual está mareado y se encuentra mal. Le darás un masaje al capitán, que se sentirá mucho mejor; y te regalará la MO01 Corte. Ahora, si ya has inspeccionado todo, sal del barco, al cual verás zarpar. Ahora, puedes enseñar corte a cualquier Pokémon para pasar al Gimnasio Pokémon de Ciudad Carmín. Antes, si quieres, puedes ir a la Cueva Diglett para capturar uno, ya que, como es de tipo tierra, te será útil para vencer a Lt. Surge; aunque en esta guía la Cueva Diglett viene después del gimnasio.
+Gimnasio Pokémon de Ciudad Carmín
+
+Puesto que el elemento de este gimnasio es el eléctrico, es recomendable que lleves antiparaliz. El gimnasio está lleno de papeleras, en ellas están los interruptores para abrir la puerta mecánica. Si hablas con los entrenadores después de derrotarlos, te darán algunas pistas. Cuando encuentres en la basura el primer interruptor, el segundo estará al lado. Si después de encontrar el primer interruptor tocas el que no está al lado, entonces éstos cambiarán de posición.
+
+Los entrenadores del gimnasio son tres:
+Entrenador 	Pikachu
+Marinero 	Pikachu
+Tipo eléctrico Eléctrico 	Pikachu
+Tipo eléctrico Eléctrico
+Marinero 	Nivel 21
+Entrenador 	Voltorb 	Magnemite
+Mecánico 	Voltorb
+Tipo eléctrico Eléctrico 	Magnemite
+Tipo eléctrico EléctricoTipo acero Acero
+Mecánico Manolo 	Nivel 21
+Entrenador 	Pikachu 	-
+Caballero 	Pikachu
+Tipo eléctrico Eléctrico
+Caballero Tito 	Nivel 23 	-
+El líder
+
+Cuando hayas abierto las puertas mecánicas podrás entrar en combate contra Lt. Surge. No utilices Pokémon de tipo agua, como Wartortle, a menos que haya aprendido excavar ni tipo volador, como Butterfree o Pidgeotto; utiliza si es posible los de tipo tierra o tipo roca, para ser más concretos, Geodude, Diglett o puedes capturar un Nidoran♂ o Nidoran♀, elevarlo al nivel 16 para que evolucione y darle una piedra lunar para que evolucione a Nidoqueen o Nidoking que será del tipo veneno y tipo tierra. Si llevas antiparaliz, mejor, pues te liberará de la parálisis.
+
+Otros consejos:
+
+    Puedes utilizar Pokémon tipo tierra, como dijeron antes, como Geodude o Diglett.
+    Puedes utilizar también Pokémon resistentes, tipo dragón o planta (si tienes a Bulbasaur (o evoluciones) puede ayudar).
+
+Entrenador 	Voltorb 	Pikachu 	Raichu
+Líder Lt. Surge 	Voltorb
+Tipo eléctrico Eléctrico 	Pikachu
+Tipo eléctrico Eléctrico 	Raichu
+Tipo eléctrico Eléctrico
+Lt. Surge 	Nivel 21 	Nivel 18 	Nivel 24
+
+Al ganarle, te dará, además de la Medalla Trueno, la MT34 Onda Voltio y además, podrás usar vuelo cuando quieras. Ahora, sal del gimnasio y cura a tus Pokémon. Verás a un ayudante del profesor Oak en la entrada de la ciudad, y te dirá que en la Ruta 2 otro ayudante te está buscando para entregarte algo. Para ir a la Ruta 2, hay que pasar por la Cueva Diglett.
+Cueva Diglett
+Cueva Diglett
+
+Cueva Diglett
+
+La Cueva Diglett comunica Ciudad Carmín con Ciudad Verde. En la entrada, te encontrarás con un señor mayor y unas escaleras que debes bajar, también encontrarás Diglett y Dugtrio. Cuando llegues a otras escaleras, súbelas y después sal del túnel. Ahora te encuentras en la Ruta 2.
+Diglett 	Dugtrio
+Diglett
+Tipo tierra Tierra 	Dugtrio
+Tipo tierra Tierra
+15-22 	29-31
+Ruta 2
+
+Abajo hay una casa en la que un chico te cambia su Mr. Mime (llamado Mimi) por un Abra. Más adelante, corta el árbol y entra en la caseta, donde verás al ayudante del profesor Oak, que te dará la MO05 Destello si has atrapado por lo menos 10 tipos de Pokémon. Ahora, sal y coge un éter del suelo. También encontrarás cerca un antiparaliz. Ahora, antes de regresar a la Cueva Diglett, corta el árbol que está a su izquierda y vuelve a la anterior ruta para poder llegar a Ciudad Plateada.
+Ciudad Plateada (2)
+
+Ve hacia el museo y después a la derecha, para ir a la casa que está a su lado. Esta vez te encontrarás en la parte de detrás del museo, donde se encuentran algunos científicos. Si hablas con el primero de la derecha, podrás enseñarle a un Pokémon el ataque movimiento sísmico. Habla con el científico de arriba para que te de un ámbar Viejo que tendrás que llevar en un futuro al laboratorio Pokémon de Isla Canela para revivir a Aerodactyl. Ahora, vuelve a la Cueva Diglett, y ve hacia la Ruta 11, situada en Ciudad Carmín.
+Ruta 11
+
+Al principio de la ruta puedes encontrar un despertar. En esta ruta, podrás capturar Pokémon nuevos, como Drowzee. También encontrarás bastantes entrenadores. Cuando vayas avanzando por el camino, coge el defensa X que verás en la hierba. Más adelante hay una superball, y arriba, en una roca, una cuerda huida. Finalmente, entra por la caseta. Ésta tiene dos pisos, y en el segundo, hay un chico que cambia una Nidorina por un Nidorino y otro ayudante del profesor Oak que te dará el Buscaobjetos en caso de que hayas atrapado 30 especies Pokémon. Cuando salgas de ahí, para tu sorpresa, verás a un Snorlax que tapa el camino. Puesto que no puedes seguir y no tienes otra opción, deberás volver a Ciudad Carmín, y después, volver a Ciudad Celeste por la Vía Subterránea. Cuando estés en dicha ciudad, sigue por la Ruta 5 hasta llegar a la 9 (también puedes dejar la ruta para más adelante). Además podrás cambiar tu bono de bici que recibiste en la casa del Club Pokémon en la tienda de bicis (ya que te costaba 1,000,000 de Poké Dólar, una cantidad imposible) por una bicicleta nueva.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Spearow 	Ekans 	Sandshrew 	Drowzee 	Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados
+Spearow
+Tipo normal NormalTipo volador Volador 	Ekans
+Tipo veneno Veneno 	Sandshrew
+Tipo tierra Tierra 	Drowzee
+Tipo psíquico Psíquico 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador
+13-17 	12-15 	11-15 	5-40 	5-15 	5-35 	25-35 	15-25
+Ruta 9
+
+Esta ruta está llena de Bayas y de entrenadores. Cuando estés en ella, corta el árbol que está en medio del camino. Después lucharás con una entrenadora. Salta la valla para coger la MT40 Golpe Aéreo y luchar con un montañero. También puedes encontrar un éter en la roca visible de la entrada de la ruta; así como un Antiquemar y una Baya Atania, más adelante. Sigue cruzando vallas y luchando contra los entrenadores, hasta llegar a la Ruta 10.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Spearow 	Ekans 	Rattata 	Sandshrew
+Spearow
+Tipo normal NormalTipo volador Volador 	Ekans
+Tipo veneno Veneno 	Rattata
+Tipo normal Normal 	Sandshrew
+Tipo tierra Tierra
+13-17 	11-17 	14-17 	11-17
+Ruta 10
+
+La Ruta 10 está cercada por agua. En la hierba podrás encontrar a Voltorb. También hay un Centro Pokémon, así que entra a éste para curar a tus Pokémon. Dentro de él verás a otro ayudante del profesor, que te dará una piedraeterna en el caso de que hayas capturado 20 especies Pokémon. Sal de él, corta el arbusto más cercano a la entrada de la cueva y coge una superpoción oculta, así como una baya Zreza en el césped cercano a tres pasos a la izquierda y uno arriba de la dominguera, y en la esquina inferior derecha, al lado de las vallas, hay una baya Caquic. Después, lucha con la dominguera y entra en el Túnel Roca hay que llevar llevar un Pokémon que sepa destello, pues es necesario para salir de esta cueva.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Spearow 	Ekans 	Voltorb 	Sandshrew 	Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados
+Spearow
+Tipo normal NormalTipo volador Volador 	Ekans
+Tipo veneno Veneno 	Voltorb
+Tipo eléctrico Eléctrico 	Sandshrew
+Tipo tierra Tierra 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador
+13-17 	11-17 	14-17 	11-17 	5-40 	5-15 	5-35 	25-35 	15-25
+Túnel Roca
+Túnel Roca
+Túnel Roca
+Planta baja
+Planta baja
+Sótano
+Sótano
+
+Como verás, la iluminación en el Túnel Roca no es precisamente uno de sus puntos fuertes, así que utiliza destello para iluminar totalmente la zona. En la cueva puedes encontrar a: Machop, Onix, Zubat, Geodude y Mankey . Cuando lo hayas hecho, ve en dirección derecha para coger un repelente. Luego, ve hacia abajo, lucha contra el Cubone y el Slowpoke de nivel 23 del Pokemaníaco, ve hacia la derecha, luego ve hacia arriba, hasta llegar a unas escaleras. Ahora, ve hacia abajo y a la izquierda y lucha contra otro Pokemaníaco, con un Slowpoke de nivel 25; ve todo recto y coge el revivir. Sube por el camino que te pasaste antes de encontrar el objeto y sigue en la misma dirección, peleando durante el trayecto con una dominguera (con un Oddish y un Bulbasaur, ambos de nivel 22) y un Pokemaníaco (con un Charmander y un Cubone, también ambos de nivel 22). Sigue camino, y tras luchar con dos montañeros en un cruce (el de abajo tiene un Geodude de nivel 25, y el de arriba un Machop y un Onix, los dos al nivel 20) sube por la escalera. Encontrarás una cuerda huida y otros tres Montañeros (uno con tres Geodude y un Machop, todos de nivel 19; otro con dos Onix y un Geodude, todos de nivel 20; y otro con un Geodude y un Graveler, de nivel 21) así como también una escalera por la que tendrás que bajar.
+
+Según estás, ve hacia la izquierda y hacia abajo. Arriba sólo hay rocas. A continuación, tras pelear con una dominguera con un Jigglypuff, un Pidgey y un Meowth de nivel 21, dirígete de nuevo hacia abajo si quieres enseñar avalancha a un Pokémon, pues hay un tutor de movimientos. Encontrarás también un máximo éter más arriba. Sigue tu camino luchando con dos entrenadores más: un montañero con dos Geodude y un Graveler de nivel 21, y un Pokemaníaco con tres Slowpoke de nivel 20. Coge las escaleras. En el siguiente piso, lucha con las dos domingueras del camino, una con un Bellsprout y un Clefairy de nivel 22, y otra con un Pidgey, dos Rattata y un Bellsprout de nivel 19. Cuando avances, coge una perla y luego lucharás contra el último entrenador, una dominguera con un Meowth, un Oddish y un Pidgey de nivel 20. Finalmente llegarás a la salida del túnel.
+
+En esta cueva encontrarás los siguientes Pokémon:
+Machop 	Onix 	Geodude 	Zubat 	Mankey
+Machop
+Tipo lucha Lucha 	Onix
+Tipo roca RocaTipo tierra Tierra 	Geodude
+Tipo roca RocaTipo tierra Tierra 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Mankey
+Tipo lucha Lucha
+16-17 	13-17 	5-30 	15-16 	16-17
+Ruta 10 (salida)
+
+Antes de tu descanso, en la Ruta 10 deberás luchar con algunos entrenadores. Si no quieres luchar, toma el camino de la derecha, coge la Baya Latano del rincón, sigue abajo y llegarás a Pueblo Lavanda.
+Pueblo Lavanda
+Tienda Pokémon Objeto 	Precio
+Superball 	600Pokéyen
+Superpoción 	700Pokéyen
+Revivir 	1500Pokéyen
+Antídoto 	100Pokéyen
+Antiparaliz 	200Pokéyen
+Antiquemar 	250Pokéyen
+Antihielo 	250Pokéyen
+Cuerda Huida 	550Pokéyen
+Superrepel 	500Pokéyen
+
+Al fin hemos llegado al lugar mas terrorífico de toda nuestra aventura. Éste es un pequeño pueblo con varias casas y una novedad: la Torre Pokémon. Nada más llegar la verás, pero todavía no entres, puesto que de momento no tienes nada que hacer allí. Lo primero es lo primero: cura a tus Pokémon en el Centro pokémon. Luego, echa un vistazo por las casas o compra algo en la Tienda Pokémon. En una de las casas hay un inspector de motes que evaluará los apodos que les hayas puesto a tus Pokémon. Cuando termines, ve hacia la Ruta 8.
+Ruta 8
+
+Sigue el camino perteneciente a esta ruta. En la zona de hierba, encontrarás una Baya Ziuela, una Baya Zanama y una Baya Safre, aunque para entrar, necesitas usar corte, y, para encontrarlas, el buscaobjetos, aunque puedes hacerlo sin él en caso de no tenerlo. Entre la hierba encontrarás a Ekans(Rojo Fuego), Growlithe(Rojo Fuego), Sandshrew(Verde Hoja) y Vulpix(Verde Hoja) y Meowth. Según vayas avanzando por la ruta, lucharás con unas gemelas; con cuatro entrenadores dispuestos en una sola fila mirando en direcciones opuestas; e incluso con algunos motoristas, entre otros. Necesitarás unos cuantos antídotos. Pronto llegarás a una segunda Vía Subterránea.
+Vía Subterránea: Ciudad Azulona - Pueblo Lavanda
+
+Esta vía comunica Pueblo Lavanda con Ciudad Azulona. A diferencia de la primera en la que estuviste, esta se dispone en horizontal. En ella hay una serie de objetos en el suelo que podrás encontrar con el buscaobjetos. Crúzala para llegar a la Ruta 7.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Ekans 	Meowth 	Sandshrew 	Vulpix 	Growlithe
+Pidgey
+Tipo normal NormalTipo volador Volador 	Ekans
+Tipo veneno Veneno 	Meowth
+Tipo normal Normal 	Sandshrew
+Tipo tierra Tierra 	Vulpix
+Tipo fuego Fuego 	Growlithe
+Tipo fuego Fuego
+18-20 	17-19 	18-20 	17-20 	15-18
+Ruta 7
+
+Es una de las rutas mas pequeñas, aquí encontrarás a muchos entrenadores en busca de pelea. Por el momento, deberás utilizar la Vía Subterránea para llegar a la Ciudad Azulona. Cerca de la caseta del otro lado de la Vía utiliza el buscaobjetos para encontrar una Baya Peragu que hay escondida en el suelo. Ve por el camino de la izquierda para llegar a Ciudad Azulona.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Meowth 	Vulpix 	Growlithe 	Oddish 	Bellsprout
+Pidgey
+Tipo normal NormalTipo volador Volador 	Meowth
+Tipo normal Normal 	Vulpix
+Tipo fuego Fuego 	Growlithe
+Tipo fuego Fuego 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+19-22 	17-20 	18-20 	19-22
+Ciudad Azulona
+Ciudad Azulona
+
+Ciudad Azulona
+
+Ciudad Azulona es una de las ciudades más grandes de Kanto, por lo que puede que estés confuso de a dónde ir primero viendo tantos edificios y personajes. Lo primero, como siempre, es ir al Centro Pokémon. Ahora, ve a la Mansión Azulona, el edificio que se encuentra a la izquierda del entrenador y su Poliwrath. Entra en ella y habla con la anciana para que te de un té. Puedes subir para curiosear, pero no hay nada interesante en los siguientes pisos, excepto los diseñadores y programadores del juego (Game Freak). Si te diriges al caminito al lado del Centro Pokémon, podrás coger un éter; y no sólo eso, sino que también, si entras por la puerta trasera de la Mansión Azulona y subes todos los pisos, ¡podrás coger un Eevee dentro de una Poké Ball!. Corta el árbol que está cerca de las casas abajo del Centro Pokémon, utiliza el buscaobjetos para encontrar más PP.
+
+NOTA: Si quieres tener un Vaporeon,Flareon y Jolteon o más Eevee ve a la Isla Quarta (Más adelante podras ir), deja a Eevee o a su evolución con un Ditto y el anciano de la guardería te avisa cuando tienen un huevo.
+
+Ahora, ¿por qué no vas al Centro Comercial de Ciudad Azulona y compras algo? En la Planta 1 hay objetos y algunas MT, en la Planta 2; un chico te enseña el movimiento contraataque, en la Planta 3, puedes comprar un Poké muñeco, una carta retro o piedras de evolución; en la Planta 4; algunas vitaminas, y en la última Planta, en los distribuidores, podrás comprar algunas bebidas. Además, si a la niña que tiene sed le das bebidas, ella te dará MTs. Si le das agua fresca, te dará la MT16 Pantalla Luz, si le das un refresco, recibirás la MT20 Velo Sagrado, y si le das limonada, obtendrás a mano de la chica la MT33 Reflejo. Lógicamente, puedes darle las tres bebidas para recibir tres MT.
+
+También puedes dirigirte al restaurante y hablar con el señor que está bebiendo para que te de el monedero que podrás usar para guardar las monedas del casino, otra de las novedades de esta ciudad. También hay un hotel para personas; en dirección este hay un camino, síguelo en dirección norte y hallarás oculto, en el rincón de la izquierda, un más PP . Además, en la ciudad se encuentra un Gimnasio Pokémon, accesible al cortar el árbol que impide seguir tu camino.
+
+Cuando tengas el monedero, ve al Casino, y... ¡utiliza el buscaobjetos por todo el casino, pues en el suelo puedes encontrarte hasta 260 fichas! También puedes hablar con algunos jugadores, pues los hay generosos y te darán 50 fichas más. También tienes la posibilidad de hacerte una foto con el Pokematón de la esquina inferior de la derecha del Casino, que sirve para decorar tu ficha de entrenador. Si quieres, puedes jugar en las tragaperras y canjear tus fichas por premios. También podrás encontrar unas llaves que aun no se sabe para que son, están en la maquina de arriba a la derecha la 1era., pero tu misión principal en el casino es la de frenar los planes del Team Rocket. Para ello, ve hacia el Soldado del Team Rocket que protege el cartel, que se enfurecerá, y...
+Entrenador 	Raticate 	Zubat
+Soldado T. Rocket 	Raticate
+Tipo normal Normal 	Zubat
+Tipo veneno VenenoTipo volador Volador
+S. T. Rocket 	Nivel 20
+
+...se irá, para avisar a su jefe de que su guarida podría ser descubierta. Acércate al cartel y pulsa el botón que hay detrás de éste. Ahora, si estás preparado, baja por las escaleras.
+
+En esta ciudad encontrarás los siguientes Pokémon:
+Koffing 	Grimer 	Psyduck 	Slowpoke 	Magikarp 	Eevee
+Koffing
+Tipo veneno Veneno 	Grimer
+Tipo veneno Veneno 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Magikarp
+Tipo agua Agua 	Eevee
+Tipo normal Normal
+30-40 	5-40 	5-35 	25
+
+En el casino encontrarás los siguientes Pokémon:
+Abra 	Scyther 	Pinsir 	Porygon 	Dratini 	Clefairy
+Abra
+Tipo psíquico Psíquico 	Scyther
+Tipo bicho BichoTipo volador Volador 	Pinsir
+Tipo bicho Bicho 	Porygon
+Tipo normal Normal 	Dratini
+Tipo dragón Dragón 	Clefairy
+Tipo normal Normal
+7 	18 	24 	12
+180 ó 120 Fichas de Casino4 	5500 Fichas de Casino5 	2500 Fichas de Casino6 	9999 ó 6500 Fichas de Casino4 	2800 ó 4600 Fichas de Casino4 	500 ó 750 Fichas de Casino4
+Guarida Rocket
+
+Muy bien, estás en la Guarida Rocket , en el juego hay un total de cuatro (la cuarta solo si te pasas la liga) esta es la primera y la que tiene los entrenadores más fáciles.
+Guarida secreta del Team Rocket
+
+Guarida secreta del Team Rocket
+Guarida Rocket S1 (1)
+Sótano 1
+
+Sótano 1
+
+Te encuentras en la Sótano 1. Dirígete hacia la parte de la izquierda para coger una cuerda huida. Puedes ir a la derecha, pero de momento no tienes acceso desde esa habitación. Si vas por el camino hacia abajo donde hay muchas plantas, encontrarás más PP en la última de la derecha, usa el buscaobjetos. Baja las escaleras para llegar al Sótano 2.
+
+Rivales en esta planta:
+Entrenador 	Raticate 	Raticate
+Soldado T. Rocket 	Raticate
+Tipo normal Normal 	Raticate
+Tipo normal Normal
+S. T. Rocket 	Nivel 21
+Entrenador 	Drowzee 	Machop
+Soldado T. Rocket 	Drowzee
+Tipo psíquico Psíquico 	Machop
+Tipo lucha Lucha
+S. T. Rocket 	Nivel 21
+Guarida Rocket S2
+
+Vas a llegar bajando las escaleras y cuando bajas, lo primero que verás es un Soldado Rocket.
+Sótano 2
+
+Sótano 2
+Entrenador 	Zubat 	Koffing 	Zubat 	Grimer 	Raticate
+Soldado T. Rocket 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Koffing
+Tipo veneno Veneno 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Grimer
+Tipo veneno Veneno 	Raticate
+Tipo normal Normal
+S. T. Rocket 	Nivel 17
+
+Lucha con él y después dirígete hacia el mecanismo de baldosas. Funciona del siguiente modo: dependiendo de la dirección que apunte la baldosa que estás pisando, girarás a un lado u a otro, e irás cambiando de dirección según vas avanzando. Pisa cualquiera de las dos baldosas que tienen la flecha en dirección izquierda y pisa la que apunta hacia arriba; llegarás a una piedra lunar. Ahora, ve hacia la dirección contraria sin pisar ninguna baldosa para coger una velocidad X. Vuelve al lugar donde cogiste la piedra lunar, pero esta vez coge la MT12 Mofa. Ve hacia la derecha, pisa las baldosas que apuntan hacia abajo, luego las que apuntan hacia la derecha y después, de nuevo, a las que apuntan a la izquierda, y te pararás en otra baldosa amarilla. Sitúate sobre las flechas que están abajo y que apuntan a la derecha para llegar a una superpoción. Es posible que también llegues a un ascensor, pero todavía no tienes la llave para usarlo. Por último, sal del mecanismo y baja las escaleras del S2 para llegar al S3.
+Guarida Rocket S3
+Sótano 3
+
+Sótano 3
+
+En este sótano, primero ve todo hacia enfrente y utiliza el buscaobjetos para encontrar una pepita, después dirígete hacia abajo, lucha con el soldado Rocket, y coge la MT21 Frustración.
+Entrenador 	Machop 	Machop
+Soldado T. Rocket 	Machop
+Tipo lucha Lucha 	Machop
+Tipo lucha Lucha
+S. T. Rocket 	Nivel 21
+
+También hay otro mecanismo de baldosas. Pisa la baldosa que apunta a la derecha y luego la que apunta hacia abajo, y coge el carameloraro. Luego, ve a la baldosa del principio que apunta a la izquierda, pisa la siguiente de la derecha, vuelve hacia atrás y dirígete al estrecho camino para pisar la primera baldosa de las dos que hay. Te llevará a un soldado del Team Rocket.
+Entrenador 	Rattata 	Raticate 	Drowzee
+Soldado T. Rocket 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Drowzee
+Tipo psíquico Psíquico
+S. T. Rocket 	Nivel 20
+
+A continuación, coge las gafas de sol y baja las escaleras.
+Guarida Rocket S4 (1)
+Sótano 4
+
+Sótano 4
+
+Ve directo hacia la mesa para coger el éter máx. Coge la MT49 Robo de arriba y lucha con el soldado Rocket.
+Entrenador 	Koffing 	Zubat
+Soldado T. Rocket 	Koffing
+Tipo veneno Veneno 	Zubat
+Tipo veneno VenenoTipo volador Volador
+S. T. Rocket 	Nivel 21
+
+Al instante, se le caerá la llave del ascensor, así que recógela. Vuelve al sótano 2 y, juega con el mecanismo de baldosas hasta llegar a un ascensor. También verás que hay unas escaleras, súbelas, pues te llevarán a otra parte del S1.
+Guarida Rocket S1 (2)
+
+En esta parte del sótano 1 encontrarás dos soldados Rocket y una hiperpoción.
+Entrenador 	Rattata 	Raticate 	Raticate 	Rattata
+Soldado T. Rocket 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Rattata
+Tipo normal Normal
+S. T. Rocket 	Nivel 19
+Entrenador 	Grimer 	Koffing 	Koffing
+Soldado T. Rocket 	Grimer
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno
+S. T. Rocket 	Nivel 20
+
+Vuelve por las escaleras al S2 y toma el ascensor. Puedes elegir entre varios pisos, S1, S2, y S4. Elige primero el 1, pues es otra de las partes del primer sótano.
+Guarida Rocket S1 (3)
+
+Aquí sólo hay un soldado Rocket. Toma el ascensor de nuevo y elige la S4.
+Entrenador 	Grimer 	Koffing
+Soldado T. Rocket 	Grimer
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno
+S. T. Rocket 	Nivel 22
+Guarida Rocket S4 (2)
+
+Ésta es la última parte. Cerca de ti hay dos mesas, sobre una de ellas hay un calcio. Ve hacia la parte de arriba, donde encontrarás dos soldados Rocket que cortan tu paso.
+
+Izquierda:
+Entrenador 	Sandshrew 	Sandslash 	Ekans
+Soldado T. Rocket 	Sandshrew
+Tipo tierra Tierra 	Sandslash
+Tipo tierra Tierra 	Ekans
+Tipo veneno Veneno
+S. T. Rocket 	Nivel 23
+
+Derecha:
+Entrenador 	Ekans 	Arbok 	Sandshrew
+Soldado T. Rocket 	Ekans
+Tipo veneno Veneno 	Arbok
+Tipo veneno Veneno 	Sandshrew
+Tipo tierra Tierra
+S. T. Rocket 	Nivel 23
+
+Ahora, ábrete paso hacia el despacho del Jefe Giovanni. Puesto que has arruinado sus planes, entrará en batalla contigo.
+Entrenador 	Onix 	Rhyhorn 	Kangaskhan
+Jefe Giovanni 	Onix
+Tipo roca RocaTipo tierra Tierra 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Kangaskhan
+Tipo normal Normal
+Jefe Giovanni 	Nivel 25 	Nivel 24 	Nivel 29
+
+Tras tu victoria, aparecerá el Scope Silph a tu lado. Además, en el despacho del jefe, con la ayuda del buscaobjetos encontrarás una malla ball y una nido ball, situadas al lado izquierdo y derecho de la mesa. Sal de la guarida usando el ascensor o una cuerda huida. ¡Enhorabuena, has frenado al Team Rocket una vez más!
+
+Es hora de curar tus Pokémon en el Centro Pokémon, pues te espera el Gimnasio Pokémon de ciudad Azulona.
+Gimnasio Pokémon de Ciudad Azulona
+
+Este gimnasio es de tipo planta. Su líder es Erika, amante de los Pokémon tipo planta. Al principio, hay dos entrenadoras. Luego verás otras dos, y en el centro, rodeado de arbustos, está Erika y otras tres entrenadoras.
+Entrenadora 	Bellsprout 	Weepinbell
+Chica 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno
+Chica 	Nivel 23
+Entrenadora 	Bellsprout 	Oddish 	Weepinbell 	Gloom 	Ivysaur
+Entrenadora Guay 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno 	Ivysaur
+Tipo planta PlantaTipo veneno Veneno
+Entre. guay 	Nivel 22
+Entrenadora 	Bulbasaur 	Ivysaur
+dominguera 	Bulbasaur
+Tipo planta PlantaTipo veneno Veneno 	Ivysaur
+Tipo planta PlantaTipo veneno Veneno
+Dominguera 	Nivel 24
+Entrenadora 	Oddish 	Bellsprout 	Oddish 	Bellsprout
+Bella 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+Bella 	Nivel 21
+Entrenadora 	Bellsprout
+Bella 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno
+Bella 	Nivel 24
+Entrenadora 	Oddish 	Gloom
+Chica 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno
+Chica 	Nivel 23
+Entrenadora 	Exeggcute
+Bella 	Exeggcute
+Tipo planta PlantaTipo psíquico Psíquico
+Bella 	Nivel 24
+La líder
+
+Como ya habrás observado, este gimnasio es de tipo planta, y además, otros Pokémon tienen un segundo tipo veneno, como Oddish, Bellsprout, Bulbasaur... Es por ello que, es recomendable el uso de Pokémon de tipo fuego (Charmander, Charmeleon o Charizard), volador (Pidgeotto), psíquico (Abra, Hypno o Kadabra). Butterfree es una buena elección si sabe el movimiento confusión (bicho + volador). No utilices Pokémon de tipo planta (Ivysaur), de agua (Wartortle) ni de tipo roca o tierra (Graveler o Dugtrio). Además, si llevas objetos curativos para quitar los estados alterados, provocados por somnífero, paralizador o polvo veneno; mejor.
+Entrenador 	Victreebel 	Tangela 	Vileplume
+Líder Érika 	Victreebel
+Tipo planta PlantaTipo veneno Veneno 	Tangela
+Tipo planta Planta 	Vileplume
+Tipo planta PlantaTipo veneno Veneno
+Líder Erika 	Nivel 29 	Nivel 24 	Nivel 29
+
+Tu recompensa será la Medalla Arcoiris, podrás usar fuerza y recibirás la MT19 Gigadrenado, ademas todos los Pokémon por debajo del nivel 50 te obedecerán. Ahora, vuelve por donde habías venido a Pueblo Lavanda, pues te espera la Torre Pokémon.
+Torre Pokémon
+Torre Pokémon
+
+Torre Pokémon
+
+En la Planta Baja, verás como algunos entrenadores se lamentan de la pérdida de sus difuntos Pokémon o a rendir homenaje. Sube por las escaleras para llegar a la siguiente planta.
+
+En esta torre encontrarás los siguientes Pokémon:
+Gastly 	Haunter 	Cubone
+Gastly
+Tipo fantasma FantasmaTipo veneno Veneno 	Haunter
+Tipo fantasma FantasmaTipo veneno Veneno 	Cubone
+Tipo tierra Tierra
+13-19 	20-25 	15-19
+Planta 1
+
+En la Planta 1 tendrás otro encuentro con tu rival, que esta vez dispone de 2 nuevos Pokémon, Gyarados/Exeggcute, Gyarados/Growlithe o Exeggcute/Growlithe, dependiendo del Pokémon inicial con el que empezaste.
+Entrenador 	Pidgeotto 	Exeggcute 2 3 	Growlithe 2 1 	Gyarados 1 3 	Kadabra 	Ivysaur 1 	Wartortle 2 	Charmeleon 3
+Rival 	Pidgeotto
+Tipo normal NormalTipo volador Volador 	Exeggcute
+Tipo planta PlantaTipo psíquico Psíquico 	Growlithe
+Tipo fuego Fuego 	Gyarados
+Tipo agua AguaTipo volador Volador 	Kadabra
+Tipo psíquico Psíquico 	Ivysaur
+Tipo planta PlantaTipo veneno Veneno 	Wartortle
+Tipo agua Agua 	Charmeleon
+Tipo fuego Fuego
+Rival 	Nivel 25 	Nivel 22/23 	Nivel 20 	Nivel 25
+
+Después sube por las escaleras para llegar a la Planta 2.
+Planta 2
+
+Aquí empezarás a encontrarte con Gastly y algún que otro Cubone, y con más suerte quizás, un Haunter. En esta planta hay tres entrenadoras y una cuerda huida.
+Planta 3
+
+Encontrarás dos elixir, un despertar y también una superball en esta planta, así como otras tres exorcistas.
+Planta 4
+
+En ésta encontrarás un Amuleto puesto sobre un sello de magia blanca que cura a tus Pokémon, además de una seta grande que esta arriba y una pepita que está más abajo, usa tu Buscaobjetos. Hay cuatro exorcistas.
+Planta 5
+
+Una precisión X y un Carameloraro son los objetos de esta planta. Además, antes de irte por las escaleras, un Ghost al nivel 30 te atacará. Cuando utilices el Scope Silph, verás que el Ghost resulta ser el perturbado espíritu de la madre cubone, que por cierto, no podrás capturar.
+Planta 6
+
+Encontrarás 3 soldados rocket en esta planta, que al ser derrotados se irán. Los Pokémon que son Ratata, Zubat, Koffing, Golbat y Drowzee de modo que no deberían dar ningún problema (recuerda que en la planta 4 puedes curar a tus Pokémon situándote sobre el sello de magia blanca). Cuando llegues al final, encontrarás al Sr. Fuji, que vino a calmar el espíritu de la madre cubone. Te llevará a su casa, donde deberás hablar con él para que te de la Poké flauta, que despierta a los Pokémon dormidos. Si vuelves al lugar en donde estaba el Sr. Fuji y utilizas el buscaobjetos encontraras oculta la Camp. Alivio . Ve hacia la Ruta 12, que está hacia el sur.
+Ruta 12
+
+Avanza por la ruta y entra en la caseta, sube al segundo piso y habla con la niña para recibir la MT27 Retroceso. Al salir y seguir hacia abajo veremos una tabla con una pokebola que esta flotando en el agua, que contiene la MT48 Intercambio, pero solo podremos cogerla usando Surf, que aun no tenemos, cuando sigas avanzando, encontrarás principalmente pescadores y mas adelante con el buscaobjetos podrás encontrar una hiperpoción. Si sigues bajando te encontrarás con varios pescadores contra los que luchar. Al final de la vía, una pareja de entrenadores te esperan para luchar y un poco más abajo, llegarás al Snorlax que te impedía el paso, pero si utilizas la Poké flauta, se despertará y empezara el combate. Snorlax es un Pokémon vago que utilizará Descanso para recuperar PS y a continuación Ronquido, para atacar mientras duerma. Se encuentra en el nivel 30. Si lo derrotas, no te preocupes, pues más adelante podrás capturar a uno con el mismo nivel. Independientemente de lo que hayas hecho, podrás pasar por la ruta, pero antes, usa el Buscaobjetos justo donde estaba el Snorlax y te aparecerán 3 estrellas diciéndote que hay algo enterrado justo debajo de tus pies y desenterrarás un Restos. Sigue caminando y llegarás a la casa del hermano del Gurú pescador, quien te dará una Supercaña. Además, te dirá que vuelvas cuando atrapes un Magikarp. Cuando lo tengas, vuelve, él medirá al pokémon y te dará una Malla ball. Cada vez que lleves un Magikarp (no el mismo, uno diferente) te dará otra Malla Ball. También encontrarás más adelante un Hierro, aunque para obtenerlo deberás usar corte y luchar contra un campista que tiene un Nidoran (macho) y un nidorino al nivel 29. Cuando encuentres otro árbol, córtalo para sumergirte en una zona de hierba, donde encontrarás un Carameloraro con ayuda del Buscaobjetos. Entre los Pokémon salvajes destacan Venonat y Gloom/Weepinbell. Llegarás a la siguiente ruta.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Venonat 	Gloom 	Weepinbell 	Oddish 	Bellsprout 	Snorlax7
+Pidgey
+Tipo normal NormalTipo volador Volador 	Venonat
+Tipo bicho BichoTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Snorlax
+Tipo normal Normal
+23-27 	24-26 	28-30 	22-26 	30
+
+En esta ruta encontrarás los siguientes Pokémon en el agua:
+Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados
+Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador
+5-40 	5-15 	5-35 	25-35 	15-25
+Ruta 13
+
+Cerca de la Dominguera del principio, encontrarás un Más PP en el suelo. Si subes y te diriges a la zona de hierba, puedes encontrar Pokémon salvajes, como Ditto. Hallarás bastantes entrenadores en las Rutas 13, 14 y 15. Ábrete paso entre los caminos para llegar a la Ruta 14
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Venonat 	Gloom 	Weepinbell 	Oddish 	Bellsprout 	Ditto
+Pidgey
+Tipo normal NormalTipo volador Volador 	Venonat
+Tipo bicho BichoTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Ditto
+Tipo normal Normal
+25-27 	24-26 	28-30 	22-26 	25
+
+En el agua:
+Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados
+Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador
+5-40 	5-15 	5-35 	25-35 	15-25
+Ruta 14
+
+Al principio de la Ruta encontrarás dos ornitólogos. También verás un grupo de motoristas que poseen Pokémon de tipo veneno. Cerca de ellos, en la zona de hierba, hay un Zinc escondido en el suelo. También podrás encontrar con el Buscaobjetos una Baya Pinia cerca de las gemelas Lena y Tea con quien tendrás un combate doble, ahora sigue tu camino hacia la siguiente ruta.
+
+En esta ruta encontrarás los siguientes Pokémon:
+Pidgey 	Pidgeotto 	Venonat 	Gloom 	Weepinbell 	Oddish 	Bellsprout 	Ditto
+Pidgey
+Tipo normal NormalTipo volador Volador 	Pidgeotto
+Tipo normal NormalTipo volador Volador 	Venonat
+Tipo bicho BichoTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Ditto
+Tipo normal Normal
+27 	29 	24-26 	30 	22-26 	23
+Ruta 15
+
+Además de ser una ruta larga, se divide en dos partes. Si vas por la parte de arriba, encontrarás al final la MT18 Danza Lluvia. Si vas por la de abajo, encontrarás muchos entrenadores, así como también zonas de hierba. Las dos partes llevan a una caseta. Entra en ella y sube las escaleras, acto seguido habla con el ayudante del profesor Oak. Si ya tienes 50 Pokémon distintos, te dará el Repartir experiencia y si ves por los prismáticos (telescopio) Articuno se agregara a la Pokedex. Luego, baja las escaleras y sal de la caseta para llegar, después de un intenso viaje, a Ciudad Fucsia.
+Pidgey 	Pidgeotto 	Venonat 	Gloom 	Weepinbell 	Oddish 	Bellsprout 	Ditto
+Pidgey
+Tipo normal NormalTipo volador Volador 	Pidgeotto
+Tipo normal NormalTipo volador Volador 	Venonat
+Tipo bicho BichoTipo veneno Veneno 	Gloom
+Tipo planta PlantaTipo veneno Veneno 	Weepinbell
+Tipo planta PlantaTipo veneno Veneno 	Oddish
+Tipo planta PlantaTipo veneno Veneno 	Bellsprout
+Tipo planta PlantaTipo veneno Veneno 	Ditto
+Tipo normal Normal
+25-27 	29 	24-26 	28-30 	22-26 	25
+Ciudad Fucsia
+Tienda Pokémon Objeto 	Precio
+Ultraball 	1200Pokéyen
+Superball 	600Pokéyen
+Superpoción 	700Pokéyen
+Revivir 	1500Pokéyen
+Cura Total 	600Pokéyen
+Máx. Repel 	700Pokéyen
+
+Ciudad Fucsia es tu sexta ciudad. Si observas tu tarjeta de entrenador, verás que te faltan 4 medallas, es decir, la mitad del total. Desde que empezaste, te has vuelto un entrenador fuerte y has completado algo tu Pokédex, has ganado medallas y puesto el listón alto a tu rival, has crecido como persona y has conocido a distintos entrenadores... Pero todo ésto no es motivo suficiente para tomarse un descanso. Tu camino como entrenador no ha terminado, de hecho, todavía queda mucho por hacer. Para variar, debes hacer algunas cosas en esta ciudad, aunque el orden es indiferente.
+
+Primero, ve a las casas del sur, en una, encontrarás al hermano mayor del Gurú pescador, que te entregará la caña buena. En esa misma, si sales por la segunda puerta y utilizas el buscaobjetos, encontrarás un Máx. revivir. La casa de al lado es la del guardia del Safari, que no articula bien al hablar, por lo que no le entenderás. También hay un objeto tapado por una roca, que de momento no puedes coger puesto que no tienes la MO04 Fuerza. A la izquierda del centro pokemon se encuentra la casa del Quita-movimientos, muy útil para cuando quieras olvidar MOs que ya no te sirvan.
+
+Luego, puedes seguir rellenando huecos en tu Pokédex mirando los Pokémon de alrededor. Puedes hablar con el cazabichos que mira al Kangaskhan y le enseñará a algún Pokémon el movimiento sustituto. Otra de las novedades de esta ciudad es la Zona Safari. ¿Por qué no entras? Vale 500 y además puedes atrapar distintos Pokémon.
+
+En esta ciudad encontrarás los siguientes Pokémon:
+Psyduck 	Slowpoke 	Magikarp 	Goldeen 	Poliwag 	Seaking 	Gyarados
+Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Magikarp
+Tipo agua Agua 	Goldeen
+Tipo agua Agua 	Poliwag
+Tipo agua Agua 	Seaking
+Tipo agua Agua 	Gyarados
+Tipo agua AguaTipo volador Volador
+20-40 	5-15 	5-25 	5-15 	20-30 	15-25
+Zona Safari
+Zona Safari.
+
+Zona Safari.
+
+La Zona Safari tiene 4 zonas. Cada zona tiene diferentes tipos de Pokémon, y algunos son raros. Hay Pokémon como Rhyhorn, Nidoran♂ (macho) y Nidorino, Exeggcute, Kangaskhan, Chansey, Doduo, Tauros, Dratini, Scyther (detrás de la casa de reposo del oeste), etc.
+
+Deberás capturarlos con las Safari Balls, y puedes ayudarte del cebo y de las rocas. Si tiras cebo a un Pokémon, será difícil que escapen, pero te costará más atraparlos. Por el contrario, si tiras rocas, será fácil que escapen, pero te costará menos atraparlos. Cuando se te acabe el tiempo (límite de pasos) o todas las Safari Balls, el juego se dará por terminado.
+
+Cuando estés en la Zona Safari, anda algo por las zonas de hierba del principio y después dirígete hacia la derecha, pasando la casa. Llegarás a la primera zona.
+
+En la zona safari encontrarás los siguientes Pokémon:
+Nidoran♂ 	Nidorina 	Nidoran♀ 	Nidorino 	Parasect 	Venonat
+Nidoran macho
+Tipo veneno Veneno 	Nidorina
+Tipo veneno Veneno 	Nidoran hembra
+Tipo veneno Veneno 	Nidorino
+Tipo veneno Veneno 	Parasect
+Tipo bicho BichoTipo planta Planta 	Venonat
+Tipo bicho BichoTipo veneno Veneno
+22-30 	30-33 	22-30 	30-33 	25 y 30 	22-23
+Exeggcute 	Rhyhorn 	Chansey 	Pinsir 	Tauros 	Scyther
+Exeggcute
+Tipo planta PlantaTipo psíquico Psíquico 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Chansey
+Tipo normal Normal 	Pinsir
+Tipo bicho Bicho 	Tauros
+Tipo normal Normal 	Scyther
+Tipo bicho BichoTipo volador Volador
+23-27 	25-26 	23-26 	23 y 28 	25 y 28 	23 y 28
+Venomoth 	Kangaskhan 	Doduo 	Paras 	Psyduck 	Slowpoke
+Venomoth
+Tipo bicho BichoTipo veneno Veneno 	Kangaskhan
+Tipo normal Normal 	Doduo
+Tipo normal NormalTipo volador Volador 	Paras
+Tipo bicho BichoTipo planta Planta 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico
+32 	25 y 28 	26 	22 y 23 	15-40
+Magikarp 	Dratini 	Dragonair 	Poliwag 	Goldeen 	Seaking
+Magikarp
+Tipo agua Agua 	Dratini
+Tipo dragón Dragón 	Dragonair
+Tipo dragón Dragón 	Poliwag
+Tipo agua Agua 	Goldeen
+Tipo agua Agua 	Seaking
+Tipo agua Agua
+5-15 	15-25 	25-35 	5-15 	5-25 	20-30
+Zona Central
+
+La zona central esta dividida en tres partes: La parte inferior derecha, la parte superior y la parte izquierda.
+Zona Central
+
+Zona Central
+
+En la parte rocosa que se encuentra rodeada de agua, encontrarás una Piedra hoja. Lo único que puedes hacer en esta parte, ademas de intentar capturar algún Pokémon, es seguir el camino hacia la derecha y llegarás a la Zona 1.
+Zona 1
+
+Siguiendo el camino, llegarás a unas escaleras que podrás subir y elegir entre seguir hacia arriba o hacia la izquierda.
+Zona 1
+
+Zona 1
+
+Elije el camino hacia arriba para coger una Piedra hoja. Vuelve y sigue a la izquierda y baja las escaleras para seguir el camino. Sube y verás un camino pequeño que esta rodeado de agua y que a su final se encuentra la MT11(Día soleado). Vuelve atrás y sigue subiendo por el único camino posible que te llevará a una Poción máxima y a subir escaleras y bajar por otras para recoger un Restaurar todo. Al lado de este objeto, se encuentra una casa de reposo sin ninguna importancia. Sigue hacia arriba y a la izquierda para seguir recorriendo el camino y llegar a la zona 2.
+Zona 2
+
+Entrarás por la parte baja de la zona donde podrás elegir tres caminos. Tienes dos escaleras y un camino a otra zona. El camino hacia otra zona te lleva a la parte superior de la zona central donde no hay nada interesante. Toma las primeras escaleras y sigue el camino para recoger una Garra rápida. Vuelve al principio y toma las otras escaleras que se encuentran al norte del camino que lleva a la parte superior de la zona central.
+Zona 2
+
+Zona 2
+
+Sube y baja las escaleras y baja por el camino que se encuentra al sur de las escaleras que bajaste. Este camino transita una parte de la zona 3 para llegar a la zona oeste de la zona central en la cual no hay nada de relevancia. Lo único importante de este camino es la parte sur de la zona 3 donde puedes recoger un Revivir máximo. Sube las escaleras y por el camino del sur, al bajar las escaleras, encontrarás una Poción máxima. Ahora sí, vuelve hacia el norte a la zona 2. Aquí lo único que queda por hacer es seguir al norte donde encontrarás la MT47(Ala de acero). Sigue adelante y verás otra casa de reposo sin nada importante en ella. Sigue por el único camino posible, encontrarás una Proteína y sigue para que puedas llegar a la parte superior de la zona 3.
+Zona 3
+
+Apenas ingreses, si bajas encontrarás unos Dientes oro.
+Zona 3
+
+Zona 3
+
+Sube y sigue por el camino para encontrar la MT32(Doble equipo) y una casa arriba de este que es la única importante de la zona. Entra y el empleado te recompensará con la MO03(Surf). Ya no tienes nada mas que hacer en la Zona Safari. Puedes seguir explorando la zona con Surf pero necesitas la medalla del Gimnasio Pokémon de Ciudad Fucsia. Si quieres, puedes seguir capturando Pokémon o simplemente salir.
+
+Cuando hayas salido, vuelve a la casa del guardia Safari en Ciudad Fucsia, dale su dentadura(Dientes de oro. A cambio recibirás la MO04 Fuerza. Ahora, puedes mover la roca para coger el carameloraro. Sal de la casa y dirígete a la Ruta 18, el Gimnasio Pokémon lo dejaremos para más adelante.
+Ruta 18
+
+Como es frecuente en estas rutas, encontrarás tres ornitólogos al inicio de ésta. Si entras en la típica caseta que comunica distintos caminos y subes al segundo piso, puedes cambiar tu Slowbro (VH) o un Golduck (RF) por un Lickitung. Cuando salgas de la casa, automáticamente aparecerás montado en tu bici, pues por el Camino de Bicis debes ir montado en ella obligatoriamente.
+Spearow 	Fearow 	Doduo 	Rattata 	Raticate 	Lickitung
+Spearow
+Tipo normal NormalTipo volador Volador 	Fearow
+Tipo normal NormalTipo volador Volador 	Doduo
+Tipo normal NormalTipo volador Volador 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Lickitung
+Tipo normal Normal
+Camino de Bicis (Rutas 18 y 17)
+
+Avanza por el camino de la izquierda y sube hacia arriba para llegar a la Ruta 17. A partir de esta Ruta, puesto que es una cuesta, tu bicicleta se irá hacia abajo si dejas de controlarla. En el primer tramo, antes de llegar al primer motorista y después de pasar el cartel de la ruta, utiliza el buscaobjetos para encontrar un Elixir Máx., aunque te será difícil cogerlo por la pendiente(mantener apretado B para parar la bicicleta y que no se tire para abajo). Cuando llegues al motorista, puedes ir por el camino de izquierda o por el de la derecha. Los dos terminan en el mismo sitio. Utiliza el buscaobjetos por toda la ruta para encontrar diferentes objetos, como dos Restaura todo y un Carameloraro, entre otros. Sigue ascendiendo por la costosa pendiente hasta llegar a la Ruta 16.
+Spearow 	Fearow 	Doduo 	Rattata 	Raticate
+Spearow
+Tipo normal NormalTipo volador Volador 	Fearow
+Tipo normal NormalTipo volador Volador 	Doduo
+Tipo normal NormalTipo volador Volador 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal
+Ruta 16
+
+Afortunadamente, en esta ruta las cosas se equilibran más y ya no tienes que ir en contra de la cuesta, así que podrás controlar a tu bici fácilmente.
+
+Un grupo de motoristas y calvos te espera en la ruta. Cuando los venzas, en la caseta, como es de esperar, si subes al segundo piso un ayudante del profesor Oak te dará el Mon. amuleto en caso de haber atrapado 40 Pokémon. Luego, cuando salgas de la casa, verás un segundo Snorlax. Ésta es tu segunda oportunidad si derrotaste al primero, así que aprovéchala para capturarle. Antes de seguir, vuelve a utilizar el Buscaobjetos donde estaba el Snorlax y encontrarás otra unidad de Restos. Luego, si cortas el árbol y vas por la parte de detrás de la caseta, llegarás a otra casa en la que una niña te dará la MO02 Vuelo. Enséñale dicha MO a un Pokémon de tipo volador para volver a Ciudad Fucsia subido a tu Pokémon. Cuando estés al lado del Centro Pokémon, entra al Gimnasio Pokémon.
+Spearow 	Snorlax 	Doduo 	Rattata 	Raticate
+Spearow
+Tipo normal NormalTipo volador Volador 	Snorlax
+Tipo normal Normal 	Doduo
+Tipo normal NormalTipo volador Volador 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal
+Gimnasio Pokémon de Ciudad Fucsia
+
+El gimnasio de Ciudad Fucsia es del elemento veneno, aunque ten cuidado ya que también poseen Pokémon de tipo psíquico. Está lleno de muros invisibles que te obligan a rodearlos y luchar con entrenadores. Lo que debes hacer para llegar a Koga, es meterte por los huecos que "veas" y avanzar hasta él de esa forma. Las baldosas que tienen puntos blancos en las esquinas son las que no te dan paso.
+Entrenador 	Drowzee 	Kadabra 	Drowzee
+Malabarista 	Drowzee
+Tipo psíquico Psíquico 	Drowzee
+Tipo psíquico Psíquico 	Kadabra
+Tipo psíquico Psíquico 	Drowzee
+Tipo psíquico Psíquico
+Malabarista 	Nivel 31
+Entrenador 	Arbok 	Sandslash 	Arbok 	-
+Domador 	Arbok
+Tipo veneno Veneno 	Sandslash
+Tipo tierra Tierra 	Arbok
+Tipo veneno Veneno 	-
+Domador 	Nivel 33 	-
+Entrenador 	Drowzee 	Kadabra 	- 	-
+Malabarista 	Drowzee
+Tipo psíquico Psíquico 	Kadabra
+Tipo psíquico Psíquico 	- 	-
+Malabarista 	Nivel 34 	- 	-
+Entrenador 	Drowzee 	Hypno 	- 	-
+Malabarista 	Drowzee
+Tipo psíquico Psíquico 	Hypno
+Tipo psíquico Psíquico 	- 	-
+Malabarista 	Nivel 34 	- 	-
+Entrenador 	Sandslash 	Arbok 	- 	-
+Domador 	Sandslash
+Tipo tierra Tierra 	Arbok
+Tipo veneno Veneno 	- 	-
+Domador 	Nivel 34 	- 	-
+Entrenador 	Hypno 	- 	- 	-
+Malabarista 	Hypno
+Tipo psíquico Psíquico 	- 	- 	-
+Malabarista 	Nivel 38 	- 	- 	-
+El líder
+
+Koga utilizará cuatro Pokémon. Puesto que Koffing y Weezing levitan, no les afectará los ataques de tipo tierra. Lo mejor es utilizar algún Pokémon de tipo Psíquico y dejar a los vulnerables a un lado. Debes preocuparte también del envenenamiento con tóxico.
+Entrenador 	Koffing 	Muk 	Koffing 	Weezing
+Líder Koga 	Koffing
+Tipo veneno Veneno 	Muk
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno 	Weezing
+Tipo veneno Veneno
+Líder Koga 	Nivel 37 	Nivel 39 	Nivel 37 	Nivel 43
+
+Ganarás la Medalla Alma, que te permite utilizar Surf cuando quieras, y la MT06 Tóxico.
+
+Ya hemos acabado lo que teníamos que hacer en Ciudad Fucsia. Antes de poner rumbo a tu próximo destino, vamos a hacer uso de las MO conseguidas: Vuelo y Surf. Ahora podrás llegar a la pequeña isla en la Zona Safari donde se encuentras una Pepita y una Piedra Hoja usando el Buscaobjetos, luego vuela a Pueblo Lavanda y vuelve a la Ruta 12. En una de las partes del puente, tendrás que usar Surf para coger la MT48 Intercambio. Ahora, vuela a Ciudad Azulona, donde puedes hacer Surf para que un señor mayor te enseñe Amortiguador. Como nos viene de camino, ve a la Ruta 7 y métete en la caseta, en la que el Guardia te pedirá el Té que te dio la anciana en la mansión Azulona. Ahora, podrás pasar a Ciudad Azafrán.
+Ciudad Azafrán
+Tienda Pokémon Objeto 	Precio
+Superball 	600Pokéyen
+Hiperpoción 	1200Pokéyen
+Revivir 	1500Pokéyen
+Cura Total 	600Pokéyen
+Cuerda Huida 	550Pokéyen
+Máx. Repel 	700Pokéyen
+
+Como habrás observado, Ciudad Azafrán está siendo dominada por los planes del Team Rocket, por lo que de momento podrás ir a pocos sitios. Primero ve al sur de la Ciudad, y entra en la cuarta casa a la derecha del Centro Pokémon, donde el Sr. Psíquico te dará la MT29 Psíquico. Al lado de la Tienda Pokémon está el Club de Fans de entrenadores Pokémon. En él, hablan de entrenadores famosos, y, cuando tú lo seas, lo harán de ti. Ve al edificio grande, Silph S.A.
+Hitmonchan 	Hitmonlee 	Lapras
+Hitmonchan
+Tipo lucha Lucha 	Hitmonlee
+Tipo lucha Lucha 	Lapras
+Tipo agua AguaTipo hielo Hielo
+Silph S.A.
+
+La famosa empresa Silph S.A. está siendo controlada por el Team Rocket. Tu deber es impedirlo, y para ello, deberás resolver laberintos, baldosas teletransportadoras, encontrarte con nuevas caras y con conocidas...
+
+En la planta baja no hay nadie. Apenas entres, ve a la cuarta planta. Una vez allí ve a la izquierda y luego abajo, venciendo entrenadores, avanza hacia el sur y verás a un Soldado del Team Rocket junto a un teletransportador. Písalo y llegarás al octavo piso. Vuelve a pisarlo para regresar al cuarto piso y poder avanzar hacia la derecha. Esto te permitirá tomar, la llave magnética, que abrirá todas las puertas mecánicas del Silph S.A. Con la llave en tus manos tienes acceso a todo el edificio y encontrarás objetos interesantes y experiencia necesaria para el próximo gimnasio.
+Primer piso
+
+En este piso tienes que luchar contra dos reclutas y un científico que verás a simple vista. Continua hacia la izquierda donde hay dos puertas para abrir. En la puerta de arriba la chica le enseñará onda trueno a tu Pokémon y en la puerta de abajo encontrarás una Ultra Ball en una de las plantas. El científico en esa sala no luchará contigo a menos que tu le hables. No pises ningún tele transportador puesto que todos los caminos llegan al mismo lugar ahora que tienes la llave.
+Entrenador 	Golbat 	Zubat 	Zubat 	Raticate 	Zubat
+Soldado T. Rocket 	Golbat
+Tipo volador VoladorTipo veneno Veneno 	Zubat
+Tipo volador VoladorTipo veneno Veneno 	Zubat
+Tipo volador VoladorTipo veneno Veneno 	Raticate
+Tipo normal Normal 	Zubat
+Tipo volador VoladorTipo veneno Veneno
+S. T. Rocket 	Nivel 25 	Nivel 25 	Nivel 25 	Nivel 25 	Nivel 25
+Entrenador 	Grimer 	Weezing 	Koffing 	Weezing
+Científico 	Grimer
+Tipo veneno Veneno 	Weezing
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno 	Weezing
+Tipo veneno Veneno
+Científico Rogelio 	Nivel 26 	Nivel 26 	Nivel 26 	Nivel 26
+Entrenador 	Cubone 	Zubat
+Soldado T. Rocket 	Cubone
+Tipo tierra Tierra 	Zubat
+Tipo volador VoladorTipo veneno Veneno
+S. T. Rocket 	Nivel 29 	Nivel 29
+Entrenador 	Magnemite 	Voltorb 	Magneton
+Científico 	Magnemite
+Tipo eléctrico EléctricoTipo acero Acero 	Voltorb
+Tipo eléctrico Eléctrico 	Magneton
+Tipo eléctrico EléctricoTipo acero Acero
+Científico Jeronimo 	Nivel 28 	Nivel 28 	Nivel 28
+Segundo piso
+
+Apenas subas verás un recluta al cual deberás vencer. Sigue caminando hacia abajo y a la derecha encontrarás tres plantas con una proteína en la planta del medio. Sube y abre las dos puertas para recoger la Hiperpoción y luchar contra el científico. Sin nada mas que hacer, sube las escaleras para llegar al siguiente piso.
+Entrenador 	Raticate 	Hypno 	Raticate
+Soldado T. Rocket 	Raticate
+Tipo normal Normal 	Hypno
+Tipo psíquico Psíquico 	Raticate
+Tipo normal Normal
+S. T. Rocket 	Nivel 28 	Nivel 28 	Nivel 28
+Entrenador 	Electrode 	Weezing
+Científico 	Electrode
+Tipo eléctrico Eléctrico 	Weezing
+Tipo veneno Veneno
+Científico Jose 	Nivel 29 	Nivel 29
+Tercer piso
+
+Baja y recoge la MT41(Tormento), recoge el Hierro en la última planta y derrota al recluta. Ahora baja y lucha contra el recluta que veas al lado de las plantas. Entra por la puerta que ya se encuentra abierta y abre la que esta mas arriba para luchar con el científico. Abre la segunda puerta y recoge la Cura total, el Revivir máximo y la Cuerda huida. Piso explorado, sigamos con el Piso 5.
+Entrenador 	Ekans 	Zubat 	Cubone
+Soldado T. Rocket 	Ekans
+Tipo veneno Veneno 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Cubone
+Tipo tierra Tierra
+S. T. Rocket 	Nivel 28 	Nivel 28 	Nivel 28
+Entrenador 	Machop 	Drowzee
+Soldado T. Rocket 	Machop
+Tipo lucha Lucha 	Drowzee
+Tipo psíquico Psíquico
+S. T. Rocket 	Nivel 29 	Nivel 29
+Entrenador 	Electrode
+Científico 	Electrode
+Tipo eléctrico Eléctrico
+Científico Rodolfo 	Nivel 29
+Cuarto piso
+
+Este piso es en el que se encontraba la llave así que ya debes de habert enfrentado al científico y al recluta de la parte derecha. Ahora enfréntate al que se encuentra en la parte izquierda. Entra por la puerta a su lado y en la planta que se encuentra en el rincón hay un más pp. Lucha con el hombre y abre la puerta detrás de el y en una de las plantas encontrarás un elixir. Vuelve a las escaleras y ve hacia la izquierda para abrir la primera puerta y recoger una proteína. Sal y sigue bajando. Detrás de la última puerta te espera la MT01, puño certero. Otro piso explorado así que vamos rumbo al siguiente.
+Entrenador 	Hypno
+Soldado T. Rocket 	Hypno
+Tipo psíquico Psíquico
+S. T. Rocket 	Nivel 33
+Entrenador 	Kadabra 	Mr. Mime
+Malabarista 	Kadabra
+Tipo psíquico Psíquico 	Mr. Mime
+Tipo psíquico Psíquico
+Malabarista Rodrigo 	Nivel 29 	Nivel 29
+Entrenador 	Magneton 	Magnemite 	Koffing 	Weezing
+Científico 	Magneton
+Tipo eléctrico EléctricoTipo acero Acero 	Magnemite
+Tipo eléctrico EléctricoTipo acero Acero 	Koffing
+Tipo veneno Veneno 	Weezing
+Tipo veneno Veneno
+Científico Rodolfo 	Nivel 26 	Nivel 26 	Nivel 26 	Nivel 26
+Entrenador 	Arbok
+Soldado T. Rocket 	Arbok
+Tipo veneno Veneno
+S. T. Rocket 	Nivel 33
+Quinto piso
+
+Lucha con el recluta que veas al lado del ascensor. Sigue hacia la izquierda y en la primera sala encontrarás un carburante en una de las plantas. Baja, derrota al científico, abre la puerta y recoge el más ps y el especial X que se encuentran ahí.
+Sexto piso
+
+Derrota al recluta y abre la puerta detrás de este. Avanza y recoge un zinc y la MT08 (Corpulencia). Abre la puerta y derrota al recluta. Vuelve a las escaleras y ve hacia la izquierda. Primero toma el camino hacia abajo y encontrarás un científico y un calcio. Ahora sube y derrota al último recluta y abre la puerta. Sin nada que hacer dentro, sube las escaleras rumbo al siguiente piso.
+Séptimo piso
+
+Apenas subas verás a un recluta. Baja y ve hacia la derecha para recoger el hierro y la pepita que están en la planta delante del científico. Vuelve y ve hacia la izquierda para enfrentarte a otro recluta. Sube, derrota al científico y vuelve para subir al siguiente piso.
+Octavo piso
+
+Elige el camino de la derecha y derrota al científico. Abre las puertas y baja por la izquierda. Derrota al recluta, abre la puerta y habla con la chica para que tus Pokémon sean sanados. Sube y en la planta encontrarás un calcio. Abre la puerta y derrota al recluta. Aquí tienes dos caminos. Si sigues adelante tienes un teletransportador que hará que sigas hasta la parte de arriba que interesa. El otro camino es seguir subiendo por las escaleras los dos pisos que faltan y juntar un poco mas de experiencia.
+Noveno piso
+
+Ve por la puerta abierta de la derecha y en la planta recoge un más ps. Sal y derrota al científico. Sigue bajando y encontrarás otro recluta junto a un carburante, un caramelo raro y una Ultra Ball. Nada mas que hacer, sube al siguiente piso.
+Décimo piso
+
+Este piso se encuentra dividido en dos partes. Al subir por las escaleras lo único accesible desde ese lado es enfrentarse al recluta y recoger un zinc. Ahora vuelve al primer piso para tomar el teletransportador.
+Segundo piso (2)
+
+Cuando llegues al segundo piso, pisa el primer teletransportador entrando por la puerta de la izquierda y te llevará a una parte no accesible del sexto piso donde tu rival de estará esperando. Prepárate bien ya que su equipo es poderoso y será este:
+Entrenador 	Pidgeot 	Exeggcute 2 3 	Growlithe 2 1 	Gyarados 1 3 	Alakazam 	Venusaur 1 	Blastoise 2 	Charizard 3
+Rival 	Pidgeot
+Tipo normal NormalTipo volador Volador 	Exeggcute
+Tipo planta PlantaTipo psíquico Psíquico 	Growlithe
+Tipo fuego Fuego 	Gyarados
+Tipo agua AguaTipo volador Volador 	Alakazam
+Tipo psíquico Psíquico 	Venusaur
+Tipo planta PlantaTipo veneno Veneno 	Blastoise
+Tipo agua Agua 	Charizard
+Tipo fuego FuegoTipo volador Volador
+Rival 	Nivel 37 	Nivel 38 	Nivel 35/38 	Nivel 35 	Nivel 40
+
+Una vez determinado el ganador, habla con el chico que está cerca tuyo para que te de un Lapras. Pisa la baldosa para teletransportarte al décimo piso. Lucha con el soldado Rocket, rebusca en la segunda planta de la derecha para encontrar un revivir y abre la puerta. Te verás las caras por segunda vez con Giovanni:
+Entrenador 	Nidorino 	Kangaskhan 	Rhyhorn 	Nidoqueen
+Giovanni 	Nidorino
+Tipo veneno Veneno 	Kangaskhan
+Tipo normal Normal 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Nidoqueen
+Tipo veneno VenenoTipo tierra Tierra
+Giovanni 	Nivel 37 	Nivel 35 	Nivel 37 	Nivel 41
+
+Cuando obtengas la victoria, habla con el presidente para que te de una Master Ball. Ahora, ya que has arruinado los planes del Team Rocket, sal de Silph S.A. Ve al centro Pokémon y después, puedes visitar las casas que antes estaban vigiladas por soldados Rocket, como la casa de la Copiona. Si hablas con dicha niña y le das un Poké muñeco, te enseñará mimético.
+
+A continuación, ve hacia el Dojo-Karate
+Dojo-Karate
+
+El Dojo-Karate es una especie de Gimnasio Pokémon, con cuatro karatekas y un líder. La diferencia es que, en vez de darte una medalla, te darán otro premio. ¡Véncelos a todos y demuestra lo que vales!
+Entrenador 	Machop 	Mankey 	Primeape
+Karateka 	Machop
+Tipo lucha Lucha 	Mankey
+Tipo lucha Lucha 	Primeape
+Tipo lucha Lucha
+Karateka 	Nivel 31
+Entrenador 	Mankey 	Primeape
+Karateka 	Mankey
+Tipo lucha Lucha 	Mankey
+Tipo lucha Lucha 	Primeape
+Tipo lucha Lucha
+Karateka 	Nivel 31
+Entrenador 	Machop 	Machoke 	-
+Karateka 	Machop
+Tipo lucha Lucha 	Machoke
+Tipo lucha Lucha 	-
+Karateka 	Nivel 32 	-
+Entrenador 	Primeape 	- 	-
+Karateka 	Primeape
+Tipo lucha Lucha 	- 	-
+Karateka 	Nivel 36 	- 	-
+
+Cuando venzas a los Karateka, te las verás con el líder.
+Entrenador 	Hitmonchan 	Hitmonlee
+Líder Karateka 	Hitmonchan
+Tipo lucha Lucha 	Hitmonlee
+Tipo lucha Lucha
+L. Karateka 	Nivel 37
+
+Ha llegado la hora de coger tu premio: Hitmonlee o Hitmonchan. Sólo puedes coger uno, así que elige el que quieras. Luego, cura a tus Pokémon en el Centro Pokémon y entra en el gimnasio, cuya líder es Sabrina.
+Hitmonlee 	Hitmonchan
+Hitmonlee
+Tipo lucha Lucha 	Hitmonchan
+Tipo lucha Lucha
+Nivel 25
+Patada giro 	Puño cometa
+Patada salto 	Agilidad
+Demolición 	Persecución
+Foco energía 	Ultrapuño
+Gimnasio Pokémon de Ciudad Azafrán
+
+El gimnasio de ciudad Azafrán es del elemento psíquico. Está lleno de una serie de baldosas teletransportadoras o interruptores que te teletransportan a distintas zonas del gimnasio. Los entrenadores que encontrarás por todo el gimnasio son:
+Entrenador 	Kadabra 	Slowpoke 	Mr. Mime 	Kadabra
+Médium 	Kadabra
+Tipo psíquico Psíquico 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Mr. Mime
+Tipo psíquico Psíquico 	Kadabra
+Tipo psíquico Psíquico
+Médium 	Nivel 31
+Entrenador 	Slowpoke 	Slowbro 	-
+Médium 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Slowbro
+Tipo agua AguaTipo psíquico Psíquico 	-
+Médium 	Nivel 33 	-
+Entrenadora 	Gastly 	Haunter 	-
+Exorcista 	Gastly
+Tipo fantasma FantasmaTipo veneno Veneno 	Gastly
+Tipo fantasma FantasmaTipo veneno Veneno 	Haunter
+Tipo fantasma FantasmaTipo veneno Veneno 	-
+Exorcista 	Nivel 33 	-
+Entrenador 	Mr. Mime 	Kadabra 	- 	-
+Médium 	Mr. Mime
+Tipo psíquico Psíquico 	Kadabra
+Tipo psíquico Psíquico 	- 	-
+Médium 	Nivel 34 	- 	-
+Entrenadora 	Gastly 	Haunter 	- 	-
+Exorcista 	Gastly
+Tipo fantasma FantasmaTipo veneno Veneno 	Haunter
+Tipo fantasma FantasmaTipo veneno Veneno 	- 	-
+Exorcista 	Nivel 34 	- 	-
+Entrenadora 	Haunter 	- 	- 	-
+Exorcista 	Haunter
+Tipo fantasma FantasmaTipo veneno Veneno 	- 	- 	-
+Exorcista 	Nivel 38 	- 	- 	-
+Entrenador 	Slowbro 	- 	- 	-
+Médium 	Slowbro
+Tipo agua AguaTipo psíquico Psíquico 	- 	- 	-
+Médium 	Nivel 38 	- 	- 	-
+
+Para llegar hasta Sabrina, deberás seguir el siguiente recorrido: en la entrada, pisa la única baldosa que hay. Después, en la sala en la que estás, pisa la baldosa inferior de la izquierda; te teletransportará a otra habitación diferente. Pisa la baldosa inferior de la izquierda, luego la superior de la derecha, y por último, la inferior de la izquierda.
+La líder
+
+Sabrina utilizará cuatro Pokémon. Como ya sabes, Kadabra y Alakazam tienen un ataque especial bastante alto, pero una defensa baja. Lo mejor contra ellos es usar ataques físicos de gran potencia, como hipercolmillo, para debilitarlos rápidamente y evitar que usen premonición y paz mental. Venomoth utilizará ataques para alterar tu estado, mientras que Mr. Mime utilizará ataques psíquicos y barrera para subir la defensa. Por supuesto, no utilices Pokémon de tipo veneno ni de tipo lucha, pues caerán fácilmente.
+
+otros consejos:
+
+    Utiliza ataques tipo bicho, fantasma o siniestro. (Zubat y sus evoluciones)
+    Teniendo en cuenta el 1° punto, ten cuidado con los Pokémon que uses, ya que los únicos de tipo fantasma también son venenosos
+    Teniendo en cuenta el 1° punto, es muy difícil tener un Pokémon siniestro, pero no se los necesita. puedes usar movimientos de este tipo, como es el caso de Squirtle. este aprende mordisco, al igual que sus evoluciones.
+    Para Venomoth puedes usar movimientos tipo fuego, roca, volador o psíquico. aun así, los Pokémon tipo psíquico son débiles contra el tipo bicho, así que cuidado.
+    Puedes defenderte con Pokémon tipo acero, como un Magnemite o Magneton
+
+Entrenadora 	Kadabra 	Mr. Mime 	Venomoth 	Alakazam
+Líder Sabrina 	Kadabra
+Tipo psíquico Psíquico 	Mr. Mime
+Tipo psíquico Psíquico 	Venomoth
+Tipo bicho BichoTipo veneno Veneno 	Alakazam
+Tipo psíquico Psíquico
+Líder Sabrina 	Nivel 38 	Nivel 37 	Nivel 38 	Nivel 43
+
+Cuando consigas la Medalla Pantano y la MT04 Paz Mental, vete volando a Pueblo Paleta para hacer surf en la parte sur.
+Consejo
+
+Si bien no sabes como llegar volando, simplemente puedes ir a la ruta 12, llegar a Ciudad Carmín, tomar la Cueva Diglett y luego ir al sur, toma el conector, ir a la izquierda y habrá un arbusto que cortar, pasa por ahí y ve al sur y llegarás a Pueblo Paleta
+
+
+Ruta 21
+
+Tu visita a Pueblo Paleta ha durado poco. Al principio de la Ruta 21, en la parte de hierba, puedes capturar un Tangela, aunque es bastante difícil poder capturarlo. Luego, sigue surfeando hacia abajo, lucha con los pescadores de las dos islas y con los demás entrenadores que te vayas encontrando. Hallarás una Perla en una pequeña porción de tierra con el Buscaobjetos. Al final, habrás llegado a Isla Canela.
+Tangela 	Kingler 	Seadra 	Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados
+Tangela
+Tipo planta Planta 	Kingler
+Tipo agua Agua 	Seadra
+Tipo agua Agua 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador
+Isla Canela
+Tienda Pokémon Objeto 	Precio
+Ultraball 	1200Pokéyen
+Superball 	600Pokéyen
+Hiperpoción 	1200Pokéyen
+Revivir 	1500Pokéyen
+Cura Total 	600Pokéyen
+Cuerda Huida 	550Pokéyen
+Máx. Repel 	700Pokéyen
+
+Isla Canela es una pequeña ciudad en medio del mar en la que hay, además de un Centro Pokémon (al que debes entrar nada más llegar) y una Tienda Pokémon, un Gimnasio Pokémon, un Laboratorio Pokémon y una Mansión. Las puertas del gimnasio están cerradas, así que ve al Laboratorio primero. Como puedes observar, hay tres salas. Entra en la Sala de reuniones, donde un señor mayor te cambia tu Raichu por un Electrode y una chica te cambia su Tangela por un Venonat. En la Sala I + D, un chico puede enseñarle Metrónomo a uno de tus Pokémon, mientras que en la Sala de pruebas, un chico te cambia su seel por un ponyta y también verás un científico. Dicho científico puede revivir el fósil que conseguiste en Mt. Moon, así que dáselo; conseguirás un Omanyte o un Kabuto (solo basta con salir y volver a entrar a la sala). Dale también el Ámbar Viejo para obtener un Aerodactyl revivido. Ahora, sal del Laboratorio y dirígete a la Mansión Pokémon, en la cual tendrás que encontrar las llaves que abren el gimnasio.
+
+Pokémon que hay en la ciudad:
+Slowbro 	Kingler 	Seadra 	Tentacool 	Magikarp 	Krabby 	Horsea 	Psyduck 	Slowpoke 	Gyarados 	Staryu 	Shellder
+Slowbro
+Tipo agua AguaTipo psíquico Psíquico 	Kingler
+Tipo agua Agua 	Seadra
+Tipo agua Agua 	Tentacool
+Tipo agua AguaTipo veneno Veneno 	Magikarp
+Tipo agua Agua 	Krabby
+Tipo agua Agua 	Horsea
+Tipo agua Agua 	Psyduck
+Tipo agua Agua 	Slowpoke
+Tipo agua AguaTipo psíquico Psíquico 	Gyarados
+Tipo agua AguaTipo volador Volador 	Staryu
+Tipo agua Agua 	Shellder
+Tipo agua Agua
+
+Pokémon que se pueden obtener:
+Tangela 	Seel 	Electrode 	Kabuto 	Omanyte 	Aerodactyl
+Tangela
+Tipo planta Planta 	Seel
+Tipo agua Agua 	Electrode
+Tipo eléctrico Eléctrico 	Kabuto
+Tipo agua AguaTipo roca Roca 	Omanyte
+Tipo roca RocaTipo agua Agua 	Aerodactyl
+Tipo roca RocaTipo volador Volador
+Mansión Pokémon
+Mansión Pokémon
+
+Mansión Pokémon
+
+En esta mansión aparecen Pokémon como Growlithe en Pokémon Rojo Fuego y Vulpix en Verde Hoja, Rattata, Raticate, Koffing, Weezing, Grimer, Muk, Ditto. Al ser como una cueva una vez hayas capturado los Pokémon que quieras, usar unos 15 Super Repelentes te permitirán pasártelo más rápido.
+
+Asciende por la alfombra roja y cuando llegues a una parte con rocas destruidas, en la parte izquierda, inspecciona la roca pequeñita del centro para conseguir una Piedra Lunar. Ignora las escaleras y métete por la derecha, coge la Cuerda Huida que hay entre cuatro columnas; luego, vence al entrenador de la sala de la izquierda. Pulsa el botón secreto de la estatua, que abrirá la puerta de otra habitación, en la que hay una Proteína.
+
+Ahora, sube al segundo piso. Ve hacia la parte sur, y a la izquierda encontrarás una habitación con un entrenador para luchar, con un Charmander y un Charmeleon. Si sigues bajando, en la siguiente habitación encontrarás un libro que habla de Mew, y a la derecha, arriba un Zinc. Estos libros los encontrarás por la Mansión, y hablan del origen de Mew. Al Norte, si vas por la derecha, en la habitación de abajo ni en el pequeño pasillo de la derecha no hay nada, arriba hay una mesa con otro libro y a la derecha un Calcio. Ahora, vuelve a las escaleras y sube por la de la derecha.
+
+Estás en el tercer piso. Coge una Máx. Poción del suelo y lucha contra el ladrón, que tiene un Ninetales al nivel 38. Hay otro diario en la mesa. Baja las escaleras para volver al segundo piso, toca el interruptor de la estatua y ve hacia la parte noroeste. Entra por la puerta al norte que antes estaba cerrada y sube las escaleras.
+
+Ahora estás en la otra parte del tercer piso, pasa de la estatua y ve a la derecha del todo para hallar un Hierro. Una vez cogido vuelve para pulsar el botón de la estatua, que abrirá la otra zona cerca de allí. Como puedes ver, el suelo está destruido, pero no te acerques de momento, pues te caerás. Lucha con el científico (Magnemite , Magneton , Voltorb al 33 todos) y ve hacia la derecha para utilizar el Buscaobjetos, que al instante captará la presencia de un Carameloraro escondido.
+
+Después, baja por las escaleras y a la derecha recoge mas ps. Una vez recogido todo, vuelve a la tercera planta en frente del ladrón que tiene la pared rota, y tírate por el lado izquierdo del suelo destruido, caerás al lado de un científico. Gira a la derecha para coger un Carburante.
+
+Ahora, NO vayas por el camino de arriba, pues si sales por la puerta regresarás a Isla Canela; baja las escaleras. Ahora ve hacia arriba y hacia la izquierda, y coge el Restaura Todo. Entra en la sala que te pasaste, lucha con el ladrón, y pulsa el botón de la estatua. Vuelve hacia la parte de las escaleras, pero ésta vez sube por el pasillo que anteriormente estaba cerrado. Lucha con el científico y entra en el cuarto de enfrente, en el cual usarás el Buscaobjetos para localizar un Elixir y pulsarás el botón secreto. Entra en la habitación de al lado, coge la MT14 Ventisca y vuelve al pasillo. Gira a la izquierda. En la mesa encontrarás la Llave Secreta. Por último, en el cuarto de abajo, coge la MT22 Rayo Solar. Para salir de la mansión utiliza una Cuerda Huida, y si no tienes, vuelve por las escaleras de ese piso y métete por la puerta que te llevaba a la salida.
+
+Después de salir de la Mansión, cura a tus Pokémon y abre las puertas del gimnasio con la llave secreta.
+
+Pokémon que se pueden obtener:
+Rattata 	Raticate 	Growlithe 	Vulpix 	Muk 	Koffing 	Weezing 	Ditto 	Grimer
+Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Growlithe
+Tipo fuego Fuego 	Vulpix
+Tipo fuego Fuego 	Muk
+Tipo veneno Veneno 	Koffing
+Tipo veneno Veneno 	Weezing
+Tipo veneno Veneno 	Ditto
+Tipo normal Normal 	Grimer
+Tipo veneno Veneno
+Gimnasio Pokémon de Isla Canela
+
+A Blaine, el líder, además de gustarle los Pokémon de tipo fuego, le encantan los acertijos, es por ello que este gimnasio es del elemento fuego y está lleno de acertijos. En cada sala, podrás evitar el enfrentamiento con el entrenador que está dentro, acertando el acertijo que una máquina te ofrece. Lo ideal es luchar con los entrenadores y acertar el acertijo, de esta forma, pasas a la siguiente sala y ganas experiencia y dinero.
+
+En la primera sala, el acertijo es: ¿Evoluciona CATERPIE y se transforma en METAPOD?...
+
+...y la respuesta correcta es SÍ, pues lo hace en el nivel 7.
+
+Si has contestado negativamente o hablas con el entrenador, tendrás una lucha.
+Entrenador 	Growlithe 	Vulpix 	Ninetales
+Ladrón 	Growlithe
+Tipo fuego Fuego 	Vulpix
+Tipo fuego Fuego 	Ninetales
+Tipo fuego Fuego
+Ladrón 	Nivel 36
+
+En la segunda sala hay dos entrenadores y un acertijo. El acertijo es: ¿Hay nueve MEDALLAS oficiales de la LIGA POKÉMON?...
+
+...y la respuesta correcta es NO, ya que sólo hay ocho medallas.
+Entrenador 	Ponyta 	Charmander 	Vulpix 	Growlithe
+Supernecio 	Ponyta
+Tipo fuego Fuego 	Charmander
+Tipo fuego Fuego 	Vulpix
+Tipo fuego Fuego 	Growlithe
+Tipo fuego Fuego
+Supernecio 	Nivel 34
+Entrenador 	Vulpix 	Vulpix 	Ninetales 	-
+Supernecio 	Vulpix
+Tipo fuego Fuego 	Vulpix
+Tipo fuego Fuego 	Ninetales
+Tipo fuego Fuego 	-
+Supernecio 	Nivel 36 	-
+
+En la siguiente sala, hay un entrenador. El acertijo es: ¿Evoluciona POLIWAG 3 veces?...
+
+...y la respuesta correcta es NO, ya que Poliwag tiene dos evoluciones, Poliwhirl y Poliwrath.
+Entrenador 	Ponyta
+Ladrón 	Ponyta
+Tipo fuego Fuego
+Ladrón 	Nivel 41
+
+El acertijo en la sala cuarta es: ¿Afectan los movimientos del tipo ELÉCTRICO a los POKÉMON de tipo TIERRA?...
+
+...y la respuesta correcta es NO, ya que los de tipo Tierra son invulnerables a este tipo de ataques.
+Entrenador 	Rapidash
+Supernecio 	Rapidash
+Tipo fuego Fuego
+Supernecio 	Nivel 41
+
+En el siguiente cuarto, el acertijo es: ¿Son distintos los POKÉMON del mismo tipo y del mismo nivel?...
+
+...y la respuesta es que Sí, son distintos en el aspecto, stats, naturaleza, etc.
+Entrenador 	Vulpix 	Growlithe
+Ladrón 	Vulpix
+Tipo fuego Fuego 	Growlithe
+Tipo fuego Fuego
+Ladrón 	Nivel 37
+
+En la penúltima sala, el acertijo es: ¿Contiene la MT28 TUMBAPIEDRA?...
+
+...y la respuesta correcta es NO porque la MT28 contiene Excavar y el ataque TUMBAPIEDRA no existe, en todo caso un ataque parecido sería Tumba Rocas.
+Entrenador 	Growlithe 	Vulpix
+Supernecio 	Growlithe
+Tipo fuego Fuego 	Vulpix
+Tipo fuego Fuego
+Supernecio 	Nivel 37
+El líder
+
+Blaine se encuentra en la última sala. El ataque principal de sus Pokémon es Llamarada. Usa Antiquemar para las quemaduras, así como Pokémon de tipo agua, pues son eficaces contra este tipo y resistentes a la Llamarada.
+
+Otros consejos:
+
+    Vendrán bien los Pokémon tipo agua, tierra y/o roca con los mismos movimientos.
+    Puedes usar Pokémon con la habilidad absorber fuego, pero debes tener cuidado.
+    Los Pokémon tipo dragón resisten los ataques tipo fuego.
+
+Entrenador 	Growlithe 	Ponyta 	Rapidash 	Arcanine
+Líder Blaine 	Growlithe
+Tipo fuego Fuego 	Ponyta
+Tipo fuego Fuego 	Rapidash
+Tipo fuego Fuego 	Arcanine
+Tipo fuego Fuego
+Líder Blaine 	Nivel 42 	Nivel 40 	Nivel 42 	Nivel 47
+
+La Medalla Volcán aparecerá en tu ficha de entrenador y la MT38 Llamarada, en el Tubo MT/MO. Cuando salgas del gimnasio, Bill te ofrecerá ir a Isla Prima con él. Puedes decir que sí o que no, si eliges que no, Bill se quedará esperando en el centro pokemon hasta que aceptes, asi que tienes que decir que si. Cuando aceptes, su amigo Celio enviará un barco y partiréis a dicha isla.
+Isla Prima
+
+Una vez adentrados en la Isla, Bill te llevará a ver a Celio en el Centro Pokémon. Se ve que Celio está haciendo una máquina y tiene algunos problemillas. Bill te pedirá un favor, que vayas a Isla Secunda a ver a un tipo que lleva los recreativos y darle un Meteorito. Para ir a Isla Secunda, te dará el Tri-Ticket, que sirve para montar en el ferry que conecta las tres islas: Prima, Secunda y Tera. También obtendrás una página más del mapa.
+
+Ahora, antes de ir a tu próximo destino, sal del centro Pokémon y sitúate en el puente que comunica la isla con el ferry. Utiliza surf en la izquierda, y cuando bajes, estarás en la Playa Tesoro.
+Playa Tesoro
+
+La Playa Tesoro es una pequeña zona en la que la marea trae objetos de gran valor. Es por ello que deberás buscar frecuentemente con el buscaobjetos por esta playa si quieres encontrarlos.Estos objetos son "Ultraball" , "Polvoestelar" y "Perla". Ahora, vuelve a Isla Prima y coge el Surcamar, en dirección a la Isla Secunda.
+Isla Secunda
+
+Isla Secunda es la segunda isla de las tres. En ella hay una pequeña tienda con dos artículos, y también están los recreativos. Entra en los recreativos, donde te encontrarás con un señor que está buscando a Pedrita. De repente, entrará un motorista desorientado. El señor te pedirá que vayas a buscar a Pedrita en Isla Tera. Se encuentra en lo más profundo del Bosque Baya, y tendrás que luchar contra un Hypno al nivel 30, que aparentemente es quien había secuestrado a Pedrita.
+Hypno
+	Movimientos
+HypnoRFVH 	Tipo psíquico 	Golpe cabeza
+Nivel 30 	♂ 	Confusión
+Hab: Insomnio 	Gas Venenoso
+Obj: 	Meditación
+
+Ahora ve a la parte Norte de la Isla, Al Cabo Extremo.
+Cabo Extremo
+
+En el Cabo Extremo verás una casa con un tejado morado en el Norte. Detrás de ella hay un Carameloraro, si bajas por la cascada en una pequeña parte de tierra encontrarás un Maximo pp (que sube al máximo un ataque de un pokemon).Entra en la casa para que una señora te enseñe cierto movimiento a cierto Pokémon. Si colocas a Venusaur el primero en tu equipo y la hablas, podrás enseñarle Planta Feroz. Si en vez de Venusaur colocas a Blastoise, tendrás la opción de enseñarle Hidrocañón, y si llevas a Charizard, el ataque será Anillo Ígneo. Luego, vuelve al sur de la isla y monta en el Surcamar para ir a isla Tera.
+Isla Tera
+
+Te encuentras en el puerto de la isla. En la vía de la derecha Isla Tera no hay nada interesante. Al norte de la isla, una pandilla de motoristas acorralan a un chico. Si avanzas un paso, te encararás con el motorista, y cuando te pregunte que si quieres algo, respóndele que sí. Entonces, te tendrás que ver las caras con unos cuantos motoristas, y cuando los derrotes, se irán definitivamente de Isla Tera.
+
+Ahora, habla con el chico para que te de un Restaura todo y si hablas con el segundo, te dirá que pedrita se fue en dirección del Puente Unión hace un rato; así que dirígete tú también.
+Puente Unión
+
+En el puente unión, usando corte al fondo del otro lado de la valla usa el busca objetos y encontrarás un Mas PP. Avanza ganando a los entrenadores y cruza el puente para llegar al Bosque Baya. Cerca hay una roca solitaria: usa busca objetos y obtendrás un Máx. Repel.
+Bosque Baya
+
+El Bosque Baya es similar al Bosque Verde, aunquees mucho menos lioso. Además, por su nombre, está lleno de Bayas, así que utiliza el Buscaobjetos para encontrar distintas bayas: pinia, aranja, caquic, frambu, peragu... Cuando llegues a la pequeña Pedrita, verás que está asustada por la presencia de un Pokémon, que resulta ser un Hypno, que te atacará en el nivel 30. Cuando lo captures o debilites, Pedrita te dará las gracias y una Baya Pabaya. A continuación la llevarás a su casa con su padre, al cual le darás el Meteorito. A cambio, te dará una Piedra Lunar. Sal y vuelve a entrar si quieres jugar a los distintos juegos de los recreativos, aunque necesitas el Adaptador Inalámbrico. Ahora vuelve a Isla Prima y entra en el Centro de Red Pokémon (Centro Pokemon).
+
+Allí, encontrarás a Bill, y partiréis de nuevo a Isla Canela en el Surcamar. Sin embargo, como ya tienes el Tri-Ticket, podrás volver a las tres islas cuando quieras desde el puerto de Ciudad Carmín. Así que si quieres atrapar a las 3 aves legendarias, vuelve a Isla Prima y dirígete hacia el Camino Candente para la captura de Moltres.
+Camino Candente
+
+Haz Surf por el agua y gira hacia arriba, donde llegarás a una parte de playa. Asciende por el camino hasta llegar a la zona que está antes del dúo fuerte y lucha con el nadador de la derecha. Ahora, surfea por el agua hacia el sur hasta llegar a un Máx. Repel. Vuelve a la parte de playa y lucha con el dúo fuerte. Luego lucha con los dos karatekas que se mueven de un lado para otro, y llegarás al Balneario Ascuas.
+
+Entra en él, date un baño para ponerte en forma, y habla con el fundador del balneario, que está en una punta, y te dará la MO06 Golpe Roca. Ahora, si quieres, puedes enseñarle la MO a algún Pokémon para romper las rocas del camino hasta el balneario y poder coger un Éter y un Carburante. Luego, cerca del balneario, lucha con la chica fuerte y haz surf de nuevo para llegar al Monte Ascuas.
+Monte Ascuas
+
+Cuando llegues, habla con el montañero que está de espaldas si quieres aprender explosión. A la derecha verás dos soldados Rocket planeando la excavación del suelo para encontrar una especie de tesoro. Ahora, mueve las rocas de la izquierda y sigue el camino hasta una zona de hierba. Rodea la zona o utiliza Golpe Roca para romper las rocas del camino y llegar a la cueva del Monte Ascuas. Antes, coge la Ultraball escondida en un estrecho camino encerrado y un Directo en otro camino por la derecha.
+
+Cuando estés en la cueva, entra por el agujero al seguir tu camino. Luego, sube todas las escaleras que puedas hasta meterte en otro agujero-puerta. Luego, llegarás a la salida.
+
+Cuando salgas, si coges el camino de la izquierda encontrarás otra Ultraball, es mas encontraras una Piedra Fuego escondida en una roca en el camino de la izquierda. En la derecha, mueve las piedras y rompe las rocas para darte paso a una Piedra Fuego. A continuación, asciende hacia el Norte.
+
+Ahora encontrarás una serie de rocas que deberás mover para abrirte paso. Primero mueve la de la derecha hacia adelante, luego empuja las dos de la izquierda y la restante hacia arriba y a la derecha. Para tu sorpresa, encontrarás a Moltres. No obstante, guarda la partida y acércate a él para establecer una batalla.
+Moltres
+Moltres
+Nivel 50
+Agilidad
+Aguante
+Giro fuego
+Lanzallamas
+
+Si quieres capturar a Moltres, no utilices para ello la Master Ball, sino muchas Ultraballs. Cuídate de su Lanzallamas, pues es su ataque más potente y eficaz contra los Pokémon de tipo planta, que deberían paralizarlo o dormirlo. Aguante no sólo será útil para él, también lo será para ti, pues si utilizas un ataque potente o atacas cuando le quedan pocos PS, le dejarás con 1 punto de vitalidad. De esta forma, debilitándolo sin derrotarlo y alterando su estado, te será mucho más fácil atraparlo, aunque te costará. Tendrá que sobrarte paciencia.
+
+Cuando termines, vuelve a Ciudad Carmín y vuela a Ciudad Fucsia para llegar a la Ruta 19.
+Rutas 19 y 20
+
+Utiliza Surf para cruzar las dos rutas. En ellas, encontrarás muchos nadadores y nadadoras, pues el camino es largo hasta Islas Espuma. El recorrido es sencillo: sigue todo recto y luego gira a la izquierda para llegar a la Ruta 20. En la Ruta 20, sigue todo recto hasta llegar a las Islas Espuma.
+Islas Espuma
+Islas Espuma
+
+Islas Espuma
+
+Lo primero que debes saber es que necesitas Fuerza y Surf ya que de otra manera no podrás seguir adelante. En cuanto entres, ve hacia tu derecha y empuja la roca con fuerza por el agujero del suelo que hay arriba. Vuelve hacia la entrada y sigue hacia arriba, coge el Antihielo y sigue hacia la derecha, sin bajar las escaleras. Luego, arroja la roca por el agujero y baja por las escaleras más próximas. Empuja la roca que te encuentres abajo hacia el agujero y vuelve a subir, pero ésta vez, baja por las escaleras que anteriormente te encontraste.
+Sótano 1
+Sótano 1
+
+Sótano 1
+
+Ve hacia abajo y luego a la derecha, coge el Revivir de la derecha y, a continuación, ignorando las escaleras que hay cerca tuyo, ve hacia arriba y luego a la derecha para empujar de nuevo otra roca al hoyo. Vuelve hacia abajo, a la izquierda y arriba, donde hallarás unas escaleras. Ve hacia la derecha y empuja la roca al agujero. Vuelve por la escalera de antes y baja la del piso de arriba, cuya presencia ignoramos antes.
+Sótano 2
+Sótano 2
+
+Sótano 2
+
+Ahora, dirígete hacia la derecha, baja las escaleras, coge la Perla grande de la esquina y sube la escalera de la derecha si quieres una Piedra agua. Regresa y toma la escalera situada a la izquierda de donde cogiste la perla grande.
+Sótano 3
+Sótano 3
+
+Sótano 3
+
+Nada más bajar, inspecciona el conjunto de tres piedras junto a las escaleras, la piedra superior: encontrarás una Pepita. Ve en dirección derecha, acercándote hacia las dos rocas que están juntas. Empuja la roca derecha dos veces para poder arrastrar la otra una vez hacia abajo y otra, hacia la izquierda. Antes de arrastrarla otra vez a la izquierda, traslada la roca de arriba a la derecha, pues es un estorbo. Ahora, lleva la roca hacia el agujero, así como también la roca vecina de la izquierda, dándola un empujón hacia abajo. Vuelve de nuevo en dirección de las escaleras que viniste, pero ahora, baja las escaleras que están al nordeste.
+Sótano 4
+Sótano 4
+
+Sótano 4
+
+Ve por el estrecho camino de abajo para coger una Ultraball. Si vas a la izquierda, donde está el cartel, dos rocas deberán estar tapando la corriente si las has movido correctamente. Ahora, vuelve por el camino estrecho, y dirígete a las escaleras de arriba. Al subirlas, sube las siguientes y en ese piso, desplaza la única roca que hay por el agujero, pero con ella, vas tu también, es decir, déjate caer por él.
+
+Pararás en el agua, encima de tu Pokémon. Si tu objetivo es salir por el otro lado de la isla tendrás que tomar el camino derecho y subir las escaleras hasta encontrar la salida. Si vas en busca del Pokémon legendario toma tierra firme por el camino izquierdo. Sigue por abajo y lánzate por el agujero que está frente a las dos rocas que apartaste antes. Finalmente, surfea en el agua y sube hasta Articuno. La estrategia es igual que la de Moltres, dejar a Articuno con pocos PS, adormecerlo (o paralizándolo) y usar Ultraballs; teniendo cuidado con su potente Rayo hielo. Los ataques que conoce son: Rayo hielo, Agilidad y Neblina y Telépata.
+Articuno
+Articuno
+Nivel 50
+Rayo hielo
+Agilidad
+Neblina
+Telépata
+
+Sal utilizando una Cuerda huida. Ahora, vuela al Centro Pokémon del Túnel Roca (Ruta 10). Cuando llegues, ve a la parte Norte y haz Surf. Pronto encontrarás la Central de Energía, en la cual, antes de entrar, usarás el Buscaobjetos para hallar un Eter. Antes, tendrás que luchas con un pokémaniaco que tiene un Rhyhorn (nivel 29) y un Lickitung (nivel 29).
+Central Energía
+Central Energía
+
+Central Energía
+
+Según estás, ve hacia arriba y coge la Máx. Poción. Yendo en la misma dirección, ve por un estrecho camino derecho lleno de túneles. Entre ellos hay un Elixir y la MT17 Protección. Vuelve por la izquierda y ve hacia abajo, para coger el segundo camino a la derecha, donde encontrarás un Electrode en el nivel 34. Vuelve y dirígete por el primer camino de la derecha, haciendo curvas para esquivar las rocas, hasta que encuentres dos caminos. Coge el de abajo para llegar a la MT25 Trueno. Luego, coge el de la derecha y sube por arriba. Entra en la habitación que está cerca tuya, donde encontrarás dos objetos, teniendo en cuenta que el de la izquierda es un Electrode y el de la derecha, una Piedratrueno. Sal de la habitación, ve por la izquierda y al Norte. Entra en la habitación y luego en la del Sur, a continuación, utiliza el Buscaobjetos, que detectará un Elixir Máx. Ahora, ve por el camino de la izquierda hasta llegar a Zapdos. Sus ataques son: Pico taladro, Agilidad, Onda Trueno y Detección.
+Zapdos
+Zapdos
+Nivel 50
+Pico taladro
+Agilidad
+Onda Trueno
+Detección
+
+Tras capturarlo, utiliza el Buscaobjetos para hallar una segunda Piedratrueno. En esta central de energía se puede hallar Electabuzz, es más, es el único lugar donde sale salvaje para atraparlo y sólo aparece en Pokémon Rojo Fuego, y no Verde Hoja o RZE y tiene un 5% de posibilidades que salga.
+
+Esta vez te ahorras la Cuerda Huida, pues la salida se encuentra a tu izquierda...
+
+Tu viaje capturando las aves legendarias ha terminado, así que es hora de volver a la rutina de siempre. Vuela a Ciudad Verde y entra en el Gimnasio Pokémon, cuyas puertas están abiertas.
+Gimnasio Pokémon de Ciudad Verde
+
+La Liga Pokémon está sólo a una medalla más para llegar a ella. El gimnasio está lleno de baldosas, que, al pisarlas, te desplazan a la dirección que apunta la flecha. En la entrada, a tu izquierda, pisa, de las dos baldosas, la de arriba; te desplazará a la izquierda. Frente tuya hay un entrenador. Ahora, pisa cualquier baldosa que apunta hacia arriba y encontrarás un Karateka. Desplázate hacia abajo pisando la flecha que apunta hacia abajo y pisa una de las flechas derechas. Métete en la sala de arriba que tiene 3 entrenadores. Lucha con el entrenador del pasillo y sigue avanzando hasta que llegues a un Karateka. Puesto que el Karateka no te deja paso, vuelve hacia la entrada y pisa la baldosa de la flecha hacia arriba. Luego, pisa la que apunta a la izquierda y avanza hasta el líder.
+Entrenador 	Sandslash 	Rhyhorn 	Nidorino 	Nidoking
+Entrenador Guay 	Sandslash
+Tipo tierra Tierra 	Sandslash
+Tipo tierra Tierra 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Nidorino
+Tipo veneno Veneno 	Nidoking
+Tipo veneno VenenoTipo tierra Tierra
+Entre. Guay 	Nivel 37 	Nivel 38 	Nivel 39
+Entrenador 	Sandslash 	Graveler 	Onix 	Graveler 	Marowak
+Entrenador Guay 	Sandslash
+Tipo tierra Tierra 	Graveler
+Tipo roca RocaTipo tierra Tierra 	Onix
+Tipo roca RocaTipo tierra Tierra 	Graveler
+Tipo roca RocaTipo tierra Tierra 	Marowak
+Tipo tierra Tierra
+Entre. Guay 	Nivel 38
+Entrenador 	Marowak 	Rhyhorn 	Nidorina 	Nidoqueen
+Entrenador Guay 	Marowak
+Tipo tierra Tierra 	Marowak
+Tipo tierra Tierra 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Nidorina
+Tipo veneno Veneno 	Nidoqueen
+Tipo veneno VenenoTipo tierra Tierra
+Entre. Guay 	Nivel 37 	Nivel 38 	Nivel 39
+Entrenador 	Machoke 	Machop 	Machoke 	- 	-
+Karateka 	Machoke
+Tipo lucha Lucha 	Machop
+Tipo lucha Lucha 	Machoke
+Tipo lucha Lucha 	- 	-
+Karateka 	Nivel 38 	- 	-
+Entrenador 	Arbok 	Tauros 	- 	- 	-
+Domador 	Arbok
+Tipo veneno Veneno 	Tauros
+Tipo normal Normal 	- 	- 	-
+Domador 	Nivel 39 	- 	- 	-
+Entrenador 	Machop 	Machoke 	- 	- 	-
+Karateka 	Machop
+Tipo lucha Lucha 	Machoke
+Tipo lucha Lucha 	- 	- 	-
+Karateka 	Nivel 40 	- 	- 	-
+Entrenador 	Rhyhorn 	- 	- 	- 	-
+Domador 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	- 	- 	- 	-
+Domador 	Nivel 43 	- 	- 	- 	-
+Entrenador 	Machoke 	- 	- 	- 	-
+Karateka 	Machoke
+Tipo lucha Lucha 	- 	- 	- 	-
+Karateka 	Nivel 43 	- 	- 	- 	-
+El líder
+
+El líder, que, para tu sorpresa, es nada más y nada menos que Giovanni, el jefe del Team Rocket, utilizará 5 Pokémon de tipo tierra. Lo normal es que utilices Pokémon de tipo agua o planta para ganar la batalla, y también puedes usar alguno de tipo psíquico para Nidoqueen y Nidoking.
+Entrenador 	Rhyhorn 	Dugtrio 	Nidoqueen 	Nidoking 	Rhyhorn
+Giovanni 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Dugtrio
+Tipo tierra Tierra 	Nidoqueen
+Tipo veneno VenenoTipo tierra Tierra 	Nidoking
+Tipo veneno VenenoTipo tierra Tierra 	Rhyhorn
+Tipo tierra TierraTipo roca Roca
+Giovanni 	Nivel 45 	Nivel 42 	Nivel 44 	Nivel 45 	Nivel 50
+
+Tu victoria será recompensada con la Medalla Tierra y la MT26 Terremoto. Aceptando la derrota disolverá el Team Rocket, se irá y volverá a aparecer de nuevo en el resto de tu viaje, y si usamos el Buscaobjetos en el sitio donde estaba, encontraremos una vestidura (solo se puede encontrar con el buscaobjetos si estamos encima de ella).
+
+Ahora, sal del gimnasio, cura a tus Pokémon y ve a la Ruta 22, donde tendrás otro encuentro con tu rival. Para tu sorpresa, tu rival cuenta con un Rhyhorn.
+Entrenador 	Pidgeot 	Rhyhorn 	Exeggcute 2 3 	Growlithe 2 1 	Gyarados 1 3 	Alakazam 	Venusaur 1 	Blastoise 2 	Charizard 3
+Azul RFVH 2 	Pidgeot
+Tipo normal NormalTipo volador Volador 	Rhyhorn
+Tipo tierra TierraTipo roca Roca 	Exeggcute
+Tipo planta PlantaTipo psíquico Psíquico 	Growlithe
+Tipo fuego Fuego 	Gyarados
+Tipo agua AguaTipo volador Volador 	Alakazam
+Tipo psíquico Psíquico 	Venusaur
+Tipo planta PlantaTipo veneno Veneno 	Blastoise
+Tipo agua Agua 	Charizard
+Tipo fuego FuegoTipo volador Volador
+Rival 	Nivel 47 	Nivel 45 	Nivel 47 	Nivel 53
+
+Después de haber vencido a tu Rival, dirígete a la casa que comunica la Ruta 22 con la Ruta 23 y ponte en marcha en la Calle Victoria.
+Ruta 23
+
+En la Ruta 23 encontrarás a guardias que te pedirán que les enseñes las medallas de gimnasio: Roca, Cascada, Trueno, Arcoíris, Alma, Pantano, Volcán y Tierra.
+
+Después de enseñar tres medallas y antes de enseñar la medalla Arcoíris, en la parte izquierda del camino usa el buscaobjetos para encontrar una Baya Zanama. A la mitad del camino, tendrás que usar Surf y de éste modo, subido en tu Pokémon, tendrás que seguir tu camino. También encontrarás un Éter Máx. en medio de una isla cuadrada. También encontrarás una Baya Perasi y una Ultraball cuando estés ya en tierra firme. Después de que el guardia te vea la Medalla Volcán, inspecciona la roca de la derecha para encontrar un Restaura Todo.
+
+Con todo, llegarás a una especie de cueva, pero antes; coge la Baya Zidra del suelo que está al lado de la estatua de la izquierda.
+Calle Victoria
+Calle Victoria.
+
+Calle Victoria.
+
+La Calle Victoria es tu último reto como entrenador Pokémon antes del Alto Mando; es por ello que esta calle está llena de entrenadores muy buenos y, además, es muy grande y larga.
+Entrada
+
+Primero, en la entrada, arrastra la roca hacia la derecha, hasta desplazarla encima de un botón. El botón dará lugar a un camino secreto. Sube los escalones para pasar por dicho camino; arriba encontrarás a una entrenadora.
+Entrada
+
+Entrada
+
+Ve a la derecha, utiliza el buscaobjetos para encontrar un Restaura Todo y mueve la roca de la izquierda. Dependiendo de que en que dirección la muevas, conseguirás un Carameloraro (Poké Ball de la izquierda) o la MT02 Garra Dragón (Poké Ball de arriba), aunque siempre está la posibilidad de coger ambos objetos saliendo de la cueva, de está forma, la posición de las rocas será la misma que la que tenían anteriormente. Vuelve al lugar donde luchaste con la entrenadora y ve por la izquierda; usa de nuevo el buscaobjetos y encontraras una Ultraball; luego sigue tu camino hacia la izquierda donde encontrarás a otro entrenador. Sube las escaleras.
+Planta 1
+
+Mueve la roca de abajo (no la de arriba) y arrástrala hasta el botón.
+Planta 1
+
+Planta 1
+
+Sube los escalones de la platafoma y ve a la derecha para luchar contra un karateka. Baja los próximos escalones y coge la MT37 Torm. Arena que está arrinconada a la izquierda. Ve en dirección opuesta hasta llegar a un entrenador inquieto y un Cura Total. No subas por las escaleras cercanas, ve hacia arriba y a la derecha para encontrar a un entrenador y la MT07 Granizo.
+
+Ahora sí, sube por las escaleras que te habías encontrado antes.
+Planta 2
+
+Ve hacia arriba y a la derecha para coger un Máx. Revivir custodiado por un entrenador. Empuja la roca del centro hacia el camino de la izquierda hasta llevarla al interruptor.
+Planta 2
+
+Planta 2
+
+Coge la MT50 Sofoco y baja las escaleras de la sala donde se encuentra la roca si quieres una Protec. Esp. que se encuentra a la derecha; aunque tendrás que arrastrar de nuevo la roca de antes. Ve hacia donde encontraste el Máx. Revivir, y sube a la plataforma de la izquierda, en la que hallarás una entrenadora. Sigue por la plataforma y baja de ella al final. Encontrarás dos Entrenadores . Guay. Sigue hacia la derecha hasta encontrar una roca al lado de un agujero. Arrójala por el agujero y tírate con ella. Caerás de nuevo a la Planta 1.
+Planta 1
+
+Empuja la roca que está a tu lado (es la que arrojaste tú) a la izquierda hasta presionar el interruptor. Luego, súbete a la plataforma de la derecha para subir las escaleras.
+Planta 2
+
+Lucha con la Pareja Guay y baja las escaleras.
+Planta 1 (2)
+
+Habla con el entrenador si quieres que le enseñe Doble Filo a algún Pokémon y ve a la derecha para llegar, finalmente, a la salida...
+Ruta 23: Salida
+
+Utiliza el Buscaobjetos por esta ruta para encontrar: una Baya Ziuela y un Élixir Máx. Llegarás a la Meseta Añil, y de ella al gran Centro Pokémon de la Liga Pokémon, en el que encontrarás a la enfermera Joy y una tienda. Cuando tengas tu equipo preparado, con los objetos necesarios y todo, entra por la puerta de arriba.
+Alto Mando
+Lorelei
+
+Lorelei es la primera del Alto Mando.
+
+Utilizará Pokémon de Tipo hielo y algunos de un segundo tipo agua o psíquico. Lo mejor contra su equipo son los Pokémon de Tipo eléctrico para los de agua, y para Jynx, es preferible usar ataques de Tipo fuego. También es una buena elección algún Pokémon Tipo lucha, que vence a hielo y salvo contra Slowbro no tendremos muchos problemas.
+
+Dewgong utilizará granizo para reforzar los ataques de tipo hielo, como Rayo hielo o Rayo aurora, por lo que es recomendable acabar con él de un sólo ataque ya sea de Tipo lucha o Tipo eléctrico. Cloyster, que tiene una gran defensa, es bastante débil a los ataques de Tipo planta(no tiene ataques Tipo hielo) y Tipo eléctrico. Jynx, por su parte, utilizará primero Beso amoroso para dormirte, así que es recomendable usar Cura total, despertar o la Poke flauta(que seria la mejor opción porque puedes usarla cuantas veces quieras sin gastar pokédolares en despertar o cura total) ya que los Pokémon dormidos no podrán realizar ningún movimiento y a continuación Puño hielo, mientras que Lapras empezará con Rayo confuso y es resistente por lo que es recomendable usar un Pokémon Tipo eléctrico con un ataque especial alto y Rayo o Trueno.
+Dewgong
+	Movimientos
+DewgongRFVH 	Tipo aguaTipo hielo 	Rayo hielo
+Nivel 52 	♀ 	Surf
+Hab: Sebo 	Granizo
+Obj: Baya Zidra 	Velo sagrado
+Cloyster
+	Movimientos
+CloysterRFVH 	Tipo aguaTipo hielo 	Púas
+Nivel 51 	♀ 	Protección
+Hab: Caparazón 	Granizo
+Obj: ? 	Buceo
+
+Slowbro
+	Movimientos
+SlowbroRFVH 	Tipo aguaTipo psíquico 	Surf
+Nivel 52 	♀ 	Rayo hielo
+Hab: Despiste 	Bostezo
+Obj: ? 	Amnesia
+Jynx
+	Movimientos
+JynxRFVH 	Tipo hieloTipo psíquico 	Doblebofetón
+Nivel 54 	♀ 	Puño hielo
+Hab: Despiste 	Beso amoroso
+Obj: ? 	Atracción
+
+Lapras
+	Movimientos
+LaprasRFVH 	Tipo aguaTipo hielo 	Golpe cuerpo
+Nivel 54 	♀ 	Rayo confuso
+Hab: Absorbe agua 	Rayo hielo
+Obj: Baya Zidra 	Surf
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+
+
+Cuando venzas a Lorelei, entra a la siguiente sala, en la que te espera Bruno.
+Bruno
+
+Los Onix son fáciles de vencer, pues con algún ataque de Tipo agua o Tipo planta potente serán debilitados. Por otro lado, Hitmonchan, Hitmonlee y Machamp serán combatidos con facilidad con Pokémon de Tipo psíquico como Kadabra o Alakazam, o Tipo volador, como Pidgeot, aunque este último es también Tipo normal por lo que los ataques Tipo lucha harán mas daño que si fuese volador solamente. Machamp es algo más resistente, y conoce Avalancha.
+Onix
+	Movimientos
+OnixRFVH 	Tipo rocaTipo tierra 	Tumba rocas
+Nivel 51 	♂ 	Terremoto
+Hab: Cabeza roca 	Cola férrea
+Obj: 	Rugido
+Hitmonchan
+	Movimientos
+HitmonchanRFVH 	Tipo lucha 	Gancho alto
+Nivel 53 	♂ 	Ultrapuño
+Hab: Vista lince 	Tumba rocas
+Obj: 	Contador
+
+Hitmonlee
+	Movimientos
+HitmonleeRFVH 	Tipo lucha 	Megapatada
+Nivel 53 	♂ 	Profecía
+Hab: Flexibilidad 	Demolición
+Obj: 	Imagen
+Onix
+	Movimientos
+OnixRFVH 	Tipo rocaTipo tierra 	Terremoto
+Nivel 54 	♂ 	Doble filo
+Hab: Cabeza roca 	Cola férrea
+Obj: 	Bucle arena
+
+Machamp
+	Movimientos
+MachampRFVH 	Tipo lucha 	Tajo cruzado
+Nivel 56 	♂ 	Corpulencia
+Hab: Agallas 	Cara susto
+Obj: Baya Zidra 	Tumba rocas
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+
+Avanza por la puerta hasta llegar a Agatha.
+Agatha
+
+Agatha usa Pokémon de Tipo fantasma y veneno, por lo que esta batalla está ganada si tienes algún Pokémon de Tipo psíquico. Si no es así, entonces lo tienes mucho más difícil. Sus Pokémon serán fáciles de vencer si los tuyos están sobre el nivel 55.
+
+Por supuesto, descarta la idea de utilizar Pokémon de Tipo normal, por lo menos contra Haunter y Gengar a menos que tu estrategia sea evitar sus ataques fantasma y tu Pokémon tenga algún ataque de otro tipo. Lo mejor contra éstos es utilizar Pokémon de Tipo siniestro, pero como en Kanto no existen ese tipo de Pokémon, usa ataques de ese tipo. Puedes usar otro de Tipo fantasma si quieres. Contra Golbat, que intentará confundirte, utiliza ataques de Tipo eléctrico, psíquico o hielo. Respecto a Arbok, lo mejor es el Tipo psíquico o tierra, pero siempre está la opción de usar otro tipo de Pokémon. No creas que un Pokémon de tierra te servirá ya que a Gengar y Haunter no les afectan los ataques de Tipo tierra por tener la habilidad Levitación, y tampoco le afecta a Golbat por ser de Tipo volador.
+Gengar
+	Movimientos
+GengarRFVH 	Tipo fantasmaTipo veneno 	Rayo confuso
+Nivel 54 	♀ 	Puño sombra
+Hab: Levitación 	Tóxico
+Obj: ? 	Doble equipo
+Golbat
+	Movimientos
+GolbatRFVH 	Tipo venenoTipo volador 	Rayo confuso
+Nivel 54 	♀ 	Colmillo veneno
+Hab: Foco interno 	Aire afilado
+Obj: ? 	Mordisco
+
+Haunter
+	Movimientos
+HaunterRFVH 	Tipo fantasmaTipo veneno 	Mal de ojo
+Nivel 53 	♀ 	Maldición
+Hab: Levitación 	Hipnosis
+Obj: ? 	Come sueños
+Arbok
+	Movimientos
+ArbokRFVH 	Tipo veneno 	Bomba lodo
+Nivel 56 	♀ 	Cola férrea
+Hab: Intimidación 	Mordisco
+Obj: ? 	Chirrido
+
+Gengar
+	Movimientos
+GengarRFVH 	Tipo fantasmaTipo veneno 	Hipnosis
+Nivel 58 	♀ 	Bola sombra
+Hab: Levitación 	Bomba lodo
+Obj: Baya Zidra 	Pesadilla
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+
+Lance te estará esperando.
+Lance
+
+Lance, el penúltimo miembro del Alto Mando, utilizará Pokémon de Tipo dragón.
+
+Otros consejos:
+
+    Gyarados: para este lo mejor es el Tipo eléctrico, cuyos movimientos sean x4 contra este Pokémon o bien utilizar ataques Tipo roca ya que al ser volador le afectaran y además Gyarados no tiene ningún ataque Tipo agua.
+    Dragonair: no hay duda que vendrán bien los ataques Tipo hielo o Tipo dragón.
+    Aerodactyl: contra este convienen ataques Tipo agua, acero, roca y hielo (cuidado con este último, ya que los Pokémon Tipo hielo son débiles al Tipo roca). Es muy recomendable usar a Magneton ya que al ser Eléctrico/Acero tienes eficacia(Eléctrico) y resistencia(Acero).
+    Dragonite: podrás usar ataques Tipo roca o bien de Tipo hielo, lo cual es lo mejor, ya que un Pokémon Tipo dragón y Tipo volador hace que los ataques Tipo hielo multipliquen por 4 su poder, como pasa con el Tipo eléctrico sobre Gyarados.
+
+Gyarados
+	Movimientos
+GyaradosRFVH 	Tipo aguaTipo volador 	Mordisco
+Nivel 56 	♂ 	Hiperrayo
+Hab: Intimidación 	Furia dragón
+Obj: - 	Ciclón
+Dragonite
+	Movimientos
+DragoniteRFVH 	Tipo dragónTipo volador 	Hiperrayo
+Nivel 60 	♂ 	Enfado
+Hab: Foco interno 	Velo sagrado
+Obj: Baya Zidra 	Ataque ala
+
+Aerodactyl
+	Movimientos
+AerodactylRFVH 	Tipo rocaTipo volador 	Poder pasado
+Nivel 58 	♂ 	Ataque ala
+Hab: Presión 	Hiperrayo
+Obj: - 	Cara susto
+Dragonair
+	Movimientos
+DragonairRFVH 	Tipo dragón 	Velo sagrado
+Nivel 54 	♂ 	Furia dragón
+Hab: Mudar 	Enfado
+Obj: - 	Hiperrayo
+
+Dragonair
+	Movimientos
+DragonairRFVH 	Tipo dragón 	Enfado
+Nivel 54 	♂ 	Hiperrayo
+Hab: Mudar 	Velo sagrado
+Obj: - 	Onda trueno
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+
+El campeón te espera...
+Rival
+
+Resulta que el campeón es tu rival, el nieto del Profesor Oak. A lo largo del juego te habrás acostumbrado a las continuas luchas con él, por lo que lo que debe preocuparte. Además de sus Pokémon y su nivel, es el estado de tus Pokémon, además de que posee varios Restaurar todo, por lo que no te confíes y usa eso a tu favor.
+
+    Pidgeot saldrá primero. Como no presenta ninguna sorpresa ya que sus ataques son solo Tipo volador y Tipo normal, derrótalo con ataques Tipo roca, Tipo eléctrico o Tipo hielo. Como siempre, puedes usar la estrategia y usar un Tipo acero para resistir aún más sus ataques y terminarlo tranquilamente.
+
+    Rhydon es igual que Pidgeot, ya que no presenta sorpresas. Su fuerte es Terremoto, aunque posee Tumba rocas, que no es muy potente pero puede bajar tu velocidad. Lo mejor que puedes hacer es atacar a su defensa especial con ataques Tipo agua o Tipo planta. Si bien los Tipo hielo son eficaces, al tener Tumba rocas corres peligro de perder y en cuanto a los Tipo tierra o Tipo lucha, si no posees un Pokémon en gran nivel y gran ataque puede que no lo derrotes de un solo golpe ya que el fuerte de Rhydon es la defensa.
+
+    Alakazam es su Pokémon mas duro. Su ataque y velocidad lo hacen muy difícil de derrotar. Lo ideal sería un Pokémon Tipo siniestro, pero como en Kanto no existen y aún no tienes la Pokédex nacional no puedes conseguir ninguno. Puedes usar un Haunter, aunque seguro te gane en velocidad y si usa su Psíquico te derrotará. La mejor estrategia es usar un Pokémon que lo paralice y luego usar un Pokémon Tipo bicho que son la mejor opción por tener ataque alto. Derrótalo lo más rápido que puedas: además de los Restaurar todo, Alakazam posee Recuperación.
+
+    Exeggutor aparecerá si escogiste a Bulbasaur o Charmander. Es un Pokémon Tipo planta/psíquico pero no posee ningún ataque de este último. Con gran defensa, es muy débil contra los Tipo bicho. También puedes usar Tipo fuego, Tipo volador o Tipo hielo. Su único problema es que utiliza Somnífero para dormir y Pantalla de luz para reducir a la mitad los ataques especiales.
+
+    Gyarados aparecerá si escogiste a Bulbasaur o Squirtle. Es igual que el de Lance, aunque este conoce Hidrobomba, que si bien es Tipo agua no es la especialidad de Gyarados ya que es un ataque especial. Usa la misma estrategia que contra el Gyarados de Lance y saldrás victorioso.
+
+    Arcanine aparecerá si escogiste a Squirtle o Charmander. Pokémon Tipo fuego básico sin ninguna sorpresa. Utiliza ataques Tipo agua para debilitarlo. Los ataques Tipo roca o Tipo tierra también funcionan, pero la habilidad Intimidación puede perjudicarte.
+
+    Blastoise utilizará Danza lluvia para potenciar su Hidrobomba aunque lo puedes utilizar a tu favor. Con un Tipo eléctrico que sepa Trueno acabarás con él, ya que con lluvia tiene máxima precisión.
+
+    Charizard es Tipo fuego/volador, por lo que un Tipo roca hará todo el trabajo y de un golpe si es que lo tienes en buen nivel. Puedes también utilizar ataques Tipo agua, aunque no serán tan eficaces como los de roca.
+
+    Venusaur es el más complicado de los tres si es más veloz que el Pokémon que elijas. Posee una combinación de Día soleado, Rayo solar y Síntesis que pueden hacerte pasar un mal rato. Día soleado potencia los movimientos Tipo fuego pero hace que Rayo solar ataque de inmediato y al usar Síntesis, recuperará mas vida que sin sol. Un Tipo fuego es una buena opción así como un Tipo psíquico. Si bien es fuerte en defensa, no será un gran problema si posees un buen Pokémon.
+
+    Si elegiste a Bulbasaur
+    Si elegiste a Charmander
+    Si elegiste a Squirtle
+
+Pidgeot
+	Movimientos
+PidgeotRFVH 	Tipo normalTipo volador 	Golpe aéreo
+Nivel 59 	♂ 	Danza pluma
+Hab: Vista lince 	Remolino
+Obj: 	Ataque arena
+Rhydon
+	Movimientos
+RhydonRFVH 	Tipo tierraTipo roca 	Tumba rocas
+Nivel 59 	♂ 	Terremoto
+Hab: Pararrayos 	Derribo
+Obj: 	Cara susto
+
+Alakazam
+	Movimientos
+AlakazamRFVH 	Tipo psíquico 	Psíquico
+Nivel 57 	♂ 	Premonición
+Hab: Sincronía 	Reflejo
+Obj: 	Recuperación
+Exeggutor
+	Movimientos
+ExeggutorRFVH 	Tipo plantaTipo psíquico 	Bomba huevo
+Nivel 59 	♂ 	Pantalla luz
+Hab: Clorofila 	Somnífero
+Obj: 	Gigadrenado
+
+Gyarados
+	Movimientos
+GyaradosRFVH 	Tipo aguaTipo volador 	Hidrobomba
+Nivel 61 	♂ 	Golpe
+Hab: Intimidación 	Mordisco
+Obj: 	Furia dragón
+Charizard
+	Movimientos
+CharizardRFVH 	Tipo fuegoTipo volador 	Giro fuego
+Nivel 63 	♂ 	Golpe aéreo
+Hab: Mar llamas 	Llamarada
+Obj: Baya Zidra 	Cuchillada
+
+Tras tu victoria, el Prof. Oak te llevará al Hall de la Fama, donde os registrarán a ti y a tus Pokémon.
+
+Después de ello estarás en tu habitación. Vete a Isla Prima, Celio tiene una misión para ti: encontrar las piedras Rubí y Zafiro para conectar con la región de Hoenn. Así podrás intercambiar Pokémon de tu juego con los de estas versiones. Celio te dará un Ticket Iris para viajar a más islas.
+Encontrar el Zafiro y el Rubí
+
+INTRODUCCIÓN: Para intercambiar Pokémon con tu cartucho de Pokémon Rubí y Zafiro, necesitas haber ganado la competencia con el Alto Mando de la Liga Pokémon en la Meseta Añil, y haber recobrado el Zafiro y el Rubí.
+
+Nota: Al recordar las contraseñas es algo similar en el caso de Pokemon Rubí, Zafiro y Esmeralda ya que en la casa del maestro Treta tienes que recordar unos codigos para pasar las puertas.
+Buscando el Rubí
+
+Si has vencido al Alto Mando de la Liga Pokémon, regresa a la Isla Prima cuando hayas recibido el Pokedex Nacional (te la dan si tienes 60 o más Pokémon) que te da el Profesor Oak. Celio te dirá que necesita unas piedras preciosas para que su maquina trabaje con más efectividad. Se refiere al zafiro y al rubí.
+
+Sal del Centro Pokémon, ve hacia el este y trae un Pokémon que tenga Surf, debes de ir hacia el norte. Si no has ido al baño-spa de la montaña, entra para que encuentres la MO06 Golpe roca, sumérgete en el agua tibia y tus Pokémon se recuperarán. Sigue hacia el norte hasta que llegues al Monte Ascuas (Mount Ember). En este volcán puedes encontrar a Moltres en la planta alta, pero a eso no vamos ahora. Si te vas hacia la derecha cuando entres al monte, encontrarás al Team Rocket. Ellos han hecho un hoyo en la pared del volcán. En este momento ya te habrás encontrado la primera contraseña para el escondite de Team Rocket. La contraseña es muy rara, pero no hay que preocuparse porque no necesitas memorizarla, el juego lo hace por ti. Tienes que enfrentarte a ellos para poder entrar (el orden no importa, pero aquí aparece primero el de la derecha y luego el de la izquierda).
+Entrenador 	Rattata 	Raticate 	Sandshrew 	Sandslash
+Soldado T. Rocket 	Rattata
+Tipo normal Normal 	Raticate
+Tipo normal Normal 	Sandshrew
+Tipo tierra Tierra 	Sandslash
+Tipo tierra Tierra
+S. T. Rocket 	Nivel 35
+Entrenador 	Cubone 	Marowak
+Soldado T. Rocket 	Cubone
+Tipo tierra Tierra 	Marowak
+Tipo tierra Tierra
+S. T. Rocket 	Nivel 37
+
+Tras entrar en la cueva y bajar muchos niveles, llegarás a una bifurcación. Coge el camino de la izquierda y en la cámara final encontrarás el Rubí. Finalmente, vuelve a Isla Prima (Isla Uno) para llévarselo a Celio.
+
+Naturalmente te dará el pase (Ticket Iris) de las islas Arco-iris (Islas Sete), con éste puedes ir a todas las islas hasta la número 7 (Isla Sétima).
+
+Cuando llegues al escondite, usa tus contraseñas.
+Buscando el Zafiro
+
+Celio te dirá que necesita un Zafiro, ahora debes dirigirte a la isla cuatro (Isla Quarta). Nada más desembarcar, tu rival (Gary en inglés) te dirá que ha conseguido un Huevo Pokémon y que es imposible que puedas completar la Pokédex. Sin embargo, si consigues el Zafiro, puedes conseguir un buen número de Pokémon. Ve por la parte derecha de la playa, rompe la roca y recoge el Trozo estrella. Vuelve al puerto y ve hacia la izquierda ahora y en el final del camino utiliza el Buscatesoros para encontrar una Perla. Sal del Centro Pokémon y dirígete al este, surfea en el lago detrás de la casa de Lorelei, recoge el Polvoestelar y sigue hasta la Cueva Glaciada.
+Cueva Glaciada
+
+En la Cueva Glaciada debes entrar en la cueva que se ve en la parte de arriba, al oeste de la cascada. Rompe el último cuadrado de hielo, el que se encuentra arriba de todo pisándolo dos veces y déjate caer por él. Sube las escaleras y repite el proceso con el primer cuadrado de hielo para conseguir un Antiderretir. Vuelve a subir y tírate esta vez por el segundo cuadrado para caer en medio de la pista de hielo y, tras hacer el recorrido (arriba, derecha, abajo, izquierda, abajo), llegar al otro lado. Encontrarás un Restau. todo y, después de subir las escaleras, la MO07(Cascada). Ésta te servirá para ir a la planta alta de la cueva, subiendo por la cascada que acabas de pasar. Sube, baja las escaleras y entra en la parte mas alta. Ahí encontrarás a Lorelei batallando con Team Rocket. Debes ayudarla y así encontrar pistas para saber donde está localizado el Zafiro.
+Entrenador 	Zubat 	Zubat 	Golbat
+Soldado T. Rocket 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Zubat
+Tipo veneno VenenoTipo volador Volador 	Golbat
+Tipo veneno VenenoTipo volador Volador
+S. T. Rocket 	Nivel 38
+
+Ellos han dicho que en la Isla Inta (Isla Cinco) tienen su escondite. Pero sin la segunda contraseña, la verdad es que perderás el tiempo allí asi que dirígete hacia Isla Exta.
+Isla Exta
+
+Por lo tanto, vete a Isla Exta (isla sexta) y coge la Baya Zanama que está detrás del Centro Pokémon. Si entras en el Centro Pokémon verás a tu rival que te dará una charla sobre como el completará la Pokédex y tu no podrás. Después, ve al este del Centro Pokémon y dirígete al sur. Asegúrate de que uno de tus Pokémon sepa Corte. A lo largo del camino encontrarás dos entrenadores y dos bayas. Éstas aparecerán entre los entrenadores y necesitarás el Buscaobjetos: Baya Pinia y Baya Perasi. Los entrenadores serán:
+Entrenador 	Voltorb 	Voltorb 	Electrode 	Mr. Mime
+Malabarista 	Voltorb
+Tipo eléctrico Eléctrico 	Voltorb
+Tipo eléctrico Eléctrico 	Electrode
+Tipo eléctrico Eléctrico 	Mr. Mime
+Tipo psíquico Psíquico
+Malabarista 	Nivel 46 	Nivel 47 	Nivel 48
+Entrenador 	Onix 	Machoke
+Montañero 	Onix
+Tipo roca RocaTipo tierra Tierra 	Machoke
+Tipo lucha Lucha
+Montañero 	Nivel 49
+
+Verás que el camino se divide en dos. Primero elije el camino hacia abajo y llegaras a un objeto rodeado por tres rocas. Mueve las rocas y recoge la Piedra solar. Vuelve a donde los caminos se dividían y ve por la izquierda. Llegarás a unas escaleras pero no las subas y sigue bajando para encontrar un Mas ps. Ahora si, sube las escaleras, derrota al montañero y recoge el Restaurar todo. Vuelve a bajar las escaleras y sigue hacia abajo donde encontrarás otras escaleras y un entrenador apenas subas. Sigue el único camino y encontrarás tres entrenadores que te retaran antes de bajar otras escaleras. Baja y sigue por el camino para llegar a la Cueva Punteada. No puedes entrar, a menos que uno de tus Pokémon use MO01(Corte) en la puerta. Al entrar es otro rompecabezas, ¿Qué hacer?:
+
+    Toma el hoyo de arriba
+    Toma el hoyo de la izquierda
+    Toma el hoyo de la derecha
+    Toma el hoyo de abajo
+
+¡Ajá, el Zafiro! Pero, ¿Qué? Un científico te lo roba ¡Oh No! Ah, pero por lo menos ya sabes la segunda contraseña del escondite Team Rocket. Finalmente obtuviste la contraseña que te faltaba. Antes de ir tras el ladrón, vuelve al principio de la ruta, donde enfrentaste al primer entrenador, y surfea hacia el norte. Derrota a los dos nadadores y llegarás a tierra firme. Derrota también al dúo que se encuentra cerca de las escaleras y sigue adelante para derrotar a la entrenadora al lado de la segunda casa. Sigue hacia arriba y surfea por el camino para llegar a un Elixir. Vuelve a donde estaba la entrenadora y ve hacia la izquierda al Bosquejo.
+Bosquejo
+
+Al entrar, verás un entrenador. este bosque es grande y tiene varios entrenadores por lo que conseguirás experiencia valiosa. Sigue caminando hacia arriba por la misma linea y verás otros dos entrenadores. Cruza la hierba y sigue por el camino de arriba y derrota a la entrenadora que veas. Sigue por los caminos y seguirás encontrando todos los entrenadores que hay dentro del bosque. Cuando hayas enfrentado a todos, sal por la parte suroeste. Saldrás a una ruta marítima así que surfea y encontrarás una entrenadora en medio de la ruta y si usas el Buscatesoros encontrarás una Ultra Ball. Vuelve al agua y ve hacia el norte para encontrar varios entrenadores y una isla. Ve por la parte derecha y recoge el Mas pp. Derrota al pescador y ve hacia la izquierda de la isla donde verás un miembro del Equipo Rocket. Como querrá luchar, derrotalo y entra en la Cueva Cambiante. En esta cueva encontrarás solamente Zubat. Esta cueva esta por un evento en la que con ciertos códigos, puedes encontrar Pokémon de Johto. Ahora ya puedes dirigirte a la Isla Inta (Isla Cinco) no te preocupes, el Zafiro será tuyo antes de que te lo imagines.
+Isla Inta
+
+La Isla Inta es un poco difícil de explorar, pero asegúrate de nuevo de no surfear, al salir del puerto del barco manténte en la área de arena, y viaja hacia el este. Tienes que pasar una serie de áreas cubiertas de hierba. Sabrás que estás yendo por el lugar correcto porque varios miembros de Team Rocket te harán frente antes de que llegues a la puerta del Escondite Team Rocket. Si necesitas recuperarte, usa medicinas o puedes salir para el Centro Pokémon, no te preocupes, puedes regresar cuando quieras.
+Almacén Rocket
+
+Al entrar verás los mismo que en Ciudad Azafrán o en el Gimnasio Pokémon de Ciudad Verde. Pisa las únicas baldosas para avanzar y pararás en la parte oeste. No pises ninguna y camina hacia arriba por el espacio vacío hasta las baldosas que se dirigen hacia la derecha. Cuando pares, camina hacia abajo hasta llegar a una única baldosa que va hacia la derecha y encontrarás una Perla grande. Ahora sube y pisa las baldosas hacia la izquierda. Vuelve al mismo punto que estabas antes de bajar a buscar la perla y ahora pisa las baldosas enfrente tuyo que van hacia abajo. Cuando pares, sigue el camino y llegarás a una Perla. Pisa las baldosas al lado del objeto y sube para luchar con el recluta además de recoger la Mejora. Baja por las baldosas de la izquierda ya que las de la derecha te llevan al mismo lugar donde estabas antes de subir. Cuando pares, sube y tendrás otra batalla. Pisa las baldosas del lado izquierdo del entrenador y cuando pares comienza a caminar hacia arriba. En la caja que hay en medio encontrarás una Malla Ball. Sigue esquivando las baldosas y llegarás a una habitación con la MT36(Bomba lodo. Baja por las baldosas, derrota al entrenador y pisa las baldosas debajo para llegar a la recta final. Derrota a la entrenadora y continua. Esta entrenadora te dirá que deja la puerta abierta para que puedas salir e ir al Centro Pokémon a recuperarte y volver cuando quieras. Cuando estés listo, avanza y te enfrentaras al entrenador mas fuerte en el almacén que es el administrador. Cuando lo derrotes te dirá que volverá a juntar al Team Rocket y desaparecerá. Lo único que te falta es recuperar el zafiro del científico que se encuentra en la sala arriba que te retará ya que le has fastidiado su venta. ¡Derrótalo, para una venganza dulce! Y el Zafiro será tuyo.
+
+Ahora que tienes las dos piedras preciosas llevaselas a Celio y él te facilitará la conexión con Hoenn; por lo que podrás intercambiar Pokémon con las ediciones Rubí, Zafiro y Esmeralda de Pokémon.
+
+Ya has completado oficialmente todas las etapas significantes de tu juego Pokémon Rojo Fuego o Verde Hoja. ¡¡¡Felicitaciones!!!
+
+Además, podrás, por fin, ir a capturar a Mewtwo, que está cerca de Ciudad Celeste (en la cueva celeste),donde al principio no podías entrar, ya que un entrenador no te permitía el paso (por los Pokémon extremadamente fuertes de esa cueva). Y también a los tres perros legendarios que corren por las rutas de Kanto tras pasarte la Liga por segunda vez. No obstante, sólo aparecerá uno de ellos, y dependerá del Pokémon que escogiste al iniciar tu aventura:
+
+    Si escogiste a Bulbasaur: aparecerá Entei.
+
+    Si escogiste a Charmander: aparecerá Suicune.
+
+    Si escogiste a Squirtle: aparecerá Raikou.
+
+Para poder intercambiar con Pokémon Esmeralda se tiene que obtener la Pokédex Nacional en este juego (Pokémon Esmeralda).
+Cueva Celeste
+Cueva Celeste
+
+Cueva Celeste
+
+Una vez que llegues a la Cueva Celeste, empieza arriba usando Surf. Lleva un Pokémon con Golpe roca, sube las escaleras de mano y sigue el camino. Rompe dos rocas más para un Restaurar todo.
+Planta Baja
+
+Planta Baja
+
+Regresa al agua y surfea hacia la izquierda y sube las primeras escaleras para conseguir una Pepita. Al lado de la escalera, usa el Buscatesoros y encontrarás una Ultra Ball. No subas esas escaleras ya que te llevan a un camino sin nada. Baja y sube por las escaleras para llegar a un Mas pp.
+Sótano
+
+Sótano
+
+Sube nuevamente y sigue hacia abajo. Recoge el Restaurar todo y sigue por el único camino. Sube las primeras escaleras que veas y encontrarás una Ultra Ball. Vuelve atrás y recoge el Máximo elixir arriba de las escaleras y sigue el camino hacia las otras escaleras. Cuando bajes encontrarás varios caminos.
+Primer Piso
+
+Primer Piso
+
+Elije el que va hacia la derecha que te llevará hacia arriba y al final hacia otras escaleras. Sube y encontrarás otras escaleras al lado. Baja y continua el camino hacia la derecha y llegarás a un Revivir máximo. Sigue hacia abajo y sube las escaleras para seguir el camino que te lleva hacia una Ultra Ball. Continua y el camino te llevará hacia Mewtwo.
+Mewtwo
+Mewtwo
+Nivel 70
+Psíquico
+Rapidez
+Recuperación
+Velo sagrado
+
+El ataque especial de Mewtwo es muy alto y deberías tener cuidado, porque podría debilitarte con un solo ataque de Psíquico si estás en nivel muy bajo. Evita a toda costa que use Velo Sagrado o Recuperación, porque de lo contrario será más difícil atraparlo.
+Batalla contra Mewtwo
+
+Batalla contra Mewtwo
+
+Un Pokémon siniestro funciona de maravilla en su contra. Si no tienes un Pokémon siniestro, prueba usar uno tipo psíquico o acero, que aunque no te dan ventaja de ataque, sí te la dan de defensa. Es decisión tuya usar o no la Master Ball (si aún la tienes), las Ultraballs son la mejor opción. Intenta paralizarle o dormirle antes de que use Velo Sagrado, así será más fácil capturarlo.
+Alto Mando (mejorado)
+
+Después de capturar a Mewtwo puedes ir a por el Alto Mando, el cual tendrá Pokémon a mayor nivel, sólo si ya tienes la Pokédex nacional.
+Lorelei
+
+    Dewgong, Cloyster y Lapras: son débiles al Tipo eléctrico y Tipo lucha. También puedes usar ataques Tipo roca, con un Pokémon que no sea Tipo roca ni ninguno débil al agua y/o hielo. Ten cuidado con Lapras porque tiene gran variedad de ataques.
+    Jynx: sirven los Tipo fuego, Tipo roca, Tipo fantasma o Tipo siniestro.
+    Piloswine: Tipo fuego, Tipo planta, Tipo agua, Tipo acero y Tipo lucha.
+
+Dewgong
+	Movimientos
+DewgongRFVH 	Tipo aguaTipo hielo 	Rayo hielo
+Nivel 64 	♂ 	Surf
+Hab: Sebo 	Doble rayo
+Obj: ? 	Doble equipo
+Cloyster
+	Movimientos
+CloysterRFVH 	Tipo aguaTipo hielo 	Rayo hielo
+Nivel 63 	♂ 	Surf
+Hab: Caparazón 	Supersónico
+Obj: ? 	Danza lluvia
+
+Piloswine
+	Movimientos
+PiloswineRFVH 	Tipo hieloTipo tierra 	Ventisca
+Nivel 63 	♂ 	Terremoto
+Hab: Despiste 	Doble filo
+Obj: ? 	Avalancha
+Jynx
+	Movimientos
+JynxRFVH 	Tipo hieloTipo psíquico 	Psíquico
+Nivel 66 	♀ 	Rayo hielo
+Hab: Despiste 	Beso amoroso
+Obj: ? 	Atracción
+
+Lapras
+	Movimientos
+LaprasRFVH 	Tipo aguaTipo hielo 	Rayo hielo
+Nivel 66 	♂ 	Surf
+Hab: Absorbe agua 	Psíquico
+Obj: Baya Zreza 	Trueno
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+Bruno
+
+    Steelix: Tipo lucha, Tipo tierra o Tipo agua. También de Tipo fuego, pero es recomendable que sea un Pokémon que sepa un ataque de Tipo fuego y no sea débil al Tipo tierra, o bien, de Tipo fuego y Tipo volador (al Tipo volador no le afectan los ataques de Tipo tierra, si elegiste a Charizard de entre los Pokémon iniciales te será muy útil, pero igual ten cuidado con su tumba rocas)
+    Hitmonchan, Hitmonlee y Machamp: Tipo psíquico o Tipo volador (Machamp y hitmonlee saben Avalancha, por lo que hay que tener cuidado si usas de Tipo volador).
+
+Steelix
+	Movimientos
+SteelixRFVH 	Tipo aceroTipo tierra 	Tumba rocas
+Nivel 65 	♂ 	Terremoto
+Hab: Robustez 	Cola férrea
+Obj: ? 	Triturar
+Hitmonchan
+	Movimientos
+HitmonchanRFVH 	Tipo lucha 	Gancho alto
+Nivel 65 	♂ 	Ultrapuño
+Hab: Vista lince 	Avalancha
+Obj: ? 	Contador
+
+Hitmonlee
+	Movimientos
+HitmonleeRFVH 	Tipo lucha 	Megapatada
+Nivel 65 	♂ 	Profecía
+Hab: Flexibilidad 	Terremoto
+Obj: ? 	Avalancha
+Steelix
+	Movimientos
+SteelixRFVH 	Tipo aceroTipo tierra 	Terremoto
+Nivel 66 	♂ 	Triturar
+Hab: Robustez 	Cola férrea
+Obj: ? 	Dragoaliento
+
+Machamp
+	Movimientos
+MachampRFVH 	Tipo lucha 	Tajo cruzado
+Nivel 68 	♂ 	Terremoto
+Hab: Agallas 	Demolición
+Obj: Baya Caquic 	Avalancha
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+Agatha
+
+    Gengar: Tipo fantasma (con cuidado, puedes usar un Pokémon no fantasma con un movimiento de este tipo), Tipo psíquico (con cuidado, el Tipo fantasma es fuerte contra Pokémon de este tipo) o Tipo siniestro.
+    Misdreavus: Tipo fantasma (con el mismo cuidado) o Tipo siniestro.
+    Arbok: Tipo psíquico, Tipo tierra.
+    Crobat: Tipo eléctrico, Tipo psíquico, Tipo roca, Tipo hielo.
+
+Gengar
+	Movimientos
+GengarRFVH 	Tipo fantasmaTipo veneno 	Rayo confuso
+Nivel 66 	♂ 	Puño sombra
+Hab: Levitación 	Psíquico
+Obj: ? 	Hipnosis
+Crobat
+	Movimientos
+CrobatRFVH 	Tipo venenoTipo volador 	Rayo confuso
+Nivel 66 	♂ 	Bomba lodo
+Hab: Foco interno 	Aire afilado
+Obj: ? 	Bola sombra
+
+Misdreavus
+	Movimientos
+MisdreavusRFVH 	Tipo fantasma 	Bola sombra
+Nivel 65 	♂ 	Psíquico
+Hab: Levitación 	Rayo
+Obj: ? 	Atracción
+Arbok
+	Movimientos
+ArbokRFVH 	Tipo veneno 	Bomba lodo
+Nivel 68 	♂ 	Terremoto
+Hab: Intimidación 	Gigadrenado
+Obj: ? 	Doble equipo
+
+Gengar
+	Movimientos
+GengarRFVH 	Tipo fantasmaTipo veneno 	Rayo
+Nivel 70 	♂ 	Bola sombra
+Hab: Levitación 	Bomba lodo
+Obj: Baya Atania 	Psíquico
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+Lance
+
+    Gyarados: Tipo eléctrico, Tipo roca (ve despacio si prefieres usar Tipo roca, ya que los movimientos Tipo agua son muy eficaces con los Tipo roca)
+    Dragonite: Tipo hielo, Tipo roca o Tipo dragón (ve despacio si prefieres usar un dragón, ya que los movimientos Tipo dragón son muy eficaces con los Pokémon Tipo dragón)
+    Aerodactyl: Tipo agua, Tipo acero, Tipo eléctrico y Tipo hielo.
+    Kingdra: Tipo dragón (ve despacio ya que Kingdra sabe un ataque Tipo hielo).
+
+Gyarados
+	Movimientos
+GyaradosRFVH 	Tipo aguaTipo volador 	Danza dragón
+Nivel 68 	♂ 	Hiperrayo
+Hab: Intimidación 	Onda trueno
+Obj: - 	Terremoto
+Dragonite
+	Movimientos
+DragoniteRFVH 	Tipo dragónTipo volador 	Hiperrayo
+Nivel 72 	♂ 	Enfado
+Hab: Foco interno 	Rayo hielo
+Obj: Baya Caquic 	Rayo
+
+Aerodactyl
+	Movimientos
+AerodactylRFVH 	Tipo rocaTipo volador 	Poder pasado
+Nivel 70 	♂ 	Terremoto
+Hab: Presión 	Hiperrayo
+Obj: - 	Golpe aéreo
+Dragonite
+	Movimientos
+DragoniteRFVH 	Tipo dragónTipo volador 	Terremoto
+Nivel 66 	♂ 	Lanzallamas
+Hab: Foco interno 	Garra dragón
+Obj: - 	Hiperrayo
+
+Kingdra
+	Movimientos
+KingdraRFVH 	Tipo aguaTipo dragón 	Surf
+Nivel 66 	♂ 	Hiperrayo
+Hab: Nado rápido 	Danza dragón
+Obj: ? 	Rayo hielo
+ 
+	 
+	  	 
+  	 
+  	 
+  	 
+Campeón(Rival)
+
+    Heracross: Tipo fuego, Tipo roca (cuidado, el Tipo lucha es fuerte contra el roca), Tipo volador, Tipo psíquico (cuidado, el Tipo bicho es fuerte al psíquico).
+    Tyranitar: Tipo agua, Tipo planta, Tipo tierra, Tipo acero o Tipo lucha (preferible ya que tiene doble debilidad contra este). Enseñarle Demolición a un Pokémon contra este es muy buena opción.
+    Exeggutor: Tipo bicho, Tipo fuego, Tipo hielo, Tipo volador, Tipo fantasma, Tipo siniestro (el Tipo bicho es doblemente efectivo, el más recomendable).
+    Arcanine: Tipo agua, Tipo roca o Tipo tierra.
+    Gyarados: Tipo eléctrico, Tipo roca(Cuidado el Tipo Agua es fuerte contra el Tipo Roca).(Además el Tipo Eléctrico es doblemente eficaz contra él).
+    Alakazam: Tipo bicho, Tipo fantasma o Tipo siniestro.
+    Venusaur: Tipo fuego, Tipo hielo, Tipo volador o Tipo psíquico.
+    Blastoise: Tipo eléctrico o Tipo planta.
+    Charizard: Tipo agua, Tipo roca o Tipo eléctrico (preferiblemente roca ya que causará el cuádruple de daño).
+
+    Si elegiste a Charmander
+    Si elegiste a Bulbasaur
+    Si elegiste a Squirtle
+
+Heracross
+	Movimientos
+HeracrossRFVH 	Tipo bichoTipo lucha 	Megacuerno
+Nivel 72 	♂ 	Contraataque
+Hab: Enjambre 	Terremoto
+Obj: 	Tumba rocas
+Tyranitar
+	Movimientos
+TyranitarRFVH 	Tipo rocaTipo siniestro 	Triturar
+Nivel 72 	♂ 	Terremoto
+Hab: Chorro arena 	Rayo
+Obj: 	Golpe aéreo
+
+Alakazam
+	Movimientos
+AlakazamRFVH 	Tipo psíquico 	Psíquico
+Nivel 73 	♂ 	Bola sombra
+Hab: Sincronía 	Reflejo
+Obj: 	Paz mental
+Exeggutor
+	Movimientos
+ExeggutorRFVH 	Tipo plantaTipo psíquico 	Psíquico
+Nivel 73 	♂ 	Gigadrenado
+Hab: Clorofila 	Somnífero
+Obj: 	Pantalla luz
+
+Arcanine
+	Movimientos
+ArcanineRFVH 	Tipo fuego 	Llamarada
+Nivel 73 	♂ 	Cola férrea
+Hab: Intimidación 	Golpe aéreo
+Obj: 	Velocidad extrema
+Blastoise
+	Movimientos
+BlastoiseRFVH 	Tipo agua 	Hidrobomba
+Nivel 75 	♂ 	Terremoto
+Hab: Torrente 	Rayo hielo
+Obj: Baya Zidra 	Danza lluvia
+
+    La clave está en que conozcas bien a tu equipo, porque aunque el panorama no sea bueno, si conoces a tus Pokémon siempre vencerás.
+
+Luego de la liga
+
+Como ya has terminado de explorar toda la historia inicial del juego, solo te queda explorar las Islas Sete.
+Islas Sete
+
+Si has seguido la guía, entonces ya has explorado por completo algunas de las islas por lo que te quedan otras por explorar. Aunque lo primero es ir a Ciudad Carmín e ir a la Isla Tera ya que hay algo que se ha desbloqueado luego de tu revancha en la liga. Al salir del puerto, verás la entrada a la cueva que si antes ingresabas encontrabas un hombre que te decía que estaba en busca de tesoros. Bueno, ya ha cavado por lo que si entras y llegas al final te dará una Pepita. En la roca del lado derecho antes de la escalera tienes otra Pepita. Si sales, encontraras un pequeño lugar con hierba en donde aparecen Pokémon como Dunsparce. Ahora si, toma el barco hacia la Isla Inta.
+Isla Inta
+
+Sal por la parte oeste y surfea hacia el norte. Cuando veas que el camino se divide, ve hacia la izquierda siguiendo el camino hasta llegar a tierra. Habla con el hombre que se encuentra ahí y si tienes un espacio libre te dará un huevo de Togepi. La mujer que esta atrás de el, es una entrenadora. Ahora vuelve a la división y continua hacia el norte esta vez. Encontrarás una entrenadora y a la derecha tierra. Este lugar tiene varios entrenadores y una casa en el medio que es la la casa de consu donde aparentemente no hay nadie. Este lugar es la Zonas de recreo. Cuando termines de vencer a todos, surfea hacia el este y lucha con el nadador. Sigue por el camino y llegarás a la Cueva Perdida.
+Cueva Perdida
+
+Esta cueva es un completo laberinto. Es un lugar como la Torre Pokémon donde puedes encontrar Pokémon Tipo fantasma y Tipo siniestro. También hay algunos entrenadores y algunos objetos. Baja las escaleras y derrota al entrenador. Cuando le derrotes, ve hacia la sala de la derecha y luego hacia la de abajo para encontrar un Incienso suave. Sal y volverás a las escaleras que bajaste. Ahora ve a la sala de la derecha nuevamente y hacia la de arriba, vuelve a la de abajo y verás que ha cambiado y encontrarás una entrenadora. Cuando la derrotes, vuelve a la sala norte y encontrarás un Incienso marino. Vuelve a salir y como antes volverás a las escaleras. Ahora ve hacia la derecha, luego hacia arriba, hacia abajo y verás a la entrenadora de antes, ve hacia abajo y dos veces hacia la derecha para encontrar un Revivir máximo. Como siempre sal y estarás en las escaleras. Ahora ve a la derecha, arriba, abajo, abajo, derecha, izquierda, abajo e izquierda. El último objeto que te falta y el último entrenador están hacia la derecha, arriba, abajo, abajo, derecha, izquierda, abajo, derecha y arriba. Verás una entrenadora que te detiene y luchará contigo. Curiosamente, esta entrenadora vive en la casa que se encontraba en la Zonas de recreo. Volverás a su casa y si vuelves a entrar te pedirá que le lleves distintos Pokémon. Vuelve a la cueva para volver nuevamente hacia la última sala donde encontraste a la entrenadora para encontrar el Pañuelo seda. Sin nada mas que hacer, vuelve a la isla.
+Pilar Recuerdo
+
+Este lugar se encuentra en frente del Almacén Rocket. Surfea hacia la derecha y llegarás al pilar. Derrota al entrenador y si usas el Buscatesoros encontrarás una Baya Frambu. Sigue bajando y verás otro entrenador. Cuando veas que el camino se ensancha, usa el Buscatesoros para encontrar una Baya Zidra. Sigue bajando hasta llegar a la playa y el último entrenador de esta parte. Surfea hacia el sur y sube las escaleras. Verás un entrenador y debajo un objeto que es el Revestimiento metálico. La estatua es del Onix fallecido del entrenador. Si dejas una Limonada como ofrenda, el entrenador te dará la MT42(Imagen). Sin mas que hacer, vuelve a la isla.
+Isla Sétima
+
+Tienes dos caminos. Hacia el norte encontrarás dos entrenadores y si surfeas llegarás a la Torre Desafío. Ahora ve para el sur y cruza el puente. La persona en medio del puente le enseñará Danza espada a uno de tus Pokémon. Cuando cruces, llegarás a la entrada del cañón. Sigue el camino y encontrarás dos entrenadores. Sigue bajando y verás otros dos. Ahora ve por la izquierda y lucharás con una pareja. Vuelve atrás y ahora continua hacia la derecha y entrarás en el Cañón Sétano.
+Cañón Sétano
+
+Este lugar esta lleno de entrenadores y una cueva donde debes resolver un pequeño rompecabezas en donde tienes que empujar las rocas sobre los agujeros. Hacerlo es fácil. Primero, empuja la roca del medio, de las tres de arriba, al agujero de arriba de todo. Con las dos rocas a su lado, debes hacer lo siguiente. Pisa alguno de los dos agujeros y mueve una de las dos hacia el medio para que pueda pasar y mueve la roca hasta ponerla arriba del agujero. Haz lo mismo con la otra y solo te quedarán las cuatro de abajo. Mueve las dos que están mas abajo hacia cada uno de los costados y ya te quedará listo para empujar las demás hacia los agujeros. Cuando termines oirás un fuerte estruendo que ya veremos que es. Si te equivocas solo sal de la cueva y vuelve a entrar. Sal de la cueva y recoge la Pepita. Derrota al entrenador y recoge el Máximo elixir. Sube las escaleras y continua el camino para encontrar otros dos entrenadores. Sigue adelante y verás una entrenadora que bloquea un camino hacia un objeto. Trata de alejarla y cuando la derrotes podrás ir a buscar un objeto. Baja las escaleras y derrota al entrenador. Verás que hay una casa a la derecha en la cual encontrarás un Puño suerte y podrás bailar el baile de Chansey lo cual recuperará la salud de tus Pokémon. Baja y encontrarás, antes de bajar las escaleras, una Baya Zreza. Al final de este camino, están las Ruinas Sete en las cuales puedes encontrar a todos los Unown.
+Misiones después de vencer a la Liga Pokémon
+
+Aunque ya hayas salido victorioso en la Liga Pokémon, no te podrás aburrir, porque a parte de poder ir al resto de las Islas Sete podrás cumplir un listado de 15 misiones:
+
+    Encontrar a Lorelei: Ve hacia la Cueva Glaciada de Isla Quarta, completa el puzzle de la cueva y ayuda a Lorelei venciendo a los integrantes del Team Rocket.
+    Team Rocket al acecho: El Team Rocket vuelve a la carga, pero esta vez en su almacén.
+    Togepi te espera: Llega al Aquarinto, hasta localizar a un señor que te regalará un huevo de Togepi.
+    El misterio perdido: Consigue los tesoros de la Cueva Perdida de Isla Inta.
+    La señora impaciente: En el Lugar de Recreo luego de sacarla de la Cueva Perdida, te irá pidiendo diariamente que le enseñes un Pokémon al azar a cambio de una recompensa.
+    Tectonix, el grande: Dale ofrendas a Tectonix; el Onix fallecido del Pilar Recuerdo.
+    El Rubí volcánico: Consigue el rubí del Monte Ascuas. Ya que con estos después podrás intercambiar Pokémon con Pokémon Rubí y Zafiro y Pokémon Esmeralda.
+    El Zafiro subterráneo: Consigue el Zafiro del Valle Ruinas en la subterránea Cueva Punteada. Ya que con estos después podrás intercambiar Pokémon con Rubí, Zafiro y Esmeralda.
+    El activador de las Llaves Sete: Entra en el cañón de Isla Sétima y ve hacia la pequeña cueva del Cañón Sétano para activarlas.
+    Viaje desértico por el Cañón Sétano: Tu siguiente misión es volver a salir al Cañón Sétano y conseguir atrapar a los Unown en las Ruinas Sete.
+    Los increíbles Pokémon legendarios: Tras pasarnos la Liga Pokémon por primera vez, Mewtwo estará esperando que lo capturemos en la Cueva Celeste y uno de los tres perros legendarios recorrerá las rutas de Kanto dependiendo de nuestro Pokémon inicial (Entei si escogiste a Bulbasaur, Suicune si escogiste a Charmander y Raikou si escogiste a Squirtle).
+    Sólo uno lo logrará: Ve a capturar Pokémon y fortalecer a tu equipo, y prepárate para la revancha de la Liga Pokémon renovada con algunos nuevos Pokémon de Johto, y con eso tus misiones importantes en el juego habrán terminado.
+    Gran batalla en la Torre Desafío: Aunque si la liga te ha sabido a poco, aún puedes ponerte a prueba con las distintas modalidades de combate en la Torre Desafío de Isla Sétima.
+    La colección: Lorelei posee una colección de muñecos en su casa. Cada 25 veces que venzas en la Liga Pokémon, añadirá uno más a su colección. Cerca de su casa en Isla Quarta también hay un coleccionista de cromos que te pegará uno en tu ficha de entrenador cada vez que cumplas unos logros un determinado número de veces.
+    Completar la Pokédex: Captura, cría e intercambia para completar la Pokédex Kanto y ve a Ciudad Azulona para recibir tu premio al completarla de parte de Game Freak y después la Pokédex Nacional.

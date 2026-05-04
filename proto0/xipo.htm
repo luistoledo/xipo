@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html data-lt-installed="true"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+
+    <title>Xogo Imaxinado Por Ordenador</title>
+
+    <script src="markov.js"></script>
+    <script>
+        const corpus = 'corpus/pokemon-rojo.txt';
+        const markov = new Markov('', 15);
+        let prefix = `Ruta ${Math.random().toString()[2]}.`;
+
+        markov.debug = true;
+
+        console.log(prefix);
+
+        fetch(corpus).then(response => {
+            response.text().then(text => {
+                markov.train(text, () => {
+                    let prediction = markov.predict(500, { start: prefix, alpha: 1 });
+                    animateText(prediction, 300, document.querySelector('div'));
+                });
+            });
+        });
+
+        function animateText(text, delay = 100, element = document.querySelector('div')) {
+            let words = text.split(' ');
+            let index = 0;
+            setInterval(() => {
+                if (index < words.length) {
+                    element.textContent += words[index] + ' ';
+                    index++;
+                }
+            }, delay);
+        }
+    </script>
+
+    <style>
+        html {
+            display: flex;
+            justify-content: center;
+
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        }
+        body {
+            width: 60%;
+            min-width: 600px;
+        }
+
+        p {
+            color: gray;
+        }
+
+        div {
+            font-size: large;
+            white-space: break-spaces;
+        }
+
+    </style>
+</head>
+
+<body>
+    <h1>Pokemon infra-red</h1>
+    <h2>Xogo Imaxinado Por Ordenador</h2>
+    <p>Espera ...</p>
+    <hr>
+    <div></div>
+
+    <script>
+//        document.addEventListener('scroll', e => {
+//            if (window.pageYOffset > document.body.scrollHeight - window.innerHeight - 250)
+//                document.querySelector('div').textContent += markov.predict(200, { start: document.querySelector('div').textContent });
+//        });
+    </script>
+
+
+
+</body></html>
