@@ -57,7 +57,14 @@
         });
 
         document.addEventListener('mousemove', (e) => {
-            if (isDragging) {
+            if (isDragging) {                
+                // wobbly deformation
+                let skewX = -((e.clientX - offsetX) - parseInt(windowElement.style.left)) / 10;
+                windowElement.style.transform = `skewX(${skewX}deg)`;
+
+                let scaleV = -((e.clientY - offsetY) - parseInt(windowElement.style.top)) / 300;
+                windowElement.style.transform += ` scaleY(${1 + scaleV})`;
+
                 windowElement.style.left = `${e.clientX - offsetX}px`;
                 windowElement.style.top = `${e.clientY - offsetY}px`;
             }
@@ -65,6 +72,7 @@
 
         document.addEventListener('mouseup', () => {
             isDragging = false;
+            windowElement.style.transform = 'none';
         });
 
         //////////////////////////////////////////////////////////

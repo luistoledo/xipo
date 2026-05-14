@@ -38,6 +38,9 @@
             padding: 10px;
             white-space: break-spaces;
             user-select: text;
+            overflow-y: scroll;
+            height: calc(100% - 90px);
+            scrollbar-width: auto;
         }
 
         .fade-in-text {
@@ -82,7 +85,7 @@
         }
         .window .title-bar .close-button:hover {
             background-color: coral;
-            border: 1px solid crimson;
+            border: 1px solid bisque;
         }
 
         .window .menu-bar {
@@ -169,8 +172,8 @@
     <script src="markov.js"></script>
     <script>
         const corpus = 'corpus/pokemon-rojo.txt';
-        const markov = new Markov('', 15);
         let prefix = `Ruta ${Math.random().toString()[2]} `;
+        const markov = new Markov('', prefix.length-1);
         markov.debug = true;
         let generationInterval = null;
 
@@ -188,7 +191,7 @@
             document.querySelector('#content').innerHTML = '';
             let prediction = markov.predict(700, { start: prefix, alpha: 1 });
             animateText(prediction, 500, document.querySelector('#content'), () => {
-                document.querySelector('#content').innerHTML += '...';
+                // document.querySelector('#content').innerHTML += '...';
             });
         }
 
@@ -209,6 +212,11 @@
             });
         }
 
+        function getNextPossibleWords(n) {
+            const lastNWords = document.querySelector('#content').textContent.trim();
+            return markov.getNextPossibleWords(lastNWords, n);
+        }
+
         // loadCorpus().then(() => {
         //     console.log('Corpus loaded');
         //     generateText();
@@ -226,13 +234,39 @@
                     element.innerHTML += ' <span class="fade-in-text">' + words[index] + '</span>';
                     index++;
                 } else {
+                    clearInterval(generationInterval);
                     callback && callback();
                 }
             }, delay);
         }
+
+
+        // this function reviews the current generated texts
+        // and replaces certain words with an <input><options> element 
+        // that allows the user to select one of the possible next words according to the markov chain
+        function replaceKeyWithPossibility(keywords=[]) {
+            const words = text.split(' ');
+            words.forEach(element => {
+                if (keywords.includes(element)) {
+                    const select = document.createElement('select');
+                    const options = markov.getNextPossibleWords(element, 5);
+                    options.forEach(option => {
+                        const optionElement = document.createElement('option');
+                        optionElement.value = option;
+                        optionElement.textContent = option;
+                        select.appendChild(optionElement);
+                    });
+                    element.replaceWith(select);
+                }
+            });
+        }
+
     </script>
 
     <script>
+        // window movement and control buttons
+
+
         const windowElement = document.querySelector('.window');
         const windowTitle = windowElement.querySelector('.title-bar');
         const closeButton = document.querySelector('.close-button');
@@ -249,14 +283,22 @@
         });
 
         document.addEventListener('mousemove', (e) => {
-            if (isDragging) {
+            if (isDragging) {                
+                // wobbly deformation
+                let skewX = -((e.clientX - offsetX) - parseInt(windowElement.style.left)) / 10;
+                windowElement.style.transform = `skewX(${skewX}deg)`;
+
+                let scaleV = -((e.clientY - offsetY) - parseInt(windowElement.style.top)) / 300;
+                windowElement.style.transform += ` scaleY(${1 + scaleV})`;
+
                 windowElement.style.left = `${e.clientX - offsetX}px`;
                 windowElement.style.top = `${e.clientY - offsetY}px`;
             }
         });
-
+        
         document.addEventListener('mouseup', () => {
             isDragging = false;
+            windowElement.style.transform = 'none';
         });
 
         //////////////////////////////////////////////////////////
