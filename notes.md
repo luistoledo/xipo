@@ -8,6 +8,14 @@ The term walk-through was used to describe step-by-step video game solutions as 
 The Winners' Book of Video Games (1982)[1] and How To Beat the Video Games (1982)[2] focused on revealing underlying gameplay patterns and translating that knowledge into mastering games
 
 
+2.2Gb archive of 80's and 90's game walktroughs, from the first GameFAQs site (David Elli's incomplete video game faq archive)
+
+https://archive.org/details/Gamespot_Gamefaqs_TXTs
+
+https://web.archive.org/web/20200707075947/https://www.reddit.com/r/DataHoarder/comments/ftsdbs/gamespot_txt_gamefaqs_full_archive_32320/
+
+https://www.digitpress.com/library/magazines/electronic_games/electronic_games.htm
+
 
 ## Articles
 
