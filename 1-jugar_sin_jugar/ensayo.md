@@ -16,3 +16,7 @@ Desde la arqueología de los medios, estos documentos, no solo preservan juegos,
 Hoy, cuando los juegos están cada vez más enredados con servicios en linea, parches e infraestructuras efímeras, las guías en texto se sienten anacrónicas; sin embargo, persisten, pues queda algo encantador sobre esta lenta y más deliberada forma de mediación. Leer una guía es encancharse en un tipo de juego especulativo, moverse a a través del espacio de las posibilidades sin tocar el control, habitar el juego como una idea en lugar de como un objeto.
 
 En este sentido, las guías no solo ayudan a jugar, re-enmarcan el juego. Pausadamente nos preguntan: dónde, exáctamente, reside un juego? En el software? En las acciones del jugador? O en el discurso compartido que lo rodea?
+
+
+luis toledo
+mayo 2026

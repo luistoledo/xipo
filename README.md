@@ -1,4 +1,4 @@
-exploraciones y prototipos para el club de lectura/jam [déronnolos des_conectados](https://www.instagram.com/jugarjueguitos) iniciado en 2026
+exploraciones y prototipos para el club de juegos [déronnolos des_conectados](https://www.instagram.com/jugarjueguitos) iniciado en 2026
 
 ### tema 1: ver jugar, jugar sin jugar
 
@@ -18,7 +18,7 @@ se quedan muchas ideas que seguir explorando, como una regeneración dinámica d
 - [walkthroughs de referencia](1-jugar_sin_jugar/refs/)
 - más notas y prototipos no terminados en la carpeta [./1-jugar_sin_jugar/](1-jugar_sin_jugar/) 
 
-### tema 2: paseo
+### tema 2: paseo por el paseo
 
 tbd
 
