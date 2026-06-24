@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Markov Chain Generator</title>
+    //utf-8
+    <meta charset="utf-8">
+    <link href='http://fonts.googleapis.com/css?family=Fugaz+One' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>
+    <style type="text/css">
+        body {
+            font-size: 1.3em;
+            font-family: Arial, Helvetica, sans-serif;
+            background: #f6f2e8;
+            color: #1f1f1f;
+        }
+
+        div {
+            padding: 1em;
+        }
+
+        h3 {
+            font-family: 'Fugaz One', cursive;
+            font-size: 32px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 100%;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        #container {
+            width: min(1024px, calc(100% - 2rem));
+            border: solid 1px #c8c0b3;
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.8);
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: 0 18px 40px rgba(0, 0, 0, 0.08);
+        }
+
+        #controls {
+            width: min(1024px, calc(100% - 2rem));
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+        }
+
+        #prompt_box {
+            width: min(900px, calc(100% - 2rem));
+            min-height: 92px;
+            border: solid 1px #b8b0a3;
+            border-radius: 10px;
+            padding: 0.75rem;
+            font-size: 1rem;
+            resize: vertical;
+            display: block;
+            margin: 0.75rem auto;
+            box-sizing: border-box;
+        }
+
+        #txt_file {
+            display: block;
+            margin: 0.5rem auto 0;
+        }
+
+        #source_status {
+            font-size: 0.95rem;
+            color: #6b6257;
+            margin-top: 0.5rem;
+        }
+
+        #buttons {
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            width: 100%;
+        }
+        button {
+            background-color: #1f4b3a;
+            border-radius: 999px;
+            border: solid 1px #163528;
+            color: rgb(255, 255, 255);
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            font-weight: bold;
+            height: 34px;
+            text-align: center;
+            width: 170px;
+        }
+        #generated_title {
+            font-family: 'Marmelad', sans-serif;
+            font-size: 28px;
+            line-height: 1.5;
+            text-align: center;
+            padding: 1.5rem;
+        }
+        .quote
+        {
+            color: #ccc !important;
+            font-size: 52px !important;
+            font-family: 'Times New Roman';
+            font-weight: bold;
+            padding: 5px;
+        }
+    </style>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script src="markov.js"></script>
+</head>
+<body>
+    <h3>The Hitchhiker's Guide to the Galaxy Markov Chain Generator</h3>
+    <div id="controls">
+        <input id="txt_file" type="file" accept=".txt,text/plain" />
+        <textarea id="prompt_box" placeholder="Enter a prompt to steer the generated title..."></textarea>
+        <input id="word_count" type="number" min="1" placeholder="Exact words (optional)" style="width:220px; display:block; margin:0.5rem auto;" />
+        <div id="source_status">Loading local text...</div>
+    </div>
+    <div id="container">
+        <div id="generated_title"></div>
+    </div>
+    <div id="buttons">
+        <button id="generate">Generate</button>
+    </div>
+</body>
+</html>
