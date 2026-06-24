@@ -45,4 +45,5 @@ closeButton.addEventListener('click', () => {
 // open window
 function openPoke() {
     windowElement.style.display = 'block';
+    gentext();
 }

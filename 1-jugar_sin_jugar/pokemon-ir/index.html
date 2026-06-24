@@ -14,10 +14,10 @@
 </head>
 
 <body>
-    <div class="window">
+    <div class="window" style="display: none;">
         <div class="title-bar">
             <div class="title">pokemon-ir.txt</div>
-            <div class="close-button" onclick="window.close()"></div>
+            <div class="close-button">X</div>
         </div>
         <div class="menu-bar">
             <ul>
@@ -31,7 +31,7 @@
     </div>
 
     <div class="app-icon" onclick="openPoke()" >
-        <div class="app-label">poke.txt</div>
+        <div class="app-label">poke-ir.txt</div>
     </div>
 
     <script src="desktop.js"></script>
@@ -43,6 +43,11 @@
                 gentext();
             });
         });
+    </script>
+
+    <script>
+        onload = function() {
+        }
     </script>
 
 </body></html>
