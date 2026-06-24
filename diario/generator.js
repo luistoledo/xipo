@@ -1,7 +1,5 @@
 const corpus = 'corpus/pokemon-rojo.txt';
-let prefix = `Ruta ${Math.random().toString()[2]} `;
-const markov = new Markov('', prefix.length-1);
-markov.debug = false;
+let markov = null;
 let generationInterval = null;
 let trained = false;
 
@@ -84,11 +82,13 @@ function replaceKeyWithPossibility(keywords = [], text, callback = null) {
         options = options.filter(opt => opt !== words[targetIdx].trim());
 
         const select = document.createElement('select');
-        select.addEventListener('change', (e) => { callback && callback(e); });
+        // because this is a text replacement, we cant use event listeners directly
+        const callbackName = callback.name;
+        select.setAttribute('onchange', callback.name+"(event)");
 
         options.forEach(opt => {
             const optionElement = document.createElement('option');
-            optionElement.value = opt;
+            optionElement.value = "words[" + targetIdx + "]";
             optionElement.textContent = opt;
             select.appendChild(optionElement);
         });
@@ -110,61 +110,56 @@ function replaceKeyWithPossibility(keywords = [], text, callback = null) {
 }
 
 
+function freshGeneration() {
+    prefix = `Ruta ${Math.random().toString()[2]}. `;
+    markov = new Markov('', prefix.length-1);
+    document.querySelector('#content').innerHTML = '';
+    gentext(prefix);
+}
 
-function gentext(prompt) {
-    prefix = `Ruta ${Math.random().toString()[2]} `;
+
+function gentext(prefix) {
     let prediction = '';
+    if (markov == null || !trained) {
+        console.warn('Markov model not ready, loading corpus...');
+        markov = new Markov('', prefix.length-1);
+        return fetch(corpus)
+            .then(response => response.text())
+            .then(text => new Promise((resolve) => {
+                console.log('Training Markov model...');
+                markov.train(text, resolve);
+            })).then(() => {
+                trained = true;
+                return gentext(prefix);
+            });
+    }
 
-    return fetch(corpus)
-        .then(response => response.text())
-        .then(text => new Promise((resolve) => {
-            console.log('Training Markov model...');
-            markov.train(text, resolve);
-        }))
-        .then(() => {
-            console.log('Generating text...');
-            prediction = markov.predict(500, { start: prefix, alpha: 1 });
-            prediction = trimLastSentence(prediction);
-            if (prediction.length < 20) {
-                prediction += ' ' + markov.predict(200, { start: prediction, alpha: 1 });
-            }
-            document.querySelector('#content').textContent = prediction;
+    return new Promise(() => {
+        console.log('Generating text...');
+        prediction = markov.predict(500, { start: prefix, alpha: 1 });
+        prediction = trimLastSentence(prediction);
+        if (prediction.length < 20) {
+            prediction += ' ' + markov.predict(300, { start: prediction, alpha: 0.3 });
+        }
+        prediction = trimLastSentence(prediction);
+        prediction = removeUnsafeCharacters(prediction);
+        document.querySelector('#content').textContent = prediction;
 
-            console.log('Replacing keywords with possibilities...');
-            const keywords = [{word:'Pikachu', shift: 0}, {word:'Bulbasaur', shift:0}, {word:'Charmander', shift: 0}, {word:'Squirtle', shift: 0},
-                 {word:'Pueblo', shift: 1}, {word:'Ciudad', shift: 1}, {word:'Gimnasio', shift: 1}, {word:'Gimnasio', shift: 1}, 
-                 {word:'vuelve', shift: 1},
-                 {word:'Norte', shift: 1}, {word:'Sur', shift: 1}, {word:'Este', shift: 1}, {word:'Oeste', shift: 1},
-                 {word:'norte', shift: 1}, {word:'sur', shift: 1}, {word:'este', shift: 1}, {word:'oeste', shift: 1},
-                 {word:'tierra', shift: 1}, {word:'agua', shift: 1}, {word:'fuego', shift: 1}, {word:'eléctrico', shift: 1},
-                 {word:'hierba', shift: 1}, {word:'veneno', shift: 1}, {word:'volador', shift: 1}, {word:'bicho', shift: 1},
-                 {word:'roca', shift: 1}, {word:'fantasma', shift: 1}, {word:'dragón', shift: 1}, {word:'siniestro', shift: 1},
-                 {word:'derecha', shift: 1}, {word:'izquierda', shift: 1}, {word:'arriba', shift: 1}, {word:'abajo', shift: 1},
-                 {word:'tipo', shift: 1}, {word:'Tipo', shift:1}, {word:'Profesor', shift: 1}, {word:'Equipo', shift: 1}, {word:'Nivel', shift: 1}, {word:'Ataque', shift: 1}, {word:'nivel', shift: 1},
-                 {word:'Entrenador', shift: 1}, {word:'Pokémon', shift: 1}, {word:'zona', shift:1}, {word:'Bosque', shift: 0}, {word:'Cueva', shift: 0}];
-            prediction = replaceKeyWithPossibility(keywords);
-            document.querySelector('#content').innerHTML = prediction;
-        }).then(() => {
-            // animateText(document.querySelector('#content').textContent, 500, document.querySelector('#content'), () => {
-            //     document.querySelector('#content').innerHTML += '...';
-            // });
-            // document.querySelector('#content').innerHTML = '';
-            // animateTextCharByChar(prediction, 5, document.querySelector('#content'), () => {
-            //     document.querySelector('#content').innerHTML += '...';
-            // });
-            animateText(prediction, 100, document.querySelector('#content'));
-        })
-        .then(() => {
-        });
+        console.log('Replacing keywords with possibilities...');
+        prediction = replaceKeyWithPossibility(keywords, document.querySelector('#content').textContent, onOptionChange);
+        document.querySelector('#content').innerHTML = prediction;
+    }).then(() => {
+        // document.querySelector('#content').innerHTML = '';
+        // animateTextCharByChar(prediction, 5, document.querySelector('#content'), () => {
+        //     document.querySelector('#content').innerHTML += '...';
+        // });
+        animateText(prediction, 100, document.querySelector('#content'));
+    })
+    .then(() => {
+    });
 }
 
 function f() {
-    // console.log('Generating text...');
-    // if (!trained) {
-    //     loadCorpus();
-    //     setTimeout(gentext, 1000);
-    //     return;
-    // }
     prefix = `Ruta ${Math.random().toString()[2]} `;
 
     fetch(corpus).then(response => {
@@ -216,5 +211,50 @@ function trimLastSentence(text) {
     }
     return sentences.join('. ') + '.';
 }
+
+function removeUnsafeCharacters(text) {
+    // remove tabs and newlines
+    text = text.replace(/[\t]+/g, '\n');
+    // Remove any characters that are not letters, numbers, spaces, or basic punctuation
+    // return text.replace(/[^a-zA-Z0-9 .,!?;:()\-]/g, '');
+    return text;
+}
+
+
+function onOptionChange(e) {
+    const select = e.target;
+    const value = select.value;
+    const idxMatch = value.match(/words\[(\d+)\]/);
+    const textValue = select.options[select.selectedIndex].textContent;
+
+    const n = document.createElement("b");
+    n.textContent = "*" + textValue + "*"; 
+    select.replaceWith(n);
+
+    if (idxMatch) {
+        const nt = regenerateTextFromWord(idxMatch[1], document.querySelector('#content').textContent);
+        document.querySelector('#content').textContent = nt;
+    }
+}
+
+
+function regenerateTextFromWord(wordIdx, text) {
+    const words = text.split(' ');
+    const prevWords = words.slice(0, parseInt(wordIdx)+1).join(' ');
+    gentext(prevWords + ' ');
+}
+
+
+const keywords = [{word:'Pikachu', shift: 0}, {word:'Bulbasaur', shift:0}, {word:'Charmander', shift: 0}, {word:'Squirtle', shift: 0},
+    {word:'Pueblo', shift: 1}, {word:'Ciudad', shift: 1}, {word:'Gimnasio', shift: 1}, {word:'Gimnasio', shift: 1}, 
+    {word:'vuelve', shift: 1},
+    {word:'Norte', shift: 1}, {word:'Sur', shift: 1}, {word:'Este', shift: 1}, {word:'Oeste', shift: 1},
+    {word:'norte', shift: 1}, {word:'sur', shift: 1}, {word:'este', shift: 1}, {word:'oeste', shift: 1},
+    {word:'tierra', shift: 1}, {word:'agua', shift: 1}, {word:'fuego', shift: 1}, {word:'eléctrico', shift: 1},
+    {word:'hierba', shift: 1}, {word:'veneno', shift: 1}, {word:'volador', shift: 1}, {word:'bicho', shift: 1},
+    {word:'roca', shift: 1}, {word:'fantasma', shift: 1}, {word:'dragón', shift: 1}, {word:'siniestro', shift: 1},
+    {word:'derecha', shift: 1}, {word:'izquierda', shift: 1}, {word:'arriba', shift: 1}, {word:'abajo', shift: 1},
+    {word:'tipo', shift: 1}, {word:'Tipo', shift:1}, {word:'Profesor', shift: 1}, {word:'Equipo', shift: 1}, {word:'Nivel', shift: 1}, {word:'Ataque', shift: 1}, {word:'nivel', shift: 1},
+    {word:'Entrenador', shift: 1}, {word:'Pokémon', shift: 1}, {word:'zona', shift:1}, {word:'Bosque', shift: 0}, {word:'Cueva', shift: 0}];
 
 

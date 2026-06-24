@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html data-lt-installed="true"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="UTF-8">
+
+    <title>Xogo Mediado Por Texto</title>
+
+    <link rel="stylesheet" href="style.css" />
+
+    <script src="markov.js"></script>
+
+    <script src="generator.js"></script>
+
+</head>
+
+<body>
+    <div class="window">
+        <div class="title-bar">
+            <div class="title">pokemon-ir.txt</div>
+            <div class="close-button" onclick="window.close()"></div>
+        </div>
+        <div class="menu-bar">
+            <ul>
+                <li>Xogo</li>
+                <li>Mediado</li>
+                <li>Por</li>
+                <li>Texto</li>
+            </ul>
+        </div>
+        <div id="content"></div>
+    </div>
+
+    <div class="app-icon" onclick="openPoke()" >
+        <div class="app-label">poke.txt</div>
+    </div>
+
+    <script src="desktop.js"></script>
+
+    <script>
+        const menuButtons = document.querySelector('.menu-bar').querySelectorAll('li');
+        menuButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                freshGeneration();
+            });
+        });
+    </script>
+
+</body></html>
+
