@@ -1,0 +1,1162 @@
+       **********************************************
+        UFO: Enemy Unknown/XCom: Terran Defense Force
+        - FAQ (5/9/94)
+        *********************************************
+
+request for topics? comments? information?
+email william.kang@dscmail.com
+
+Also, acknowledgements (and my thanks) that may or may not be
+specified
+
+in the text go to Moebius, Jason Kapalka, and Said Kobeissi.
+
+Contents:
+
+I.  Intro to UFO/XCom
+ A. What is UFO?
+ B. Who makes UFO?
+ C. Where can I get UFO?
+ D. Requirements for UFO
+ E. Description of UFO
+ F. What about the bugs?
+ G. What about the copy protection?
+
+II. Playing the Game
+ A. Getting Started
+ B. Combat
+ C. Research
+ D. Psi
+ E. Misc
+
+III.Tables
+
+IV. Cracks
+
+    Note: Though there are spoilers, the "plot development" is not
+
+really mentioned. Just be careful what you read if you are into
+
+discovering every thing by yourself.
+___________________________________________________________
+
+I. Intro to UFO
+
+A. What is UFO: Enemy Unknown (UFO)?
+
+Note: Unless explicitly stated otherwise, all references to UFO
+(without
+
+quotes) also pertain to "XCom"
+
+UFO: ENEMY UNKNOWN is a fantastic game!  It is an engaging strategy
+game
+
+involving research, combat, and logistics. The year is 1999. Ufos are
+
+being sighted around the globe. You are the head of XCom -a
+world-wide
+
+organization funded by the governments of Earth and charged with the
+
+protectection of the Earth form the threat of alien invasion.
+
+
+B. Who makes UFO?
+
+The game is by a British company called Mythos Games Ltd. by a guy
+
+called Jullian Gollop (of Laser Squad fame) and is being distributed
+by
+
+Microprose. Mythos Games recently released another game, Starlord,
+
+previous to UFO, but reviews for that effort are less than
+enthusiastic.
+
+
+C. Where can I get UFO? (in the US)
+
+The release date for the US version of "UFO" - "XCom: Terrand Defense
+
+Force" is May 9th. So most any store should have a copy by now. There
+
+might also be a CD version that is larger than the disk-based game.
+
+There is a demo of "UFO" available somewhere on wuarchive.wustl.edu
+that
+
+includes some slides and a tactical battle scenario. Just make sure
+you
+
+unzip it with all the sub-directories intact. (pkunzip -d). There is
+
+also a demo of "XCom" that should be on wustl, somewhere.
+
+Computer Concepts in WA has imported copies of "UFO". They can be
+
+reached at (206) 481-3666. Including 2nd day air, will cost $60.
+Though
+
+with the US release, this information will soon be useless.
+
+2. So, how do so many people already have it?
+
+UFO has been available in stores in the UK (and other parts of
+Europe)
+
+for a month, so lots of people have been playing it for a while.
+
+
+
+D. What are the requirements for UFO?
+
+A 386 or better processor, 2MB RAM, VGA, 10 MB of HD space and a
+mouse.
+
+And a 3.5 drive. Plus 136k for each save game position. "UFO"
+supports
+
+GUS and SB for digital sound and Adlib/SB/Roland LAPC for music.
+Doesn't
+
+seem like GUS sound AND music really work. Copy Protection is a
+
+find-the-code- in-the-manual type. The very well done intro can be
+
+deleted to save about 2 megs of space. Batch files are included to
+run
+
+"UFO" with or without the intro.
+"XCom" might have better sound support, but the requirements should
+be
+
+the same.
+
+
+E. Can you describe the game before I go out and blindly order it?
+
+The year is 1999. Ufos are being sighted around the globe. You are
+the
+
+head of XCom - an world-wide organization funded by the governments
+of
+
+Earth and charged with the protectection of the Earth form the threat
+of
+
+alien invasion.
+
+You begin the game by placing your base on a very nicely done globe
+
+(Earth) and from there you  launch interception and retrieval
+missions,
+
+and build other bases around the world. You accomplish your mission
+by
+
+intercepting alien ships, recover alien artifacts, and research where
+
+the aliens are coming from and how to defeat them at the source.
+
+The game is divided into several parts: ufo tracking and
+interception,
+
+ground combat, research/manufacturing, and XCom logistics.
+
+
+When a ufo is detected, you can launch interceptors to shoot it down.
+
+The slickness of the interface is very reminiscent of  Syndicate;
+even
+
+the "whoop" of each mouse click is there. Once a ufo is on the ground
+
+(by its own volition or in a crash), your troop carrier can land and
+
+unload your operatives. The screen changes to a Syndicate/Ultima 8
+type
+
+view where turn-based combat takes place. Your task now is to
+neutralize
+
+the aliens while keeping your own casualties minimal.
+
+
+Equipping your soldiers with everything from pistols to flying armor,
+
+you deploy your men. The map is pretty large and random with the same
+
+patches of terrain/buildings/ships moved around. Terrain themes can
+
+range from arctic to desert to urban, with four levels in the
+vertical
+
+and an alien base/ship somewhere on the map ranging from a tiny 1 man
+
+pod to a multiple level battleship or base that covers the map.
+
+
+
+F. What about the bugs?
+
+There are two bugs in "UFO" that are pretty much being encountered by
+
+everyone. Does anyone know if these bugs are in "XCom"?
+
+1. The Y-Axis bug (and other graphics problems)
+
+Because of a corrupt alien base map file, the game will probably
+crash
+
+on you. An easy and temporary solution is to copy another file in
+your
+
+MAPS directory over the corrupt one. Just copy UBASE10.MAP over
+
+UBASE07.MAP. The corrupted graphics seen during combat may be from
+this
+
+source also.
+
+2. The Strength bug
+
+Due to what seems like a pretty common bug in games, having too high
+a
+
+strength attribute for a soldier will end up crippling him/her as if
+the
+
+strength rolls-over back to 0. This is noticable when you try to
+throw
+
+something, like a grenade. You get "Out of Range" messages. The
+solution
+
+for this are to not over-develop your characters until you can get
+the
+
+patch from Microprose.
+
+
+3. Other bugs
+
+Assorted bugs in the depiction of things on the tactical screen.(can
+be
+
+a problem, though it doesn't seem common, and the patch should fix
+it.)
+
+Soldiers will pass through the walls of the Avenger and drop instead
+of
+
+using the ramp. (very reproducible, no real effect on the game)
+
+Related to the above is the ability for soldiers to fall any distance
+
+and be okay. (kind of annoying, but easy to avoid if you want)
+
+A soldier can pass through UFO walls depending on how much of the UFO
+is
+
+still unknown. If the roof (second level) of a small UFO is still
+dark,
+
+then sending a soldier through a corner wall will put him through the
+
+wall and inside the UFO (a la The Flash). Only seems to work in
+corners
+
+though and on certain (medium?) UFOs. (no real problem)
+
+Inability to get to object screen of a controlled alien from tactical
+
+screen, but possible from a soldiers object screen and then clicking
+on
+
+the arrows. (no real effect on the game, actually, they should make
+the
+
+object screen accessible straight from the tactical screen)
+
+4. What do the patches do?
+
+The first patch consists of a bunch of .map files that go in the MAPS
+
+directory. This might fix the Y-axis bug.
+
+There is a second patch that is more official that updates the EXE to
+
+V1.2 and data files and it is over 600k long.
+
+You can find the second patch as:
+
+        wuarchive.wustl.edu pub/MSDOS_UPLOADS/patches/ufo1-2.zip
+
+Does anyone know of any other sites, as wuarchive is pretty busy?
+
+
+G. What about the annoying copy protection? (or Where can I get a
+crack
+
+for the game?)
+
+There is an uuencoded copy of cracks for both 1.0 and 1.2 at the end
+of
+
+the FAQ. At least until I get some idea of how people feel about
+
+attaching this stuff to FAQs.
+
+---
+~ CmpQwk #UNREG~ UNREGISTERED EVALUATION COPY
+
+Newsgroups: comp.sys.ibm.pc.games.strategic
+Subject: UFO FAQ 2/3
+From: william.kang@dscmail.com (William Kang)
+Path:
+hsf!uunet!MathWorks.Com!news.duke.edu!eff!usenet.ins.cwru.edu!news.ecn
+.bgu.edu!psuvax1!news.cc.swarthmore.edu!netnews.upenn.edu!nova.voicene
+t.com!dscmail!william.kang
+Distribution: world
+Message-ID: <1.18121.2547.0N27C95B@dscmail.com>
+Date: Wed, 11 May 94 00:15:00 -0640
+Organization: DSC/Voicenet * Ivyland, PA * (215) 443-9434
+Lines: 268
+
+______________________________________________________________
+
+II. Playing the Game
+
+A. Getting Started
+
+1. Where should I put my base?
+
+Since where your base is is going to determine how effectively you
+can
+
+intercept and investigate UFOs, you shouldn't just put your base
+
+anywhere. Here are a few things to consider. A base can cover an area
+
+somewhat larger than the United States or Europe.  Beyond that range,
+
+interception with fighters become chancey since the ufo can just
+wander
+
+outside of detection range.
+
+
+Second, a UFO that crashes on the ocean is a UFO that sinks into the
+
+ocean. Your troops don't have scuba gear, so try to leave as much of
+
+your effective interception range on land.
+
+Third, since you are funded by the nations of the world, think about
+how
+
+you can serve the most nations with the least number of bases until
+you
+
+can afford more bases.
+
+According to these factors, somewhere around Central Europe might be
+a
+
+nice place to set up shop. Hawaii would not be. Since you have enough
+
+money for several bases, secondary interceptor/ detection bases
+(bases
+
+with just a radar, or just radar, interceptors, and stores) might be
+set
+
+up in North America, Central/East Asia or Central Africa. Still, you
+
+could set up a base in the Falklands and still win.
+
+2. How can I get more money?
+Your original funding comes from the governments of the world. In
+order
+
+to maintain that funding after the review every month, you need be
+
+successful in ufo interception to keep the patron states happy.
+
+To supplement your funding (or actually overtake your funding), you
+
+should sell the artifacts that you get from your excursions into
+alien
+
+ships. For example, selling one Mind Probe nets you a cool 300 grand.
+
+Just selling these yields a lot over time, so money isn't usually a
+
+problem.
+
+
+Excess alien carcasses and weapons can also produce a steady stream
+of
+
+income. Since you will need the Elerium-115 you find,resort to
+selling
+
+this as a last resort. Other items should also not be considered
+excess
+
+so easily. It can be easy to run out of plasma weapon clips which
+
+require Elerium-155 to make. By not selling these, you also save
+
+Elerium-115 when you take these from your stock instead of
+manufacturing
+
+them.
+
+
+If you still can't get enough money, invest in some engineers and set
+to
+
+work making armors. Even if you have to make the alien alloy
+yourself,
+
+you will still come out ahead after figuring the costs for the
+engineers
+
+and manufacturing.
+
+
+B. Combat
+
+There seem to be two philosphies about combat (so far); using large
+
+squads deployed from one of a few transports, or small squads (1-2
+men)
+
+deployed from one of many transports stationed around the world.
+Since
+
+rookies are pretty useless by themselves, most games start with the
+
+large squads and then get smaller as the troops get more experienced.
+
+The differences in how some people play seems to be in how many
+troops
+
+they put on a transport and how they are stationed around the world
+(one
+
+big base, a couple main bases, or all large bases). Also, whether or
+not
+
+they use tanks.
+
+When you are just starting a game, a single hit will usually kill any
+
+one your troops, so having a tank as a point shield is a good way to
+
+keep your men alive. Still, you are bound to lose a man once in a
+while.
+
+If you are having trouble finding where an alien is even though the
+
+screen says "1" (i.e. a muton in a green field at night), click on
+the
+
+number to center the screen on that alien instead of scrolling all
+over
+
+the screen. (thanks to Said Kobeissi for pointing this out.)
+
+Since you can shoot between floors through an elevator, take the time
+to
+
+look in all directions before going up. If there is an alien close to
+
+the elevator square (1-2 spaces) on the floor above, you can usually
+hit
+
+him from a the very safe position.
+
+Take notice of which aliens have which weaknesses. For example, shoot
+
+the plasma weapons at the Cyberdisk, and send the Autocannon (HE) to
+
+take out some Sectoids instead.
+
+
+1. While fighting on the ground, I shot a rocket at an alien. It
+died.
+
+Bang. Mission over-- 4 aliens listed as killed. Thinking maybe I
+caught
+
+the rest (and didn't notice) in the blast.
+
+The other 3 aliens probably just died in the crash. You might be
+
+able to see corpses that you haven't killed. Or the corpses might
+have been destroyed (i.e. explosion)
+
+2. What is happening to all my plasma (or any) ammo?
+
+    An ammo clips are thrown away after a mission. Even ones that are
+
+still full. Unload as many guns (particularily the ones with
+expensive
+
+ammo) as you can before ending a mission. Or switch to laser weapons.
+
+3. How come I can't get my tank on a transport?
+
+A tank needs to be fully loaded before you can put it on a transport.
+If
+
+you don't have enough shells/rockets in your stores, you won't be
+able
+
+to take your tank along. A cannon tank takes 30 shells, and a rocket
+
+tank take 8 rockets. Use rocket tanks; they're more fun.
+
+
+C. Research
+
+1. What should I research?
+
+Well, just about everything and anything. Laser weapons are a good
+
+start. Then Laser Pistols.
+
+Interogating live aliens can reveal alien ship types or their plans.
+The
+
+information you get is usually related to the occupation of the
+alien;
+
+leaders have strategic info, engineers, technical and so on.
+
+Just don't research the same thing at two bases. They get treated as
+two
+
+separate efforts and once one base discovers something, the other
+base
+
+will continue researching that topic until you "discover" it again.
+Even
+
+if you deallocate all your scientists from the project, you will
+still
+
+have it on your list of presently being researched topics and you'll
+end
+
+up researching it if you're a perfectionist.
+
+These are the research trees to help you in figuring out an optimal
+
+research path. Btw, dead end research (stun bombs, medi-kits, etc) is
+
+not included. Also, when an item can be built because of a tech and
+is
+
+not pretty explicit in the tech name, the item is mentioned in
+
+parenthesis.
+
+
+  Laser Weapons      Heavy      Heavy         Plasma    Plasma
+
+       |             Plasma   Plasma Clip      Rifle   Rifle Clip
+  Laser Pistol          |___________|            |__________|
+       |                       |                       |
+  Laser Rifle                  |                       |
+       |                       |__________OR___________|
+  Heavy Laser                             |
+       |                                  |
+  Laser Cannon                      Plasma Cannon
+(Tank/Laser Cannon)               (Hovertank/Plasma)
+       |                                  |
+  Laser Defense                     Plasma Defense
+
+
+
+
+              Alien Alloys                   Blaster      Blaster
+                  |                          Launcher     Bombs
+Elerium 115  Personal Armor  UFO Power Source   |___________|
+    |_____________|_________________|                  |
+                  |                              Fusion Ball
+
+                  |                           Hovertank/Launcher)
+             Power Suit      UFO Navigation            |
+                  |_________________|         Fusion Ball Defense
+                           |
+                     Flying Suit
+
+
+
+Alien    Elerium        UFO            UFO
+Alloys      115     Power Source   Navigation
+ |___________|___________|______________|
+                   |
+                  UFO
+
+              Construction
+                   |
+
+                  New
+
+             Fighter Craft
+              (Firestorm)
+                   |
+                  New
+
+           Fighter-Transporter
+              (Lightning)
+         __________|____________
+         |                      |
+        Grav                 Ultimate
+       Shield                 Craft
+                             (Avenger)
+
+
+Interrogation Subjects
+
+Alien -------------- Alien Origins
+Alien Medic -------- species information
+
+Alien Leader ------- The Martian Solution
+Alien Commander ---- Cydonia or Bust
+Alien Navigator ---- Hyper-Wave Decoder
+Any Ethereal or
+
+Sectoid Leader ----- Psionic Laboratory
+
+                 ___________|____________
+                 |                       |
+
+           Mind Shield                 Psi-Amp
+
+
+2. Why the research is very slow sometimes? What can i do when it
+says
+
+"Poor" or "Unknown" on the items I'm researching?
+
+It just means how close you are. Some things are just harder to study
+
+than others. Add more scientists to speed things up.
+
+3. How do I research/interrogate aliens?
+
+First you need to capture aliens. Sometimes a shot from a weapon will
+
+only knock an alien unconcious instead of killing it. You can tell
+
+because an alien will scream when it dies. Otherwise, you have a live
+
+alien.
+
+Unless you have constructed alien containment facility (available
+from
+
+the start)at the base where your transport is stationed, the alien
+will
+
+die. To interrogate, just select the appropriate topic under "New
+
+Projects" in Research.
+
+
+D. Psi
+
+1. When can I get Psi-ability?
+
+Start by capturing a sectoid leader or any ethereal. Then
+interrogation
+
+should yielf the necessary tech to build Psi-Amps and Psi Labs. Train
+
+your troops in Psi labs, and arm them with Psi-Amps.
+
+2. How do I keep my men/women from being taken over, mentally, by
+those
+
+cloaked aliens? AND, once one IS cloaked how do I fix him so I can
+bring
+
+him out alive, rather than losing him (MIA) in action?
+
+Until the aliens can see you, they won't try to control you. So when
+you
+
+attack and they see you, you need to take them out very quickly.
+Since
+
+tanks are immune to psionics, use those to clear out the aliens
+outside
+
+and near doorways/hull breeches and in buildings. Then storm each
+area.
+
+Alien control wears off after one turn so don't write off your
+soldiers
+
+when they are taken over. Especiallly if it is near the end of a
+battle.
+
+Until you can build up some psi ability, the only other things you
+can
+
+do is to be sure your troops are brave enough to withstand panic
+
+attacks. (Assuming that psi strength confers any resistance.)
+
+3. How does Psi ability work for my own troops?
+
+Once you develop the psionic laboratory, you can train your troops in
+
+psi ability, allocating them for training at the end of each month.
+Each
+
+soldier will have two numbers; a fixed innante psi strength, and an
+
+adjustable psi ability. The psi ability number is used when you make
+an
+
+attack, so don't give the Psi-Amp to guy with no training, even if he
+
+does have a latent psi of 100.
+
+A soldier equipped with a Psi-Amp (and Psi ability) can make a
+psionic
+
+attack during combat; either Panic or Mind Control. The procedure is
+the
+
+same as firing a weapon, except that no line-of-fire is needed.
+
+If the attack is successful, an alien in panic will essentially be
+
+paralyzed or run away from fear. If they are holding a primed
+grenade,
+
+this can be pretty nice when it blows up in their face. A controlled
+
+alien can be moved around as one of your own troops,but the object
+
+screen can not be directly accessed. But...
+
+....you can access alien inventory through your guys
+inventory In
+
+ver 1.2. Click on your guys inventory and         then scan through
+the
+
+characters. Funny enough, there is         a very human looking alien
+
+carrying not much at all.         ...[It] is a handy little feature
+
+especilly for dearming         and for reloading leader stun guns.
+
+        --Moebius (Steve XCom GEneral)
+
+
+---
+~ CmpQwk #UNREG~ UNREGISTERED EVALUATION COPY
+
+Newsgroups: comp.sys.ibm.pc.games.strategic
+Subject: UFO FAQ 3/3
+From: william.kang@dscmail.com (William Kang)
+Path:
+hsf!uunet!cs.utexas.edu!howland.reston.ans.net!news.cac.psu.edu!news.p
+op.psu.edu!psuvax1!news.cc.swarthmore.edu!netnews.upenn.edu!nova.voice
+net.com!dscmail!william.kang
+Distribution: world
+Message-ID: <1.18122.2547.0N27C95C@dscmail.com>
+Date: Wed, 11 May 94 00:16:00 -0640
+Organization: DSC/Voicenet * Ivyland, PA * (215) 443-9434
+Lines: 308
+
+
+E. Misc
+
+1. What is Elerium-115?
+
+Elerium 115 has the unusual property of generating anti-matter power
+
+when bombarded with certain particles. This creates gravity waves and
+
+other forms of energy. It is not naturally found in our solar system
+and
+
+cannot be reproduced.
+
+As your research will tell you, it is the alien power source and is
+used
+
+in many of their items. Since it is not found on Earth and it can not
+be
+
+manufactured, it can only be retrieved from alien ships/bases. At
+first,
+
+you may have so much of the stuff that you are tempted to sell it,
+but
+
+once you start manufacturing your own exotics, Elerium-115 will
+usually
+
+be the limiting factor (partially because almost everything else can
+be
+
+manufactured). But then again, you might have tons of the stuff. At
+
+least make some power armor and sell it as that while making a
+profit.
+
+2. How can I get more UFOs intact instead of crashed?
+
+     A crashed ufo will almost never have an intact power source. A
+lot
+
+of other components will have been destroyed in the crash as well. So
+
+even though an intact ufo might be harder to take control of, you get
+a
+
+lot more artifacts to use or sell off. The ufo will go to ground
+level
+
+of their own accord, but waiting for that to happen and then sending
+a
+
+landing party and watching the ufo fly off can be pretty fustrating.
+
+Instead, intercept the ufo with a transport (the faster the
+transport,
+
+the better), and when you intercept, stay at Standoff distance and
+then
+
+minimize the window. Then your transport will follow the ufo until it
+
+lands (if it lands).
+
+
+     There is one player who plays this way as much as possible with
+
+Avengers stationed all over the world and he has done pretty well
+with
+
+this strategy (in terms of intercepting UFOs).
+
+3. India has just signed a pact with the aliens! What can I do?
+Two things you can try: look for (patrol) and destroy a base in the
+
+local area, or if you can't find one, just be really successful in
+
+intercepting ufos. A country can still restart funding XCom and break
+a
+
+pact after they signing on with aliens.
+
+______________________________________________________________
+
+III. Tables
+        A. BASE FACILITIES
+                  Days to
+                   Build   Cost  Maintainence/Description
+________________________________________________________________
+Access Lift          1     300k     4k Elevator to base
+Living Quarters     16     400k    10k Holds 50 personnel
+Laboratory          26     750k    30k Holds 50 lab spaces
+Workshop            32     800k    35k Holds 50 manufacturing spaces
+Small Radar         12     500k    10k 5% detect/10 mins, 300nm range
+Large Radar         25     800k    15k 5% detect/10 mins, 450nm range
+General Stores      10     150k     5k Holds 50 units of stores
+Alien Containment   18     500k    15k Holds 10 aliens for
+interrogation
+Missile Defense     16     300k     5k Defense 500, 50% accuracy
+Laser Defense       24     900k    10k Defense 600, 60% accuracy
+Plasma Defense      34    1200k    12k Defense 900, 70% accuracy
+Fusion Ball Defense 34    1800k    14k Defense 1200, 80% accuracy
+Grav Shield         38    2300k    15k Doubles base defenses
+Mind Shield         33    1300k     5k Conceals base from alien
+attack
+Psi Lab             24     750k    16k Psi training room for troops
+Hyperwave Decoder   26    2000k    30k Translates alien mission
+orders
+Hangar              25     200k    25k Holds 1 plane
+
+
+        B. AIRCRAFT
+
+          Max Speed  Accel  Fuel Weapons Hull  Cargo  Description
+_________________________________________________________________
+______
+Skyranger    760 kph   2    2000    0     150    14   Transport
+Interceptor 2100       3    1000    2     100     0   Fighter
+Firestorm   4200       9     20*    2     500     0   Updated Fighter
+Lightning   3100       8     30*    1     800    12   Updated
+Transport
+Avenger     5400      10     60*    2    1200    26   Air/Space
+Fighter/
+
+Transport
+    * Uses Elerium 115 as fuel.
+
+
+        C. AIRCRAFT WEAPONS
+
+              Damage    Range      Hit %   Reload
+_____________________________________________________
+Cannon          10       10 nm      10 %     2 sec
+Stingray        70       30         70      15
+Avalanche      100       60        100      20
+Laser Cannon    70       21         70       4
+Plasma Beam    140       52        140       6
+
+-----------------------------------------------------------------
+
+
+        D. PERSONNAL WEAPONS
+
+                Auto    Snap    Aimed   Clip    Dam
+
+_________________________________________________________________
+Pistol                  60/18   78/30    12     26
+Rifle           35/35   60/25   110/80   30     30
+Heavy Cannon            60/33   90/80    14     56/52/60 (AP/HE/I)
+Auto Cannon     32/40   56/33   82/80    14     42/44/48
+Rocket Launcher         55/45   115/75    1     75/100/90
+Laser Pistol    28/25   40/20   68/55     -     46
+Laser Rifle     46/34   65/25   100/50    -     60
+Heavy Laser             50/33   84/75     -     85
+Plasma Pistol   50/30   65/30   85/60    35     52
+Plasma Rifle    55/36   86/30   100/60   35     80
+Heavy Plasma    50/35   75/30   110/60   35     115
+Small Launcher                            1     90 (stun)
+Blaster Launcher                          1     200
+
+Grenade                                         50
+Smoke Grenade                                   60
+Proximity Grenade                               70
+Alien Grenade                                   90
+High Explosives                                 110
+
+
+
+        E. ITEMS
+
+              Engineer-     Workshop
+                Hours  Cost   Space  Elerium Alloy Sell Space Type
+_________________________________________________________________
+
+
+  PERSONAL WEAPONS
+
+Laser Pistol      300    8k     2      -       -    20k       Weapon
+Laser Rifle       400   20k     3      -       -    37k       Weapon
+Heavy Laser       700   32k     4      -       -    61k       Weapon
+Plasma Pistol     600   56k     3      -       1    84k       Weapon
+Plasma Pistol Clip 60    2k     4      1       -     4k       Ammo
+Plasma Rifle      820   88k     4      -       1   127k       Weapon
+Plasma Rifle Clip  80    3k     4      2       -     6k       Ammo
+Heavy Plasma     1000  122k     4      -       1   172k       Weapon
+Heavy Plasma Clip  80    6k     4      3       -    10k       Ammo
+Alien Grenade     200  6.7k     2      2       -    15k       Weapon
+Small Launcher    900   78k     3      -       1   120k       Weapon
+Stun Bomb         200    7k     2      1       -    15k       Ammo
+Blaster Launcher 1200   90k     5      -       1   144k       Weapon
+Blaster Bomb      220    8k     3      3       -    17k       Ammo
+
+  EQUIPMENT
+Motion Scanner    220   34k     4      -       -   456k
+Equipment
+Medikit           420   28k     4      -       -   465k
+Equipment
+
+Mind Probe       1200  262k     4      1       -   334k
+Equipment
+
+  PERSONAL ARMOR
+Personal Armour   800   22k    12      -       4   140k       Per.
+Armor
+Power Suit       1000   42k    16      5       5   310k       Per.
+Armor
+Flying Suit      1400   58k    16     16       5   420k       Per.
+Armor
+
+  AIRCRAFT/WEAPONS
+Firestorm       14000  400k    30      -      65     0
+
+Lightning       18000  600k    34      -      85     0
+Avenger         34000  900k    36      -     170     0
+Laser Cannon      300  182k     6      -       -   211k
+Plasma Beam       500  226k     8     15       -   267k
+Fusion Ball Launch400  242k     6      -       -   281k
+Fusion Ball       600   28k     6      4       -    53k
+
+
+  TANKS/WEAPONS
+Tank/Laser       1200  500k    25      -       -   594k
+Hovertank/Plasma 1200  850k    30     30       5   980k
+Hovertank/Launcher1400 900k    30     25       8  1043k
+
+  UFO COMPONENTS
+Alien Alloys      100    3k    10      -       -     6k   .1  UFO
+Comp.
+UFO Power Source 1400  130k    22     16       5   250k   .6  UFO
+Comp.
+UFO Navigation   1600  150k    18      -       3    80k       UFO
+Comp.
+
+  ALIEN ARTIFACTS
+Examination Room    -    -      -      -       -     9k
+Artifact
+Alien Entertainment -    -      -      -       -    20k   .2
+Artifact
+Alien Surgery       -    -      -      -       -    38k
+Artifact
+Alien Food          -    -      -      -       -
+Artifact
+Alien Corpse        -    -      -      -       -    20k
+Artifact
+Elerium 115         -    -      -      -       -     5k   .1
+
+
+  EARTH TECHNOLOGY   Price   Sell/Sack (Usually .75 of Purchase
+Price)
+Scientist              60k        0
+Engineer               50k        0
+Soldier                40k        0
+Skyranger             500k        0
+
+Interceptor           600k        0
+Stingray Launcher      16k       12k
+Stingray Missile        3k     2,400
+Avalanche Launcher     17k    12,750
+Avalanche Missile       9k     7,200
+Cannon                 30k    22,500
+Cannon Rounds (x50)  1,240     1,012
+Tank/Cannon           420k      340k
+HWP Cannon Shells      200       100
+Tank/Rocket Launcher  480k      360k
+HWP Rockets          3,000     2,250
+Pistol                 800       600
+Pistol Clip             70        52
+Rifle                3,000     2,250
+Rifle Clip             200       150
+Heavy Cannon         6,400     4,800
+Heavy Cannon/AP Ammo   300       225
+Heavy Cannon/HE Ammo   500       275
+Heavy Cannon/I Ammo    400       300
+Auto Cannon          13.5k    10,125
+Auto Cannon/AP Ammo    500       400
+Auto Cannon/HE Ammo    700       560
+Auto Cannon/I Ammo     650       520
+Rocket Launcher      4,000     3,000
+Small Rocket           600       480
+Large Rocket           900       720
+Incendiary Rocket    1,200       900
+Grenade                300       240
+Smoke Grenade          150       120
+Proximity Grenade      500       400
+High Explosives      1,500     1,200
+Stun Rod             1,260       945
+Electro Flare           60        40
+
+
+MISC DESCRIPTIONS
+
+Electro Flare   A light source on night missions. Can be picked up
+and
+                reused.
+Motion Scanner  Detects movement in a 8 space radius.
+Medikit         Used to heals wounds, revive, and boost morale.
+Mind Probe      Probes an alien for their characteristics.
+Stun Rod        When used aginast one standing next to you, can knock
+                an alien out.
+Psi Amp         Used to focus a soldiers psi ability as an attack
+Alien Alloys    Used in many manufacturing processes.
+Elerium 115     Must be scavanged. Used as a power source in many
+items.
+------------------------------------------------------------------
+
+
+
+ IV. Cracks
+
+For 1.0. Well, right here. (It works now)
+
+begin 644 crack.com
+MZP`.'[0)ND("S2&^A@/H'`"`/H(#`'0)M`FZZP+-(>L'M`FZS#+-(;#`3,TA
+M##=&OSX#K*H*P'0"Z_#SR8H,1E'H%0!S`^G,`.@C`',#Z=,`Z+H`6>+I^,-0
+M4K`"M#VZ/#/-(7(%B]A:6,-:6/G#4%-14@97BPZ$`[JY`[0_S2&CA`-S`^E^
+M``O`=&$.![^Y`XL.A`-3BAR('H,#1HH$1O*N=`<SR5M.3NO*45=6,\F*#H,#
+M_LGSIEY?670"Z^$SP*"#`T##\%LSR4^*#$;SI#/)BQ:$`_?:2;#!0LTAM$"+
+M#H0#NKD#S2%R&^L,Q#:"`_]?!UI96UC#Q@:"`P!?!UI96UCXPU\'6EE;6/G#
+M4+0^S2%8PUFT";H0`\TAQ#:"`__YPUFT";H0`\TAQ#:"`__YPUFT";H0`\TA
+MQ@:"`__YPRTM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM#0H#("`#4B!!(%H#
+M3R!2("`#,2`Y(#$#,2`@(`T*+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2TM+2T-
+M"B`@("!5+D8N3RX#+2!#<F%C:R!0871H("`##0H#($-R86-K960@8GDZ(%=/
+M3%9%4FE.10T*#0HD1FEL92!3=6-C97-S9G5L;'D@4&%T8VAE9"$-"B1&:6QE
+M(%=A<R!.3U0@4W5C8V5S<V9U;&QY(%!A=&-H960A#0HD06X#17)R;W(#2&%S
+M($]C8W5R960@071T96UP=&EN9R!T;R!0871C:"!&:6QE(```````````````
+M````````````````````````````````````````````````````````````
+M````````````#0HD````8`%'14]30T%012Y%6$4``@J#^S!\%(/[.7\/"I"0
+6D)"0D)"0D)`*=`(QR4)&.>IT"@'K_P``
+`
+end
+
+begin 644 ufo12crk.com
+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
+GV8S(CL"+\ORP+S/)OX$`BDW_\JYU#%%75HO+\Z9>7UEU\%]>!Q_#
+`
+end
+--------------------------------------------------------------
+End of FAQ
+request for topics? comments?
+email william.kang@dscmail.com
+
+---
+~ CmpQwk #UNREG~ UNREGISTERED EVALUATION COPY
