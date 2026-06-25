@@ -74,10 +74,19 @@ body {
     border-radius: 20%;
     margin-right: 5px;
     border: 1px solid transparent;
+    color: brown;
+}   
+.window .title-bar .close-button span {
+    text-align: center;
+    font-size: 14px;
+    line-height: 10px;
+    vertical-align: super;
 }
+
 .window .title-bar .close-button:hover {
     background-color: coral;
     border: 1px solid bisque;
+    color: bisque;
 }
 
 .window .menu-bar {
